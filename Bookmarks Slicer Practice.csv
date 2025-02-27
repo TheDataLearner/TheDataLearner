@@ -1,0 +1,501 @@
+Employee ID,Employee Name,Cost Center,Company Code,Transaction Date,Payment Date,Payment Thru,Expense Type,Amount
+E1027,Cynthia Newton,Operations,C104,06-06-2024,04-08-2023,Cash,Travel,90113
+E1026,Brian Barker,Finance,C101,12-11-2023,27-05-2024,Credit Card,Office Supplies,10022
+E1042,Sara Deleon,HR,C103,13-11-2024,26-06-2023,Cash,Entertainment,40888
+E1040,Donna Torres,HR,C102,27-08-2023,12-10-2024,Bank Transfer,Office Supplies,66349
+E1018,Russell Day,HR,C102,20-03-2024,10-02-2024,Cash,Entertainment,33070
+E1029,Jennifer Johnson,HR,C103,14-02-2024,13-02-2025,Cash,Office Supplies,32032
+E1048,Edwin Ortiz,Sales,C104,02-02-2024,13-02-2025,Credit Card,Training,92708
+E1040,Donna Torres,Finance,C104,05-11-2023,15-07-2024,Credit Card,Accommodation,21559
+E1030,Nancy Bowman,Finance,C101,23-11-2023,02-03-2023,Bank Transfer,Office Supplies,84710
+E1024,Jared Farrell,HR,C101,13-01-2025,22-03-2023,Credit Card,Meals,44520
+E1007,Robert Riley,IT,C104,04-12-2024,12-07-2023,Cash,Office Supplies,32554
+E1017,Timothy Smith,Finance,C104,02-02-2025,13-05-2023,Credit Card,Software,87465
+E1024,Jared Farrell,Operations,C104,05-05-2023,05-11-2023,Bank Transfer,Travel,39187
+E1049,Johnny Young,Sales,C103,04-10-2024,10-01-2024,Cash,Training,54506
+E1007,Robert Riley,Marketing,C103,05-07-2024,09-03-2024,Cash,Software,93055
+E1029,Jennifer Johnson,Finance,C104,02-12-2024,12-08-2023,Bank Transfer,Office Supplies,55394
+E1033,Kathryn Watson,Sales,C102,19-11-2024,22-09-2023,Cash,Software,57203
+E1003,Brenda Long,Sales,C103,18-08-2023,27-08-2023,Credit Card,Entertainment,67512
+E1024,Jared Farrell,Operations,C102,04-12-2023,28-03-2023,Credit Card,Software,62559
+E1049,Johnny Young,Operations,C102,21-12-2023,28-07-2023,Credit Card,Software,53446
+E1037,Keith Stewart,HR,C103,30-06-2024,19-01-2024,Cash,Office Supplies,91570
+E1046,Daniel Schmidt,Sales,C102,04-03-2023,04-09-2024,Credit Card,Entertainment,97303
+E1015,Emily Mercer,Sales,C102,09-01-2025,21-11-2023,Cash,Accommodation,46184
+E1027,Cynthia Newton,Operations,C103,20-10-2023,18-01-2024,Bank Transfer,Travel,17965
+E1002,Gloria Browning,Sales,C102,22-10-2023,14-12-2024,Bank Transfer,Office Supplies,55082
+E1010,Troy Gibson,Finance,C102,15-07-2024,17-10-2023,Credit Card,Software,82193
+E1002,Gloria Browning,Finance,C104,24-07-2024,13-11-2024,Cash,Training,24439
+E1042,Sara Deleon,Sales,C102,26-02-2024,12-08-2023,Cash,Accommodation,88493
+E1004,Madison Sandoval,Marketing,C103,09-04-2024,08-10-2023,Credit Card,Software,22820
+E1036,Chloe Kirby,Sales,C102,09-06-2023,27-08-2024,Credit Card,Accommodation,50607
+E1024,Jared Farrell,Sales,C103,15-04-2023,05-12-2023,Credit Card,Training,81014
+E1040,Donna Torres,Sales,C101,26-04-2023,16-04-2023,Credit Card,Training,84567
+E1003,Brenda Long,Operations,C103,12-05-2023,20-02-2024,Cash,Travel,77057
+E1046,Daniel Schmidt,IT,C101,19-09-2023,21-08-2023,Credit Card,Training,93333
+E1047,Kimberly Allen,IT,C101,17-10-2023,24-03-2023,Bank Transfer,Training,53719
+E1045,Julie Evans,IT,C103,04-09-2023,26-11-2024,Cash,Training,37762
+E1025,Tracey Mitchell,IT,C102,27-04-2024,20-10-2023,Cash,Training,41103
+E1003,Brenda Long,Operations,C104,15-09-2023,16-01-2025,Bank Transfer,Office Supplies,93767
+E1020,Cameron Olson,Operations,C104,01-04-2024,07-05-2023,Bank Transfer,Travel,37247
+E1037,Keith Stewart,Sales,C101,03-06-2024,28-10-2023,Bank Transfer,Software,21754
+E1019,Matthew Gonzalez,Sales,C102,13-08-2024,01-01-2024,Bank Transfer,Travel,33691
+E1001,Christopher King,Sales,C104,23-09-2023,28-09-2024,Credit Card,Travel,45612
+E1046,Daniel Schmidt,IT,C104,17-11-2024,24-04-2023,Bank Transfer,Software,94602
+E1028,Richard Benitez,Finance,C102,22-01-2024,24-06-2023,Cash,Accommodation,79413
+E1016,Brad Compton,IT,C101,15-08-2023,15-04-2023,Cash,Training,84792
+E1029,Jennifer Johnson,Finance,C102,29-03-2023,25-05-2024,Credit Card,Software,83697
+E1015,Emily Mercer,Sales,C103,26-07-2024,12-12-2023,Cash,Travel,96881
+E1024,Jared Farrell,HR,C101,06-07-2023,15-11-2024,Credit Card,Training,84591
+E1042,Sara Deleon,Operations,C102,09-11-2024,15-12-2024,Cash,Accommodation,54170
+E1005,Sean Reeves,Marketing,C104,20-04-2023,12-03-2024,Bank Transfer,Training,82316
+E1015,Emily Mercer,Operations,C104,07-01-2024,04-01-2024,Cash,Training,62474
+E1033,Kathryn Watson,Sales,C104,07-06-2024,15-01-2024,Cash,Accommodation,61258
+E1002,Gloria Browning,IT,C103,20-10-2023,18-02-2023,Cash,Software,45454
+E1035,Melissa Schaefer,Sales,C103,10-02-2024,23-08-2024,Credit Card,Entertainment,85293
+E1044,Julie Lewis,IT,C104,06-06-2024,14-08-2023,Cash,Software,23674
+E1022,Kaitlin Brown,Finance,C104,20-01-2024,02-02-2024,Bank Transfer,Software,75742
+E1013,Lauren Edwards,HR,C104,13-03-2024,20-07-2023,Cash,Accommodation,92580
+E1008,Daniel Edwards,HR,C104,03-05-2023,11-11-2023,Bank Transfer,Entertainment,59612
+E1034,Danny Graham,HR,C101,29-12-2023,30-10-2023,Bank Transfer,Training,66806
+E1037,Keith Stewart,Finance,C101,27-06-2023,10-04-2023,Bank Transfer,Software,51975
+E1035,Melissa Schaefer,Finance,C101,31-01-2024,11-07-2024,Cash,Software,33437
+E1009,Rachel Johnson,HR,C103,20-06-2024,25-02-2023,Credit Card,Accommodation,18031
+E1010,Troy Gibson,Operations,C101,02-10-2024,08-03-2023,Bank Transfer,Accommodation,30751
+E1042,Sara Deleon,Sales,C104,23-12-2023,01-02-2025,Cash,Training,26269
+E1014,Heather Rose,Operations,C104,08-02-2025,01-12-2024,Credit Card,Travel,87741
+E1028,Richard Benitez,Marketing,C102,10-01-2024,23-02-2024,Bank Transfer,Meals,90891
+E1028,Richard Benitez,Operations,C104,13-11-2023,26-12-2023,Credit Card,Entertainment,85937
+E1039,Erin Ray,Sales,C102,03-09-2024,01-06-2023,Bank Transfer,Meals,25560
+E1047,Kimberly Allen,Finance,C104,19-09-2024,14-09-2024,Cash,Travel,48630
+E1040,Donna Torres,Sales,C104,16-12-2023,17-11-2023,Credit Card,Meals,35392
+E1046,Daniel Schmidt,IT,C101,27-03-2023,27-11-2023,Bank Transfer,Software,61290
+E1034,Danny Graham,IT,C101,27-01-2025,05-02-2025,Credit Card,Meals,44311
+E1013,Lauren Edwards,HR,C101,22-12-2024,26-11-2023,Cash,Meals,42904
+E1021,Brandy Garcia,Operations,C101,20-07-2023,08-12-2023,Credit Card,Entertainment,23755
+E1048,Edwin Ortiz,HR,C101,19-01-2024,02-12-2023,Cash,Training,46080
+E1034,Danny Graham,Marketing,C101,09-02-2025,20-07-2024,Credit Card,Travel,73708
+E1021,Brandy Garcia,Marketing,C101,04-06-2024,05-06-2024,Cash,Entertainment,57965
+E1004,Madison Sandoval,Operations,C103,18-11-2023,05-05-2024,Cash,Accommodation,67676
+E1049,Johnny Young,Sales,C103,17-01-2025,12-10-2024,Credit Card,Meals,79078
+E1045,Julie Evans,HR,C103,12-07-2024,12-09-2023,Credit Card,Training,21970
+E1015,Emily Mercer,HR,C104,24-08-2023,01-05-2023,Bank Transfer,Travel,67551
+E1042,Sara Deleon,IT,C102,05-11-2024,20-04-2023,Credit Card,Accommodation,45352
+E1042,Sara Deleon,Finance,C102,28-05-2023,09-11-2023,Credit Card,Training,23207
+E1045,Julie Evans,Sales,C102,14-03-2023,02-06-2023,Bank Transfer,Software,38471
+E1041,Jose Jackson,Operations,C101,29-11-2024,08-07-2023,Bank Transfer,Entertainment,71257
+E1014,Heather Rose,Marketing,C101,10-04-2024,13-02-2024,Cash,Training,76253
+E1048,Edwin Ortiz,Marketing,C104,13-01-2025,30-07-2023,Cash,Office Supplies,83016
+E1023,Charles Saunders,Marketing,C103,23-01-2024,21-04-2023,Bank Transfer,Accommodation,47045
+E1046,Daniel Schmidt,HR,C103,27-02-2024,30-11-2024,Cash,Software,80533
+E1012,Karen Davis,HR,C102,26-05-2023,02-12-2023,Credit Card,Software,15782
+E1012,Karen Davis,Sales,C103,19-10-2023,30-09-2023,Credit Card,Entertainment,79259
+E1034,Danny Graham,Marketing,C101,14-08-2023,24-04-2024,Cash,Software,32764
+E1006,Scott Smith,IT,C104,18-04-2023,08-02-2025,Cash,Travel,91230
+E1048,Edwin Ortiz,Sales,C102,08-10-2023,11-11-2024,Cash,Training,12101
+E1024,Jared Farrell,Operations,C104,05-11-2023,25-06-2024,Credit Card,Office Supplies,69267
+E1002,Gloria Browning,Finance,C104,18-12-2024,28-07-2024,Credit Card,Meals,66858
+E1031,Fernando Brown,Operations,C101,23-02-2024,24-10-2024,Credit Card,Travel,44984
+E1025,Tracey Mitchell,Marketing,C101,28-03-2024,21-10-2023,Cash,Travel,76390
+E1018,Russell Day,HR,C101,08-04-2024,02-01-2024,Cash,Entertainment,94548
+E1028,Richard Benitez,Marketing,C104,24-05-2023,22-06-2024,Credit Card,Software,67112
+E1030,Nancy Bowman,Finance,C102,12-12-2024,05-01-2025,Cash,Training,66897
+E1047,Kimberly Allen,Operations,C102,12-08-2023,29-04-2024,Bank Transfer,Accommodation,70233
+E1033,Kathryn Watson,Finance,C104,22-01-2024,25-01-2024,Credit Card,Entertainment,67101
+E1012,Karen Davis,Marketing,C104,28-07-2024,29-12-2024,Credit Card,Software,60390
+E1030,Nancy Bowman,Operations,C101,07-09-2023,20-02-2023,Bank Transfer,Meals,56507
+E1027,Cynthia Newton,HR,C103,11-01-2025,10-07-2023,Cash,Accommodation,16108
+E1030,Nancy Bowman,Operations,C103,13-06-2024,17-10-2024,Cash,Training,95765
+E1049,Johnny Young,HR,C104,04-06-2023,12-06-2023,Bank Transfer,Meals,16454
+E1028,Richard Benitez,Sales,C102,18-09-2023,28-12-2023,Cash,Travel,65418
+E1039,Erin Ray,IT,C103,14-01-2024,14-06-2023,Credit Card,Meals,58454
+E1029,Jennifer Johnson,Marketing,C103,13-01-2024,25-05-2024,Cash,Travel,82948
+E1046,Daniel Schmidt,Operations,C104,17-08-2024,23-04-2024,Cash,Training,36379
+E1002,Gloria Browning,Finance,C103,06-07-2023,15-06-2024,Cash,Entertainment,63957
+E1032,Mary Sanchez,Marketing,C101,18-07-2023,29-04-2023,Bank Transfer,Software,12551
+E1048,Edwin Ortiz,IT,C104,29-11-2024,07-02-2024,Credit Card,Meals,96950
+E1019,Matthew Gonzalez,HR,C102,16-05-2024,05-09-2024,Bank Transfer,Training,50851
+E1044,Julie Lewis,Marketing,C101,20-04-2024,08-08-2023,Credit Card,Office Supplies,36056
+E1012,Karen Davis,HR,C102,07-06-2023,15-12-2024,Cash,Travel,65464
+E1023,Charles Saunders,Operations,C101,20-09-2024,23-07-2023,Credit Card,Entertainment,67702
+E1041,Jose Jackson,Operations,C102,09-12-2024,08-04-2024,Bank Transfer,Software,50115
+E1019,Matthew Gonzalez,Marketing,C104,22-01-2024,03-05-2023,Cash,Training,37514
+E1040,Donna Torres,Finance,C102,15-03-2024,21-03-2023,Credit Card,Software,53103
+E1044,Julie Lewis,Finance,C103,08-04-2023,10-02-2024,Credit Card,Software,81707
+E1031,Fernando Brown,Sales,C104,26-06-2024,27-09-2024,Credit Card,Software,75205
+E1010,Troy Gibson,Operations,C101,29-01-2024,28-02-2024,Cash,Entertainment,45126
+E1045,Julie Evans,Sales,C101,31-03-2023,08-06-2024,Bank Transfer,Accommodation,18251
+E1026,Brian Barker,IT,C103,19-04-2024,21-08-2024,Bank Transfer,Travel,89103
+E1032,Mary Sanchez,HR,C101,03-06-2023,16-06-2024,Cash,Entertainment,83576
+E1020,Cameron Olson,HR,C102,30-11-2024,02-05-2023,Bank Transfer,Software,20055
+E1039,Erin Ray,Operations,C101,05-06-2024,22-09-2023,Cash,Software,97424
+E1037,Keith Stewart,Operations,C102,28-04-2023,05-05-2024,Bank Transfer,Meals,96465
+E1008,Daniel Edwards,HR,C101,23-10-2024,20-04-2023,Bank Transfer,Training,23468
+E1035,Melissa Schaefer,Sales,C103,31-03-2024,29-05-2024,Credit Card,Meals,69192
+E1001,Christopher King,IT,C103,04-11-2023,25-02-2024,Bank Transfer,Meals,73689
+E1011,Cynthia Russell,Operations,C102,18-03-2024,18-03-2023,Cash,Accommodation,49007
+E1042,Sara Deleon,HR,C103,20-09-2024,06-05-2023,Credit Card,Meals,63051
+E1019,Matthew Gonzalez,Finance,C101,05-02-2025,10-12-2023,Bank Transfer,Accommodation,64055
+E1011,Cynthia Russell,Marketing,C104,01-02-2025,14-04-2024,Credit Card,Entertainment,72304
+E1043,Samuel Strickland,IT,C102,22-12-2023,01-09-2024,Credit Card,Entertainment,60307
+E1024,Jared Farrell,Finance,C101,28-12-2023,27-06-2024,Bank Transfer,Accommodation,58032
+E1034,Danny Graham,IT,C101,17-01-2024,19-07-2024,Cash,Accommodation,71342
+E1049,Johnny Young,IT,C104,15-06-2023,28-12-2024,Cash,Entertainment,38308
+E1013,Lauren Edwards,Finance,C101,09-11-2024,01-12-2024,Bank Transfer,Entertainment,31931
+E1016,Brad Compton,Operations,C104,25-12-2024,24-09-2024,Bank Transfer,Training,23970
+E1028,Richard Benitez,HR,C104,04-06-2023,19-07-2024,Credit Card,Office Supplies,74416
+E1046,Daniel Schmidt,Operations,C104,03-06-2023,09-09-2024,Bank Transfer,Travel,56206
+E1000,Nathan Espinoza,Operations,C103,05-08-2023,27-04-2024,Credit Card,Entertainment,23871
+E1036,Chloe Kirby,IT,C102,08-01-2025,16-03-2023,Credit Card,Entertainment,40164
+E1004,Madison Sandoval,Finance,C104,06-12-2024,16-07-2024,Credit Card,Accommodation,33239
+E1008,Daniel Edwards,Marketing,C102,11-03-2023,25-11-2023,Cash,Office Supplies,23317
+E1025,Tracey Mitchell,Sales,C102,28-08-2023,16-06-2024,Bank Transfer,Software,39334
+E1002,Gloria Browning,Operations,C104,16-06-2023,02-11-2024,Bank Transfer,Office Supplies,27388
+E1020,Cameron Olson,Operations,C104,19-01-2025,15-07-2024,Cash,Accommodation,20142
+E1047,Kimberly Allen,Operations,C102,22-07-2023,04-04-2024,Cash,Travel,10912
+E1002,Gloria Browning,Sales,C102,20-06-2023,23-01-2025,Bank Transfer,Entertainment,88028
+E1000,Nathan Espinoza,IT,C103,29-03-2024,15-03-2024,Credit Card,Meals,67958
+E1042,Sara Deleon,Marketing,C103,06-10-2023,17-04-2023,Bank Transfer,Meals,29833
+E1040,Donna Torres,Operations,C104,19-09-2024,25-08-2023,Cash,Software,85385
+E1042,Sara Deleon,HR,C101,08-10-2023,21-03-2023,Bank Transfer,Office Supplies,14087
+E1031,Fernando Brown,HR,C103,02-05-2024,05-06-2023,Bank Transfer,Software,63575
+E1034,Danny Graham,Marketing,C101,24-04-2023,14-05-2024,Cash,Meals,71438
+E1005,Sean Reeves,HR,C102,10-06-2024,10-11-2024,Bank Transfer,Accommodation,23263
+E1025,Tracey Mitchell,Finance,C102,04-08-2024,18-03-2023,Cash,Software,14635
+E1047,Kimberly Allen,Finance,C104,04-08-2023,02-03-2024,Credit Card,Meals,49157
+E1049,Johnny Young,Marketing,C102,28-09-2023,24-01-2024,Credit Card,Software,57782
+E1041,Jose Jackson,Operations,C103,21-12-2023,04-10-2024,Bank Transfer,Travel,28936
+E1013,Lauren Edwards,Operations,C104,20-02-2023,20-04-2024,Credit Card,Entertainment,64480
+E1031,Fernando Brown,Operations,C104,17-09-2024,01-01-2025,Bank Transfer,Software,69276
+E1016,Brad Compton,Operations,C104,16-12-2024,05-10-2023,Credit Card,Meals,17368
+E1036,Chloe Kirby,Marketing,C103,13-09-2024,14-11-2024,Bank Transfer,Training,55653
+E1040,Donna Torres,Sales,C101,12-09-2023,26-04-2023,Cash,Software,24492
+E1045,Julie Evans,Marketing,C101,07-05-2024,29-09-2023,Cash,Entertainment,58206
+E1041,Jose Jackson,Marketing,C103,10-05-2023,07-05-2024,Cash,Meals,53707
+E1033,Kathryn Watson,Sales,C104,22-01-2025,24-10-2023,Bank Transfer,Entertainment,85947
+E1021,Brandy Garcia,Finance,C102,30-10-2024,15-10-2024,Bank Transfer,Accommodation,18038
+E1044,Julie Lewis,IT,C102,13-07-2024,22-10-2023,Credit Card,Meals,19611
+E1046,Daniel Schmidt,Finance,C104,23-02-2023,17-10-2024,Bank Transfer,Accommodation,56520
+E1010,Troy Gibson,IT,C104,02-05-2024,16-05-2023,Cash,Travel,81897
+E1014,Heather Rose,Finance,C103,28-12-2023,09-12-2023,Credit Card,Travel,87243
+E1032,Mary Sanchez,Operations,C102,19-11-2023,12-05-2024,Cash,Accommodation,38688
+E1035,Melissa Schaefer,HR,C101,05-02-2024,25-03-2023,Cash,Meals,25000
+E1001,Christopher King,HR,C103,15-08-2024,14-05-2023,Credit Card,Office Supplies,49163
+E1008,Daniel Edwards,HR,C102,24-12-2023,21-11-2023,Cash,Office Supplies,51396
+E1042,Sara Deleon,Finance,C102,05-03-2023,30-04-2023,Cash,Accommodation,94686
+E1030,Nancy Bowman,IT,C103,19-06-2024,15-04-2023,Bank Transfer,Meals,12639
+E1017,Timothy Smith,Operations,C101,19-10-2023,21-01-2024,Cash,Office Supplies,84912
+E1047,Kimberly Allen,IT,C101,13-05-2024,17-01-2024,Cash,Travel,86300
+E1034,Danny Graham,Marketing,C102,20-08-2024,21-09-2023,Cash,Office Supplies,18533
+E1015,Emily Mercer,HR,C103,26-04-2023,31-03-2024,Credit Card,Travel,35723
+E1015,Emily Mercer,Operations,C103,02-11-2024,16-12-2024,Cash,Travel,96785
+E1020,Cameron Olson,HR,C104,12-08-2023,04-07-2024,Credit Card,Accommodation,70299
+E1031,Fernando Brown,Finance,C104,30-09-2023,31-08-2024,Credit Card,Travel,56005
+E1034,Danny Graham,IT,C104,04-06-2024,15-06-2023,Credit Card,Accommodation,95715
+E1011,Cynthia Russell,Marketing,C101,18-09-2024,11-01-2025,Bank Transfer,Software,31038
+E1001,Christopher King,Operations,C103,16-03-2023,20-05-2024,Cash,Software,33856
+E1002,Gloria Browning,Marketing,C101,04-12-2024,20-08-2024,Cash,Office Supplies,80501
+E1049,Johnny Young,Finance,C101,15-07-2024,22-11-2023,Credit Card,Office Supplies,81044
+E1021,Brandy Garcia,Sales,C103,07-07-2023,29-02-2024,Credit Card,Accommodation,86135
+E1029,Jennifer Johnson,Marketing,C101,18-09-2023,05-04-2023,Cash,Training,29568
+E1014,Heather Rose,Operations,C101,09-10-2024,03-07-2023,Bank Transfer,Software,80430
+E1035,Melissa Schaefer,Operations,C101,25-11-2024,12-12-2024,Bank Transfer,Entertainment,45300
+E1008,Daniel Edwards,Marketing,C103,15-05-2023,18-01-2025,Bank Transfer,Meals,33670
+E1001,Christopher King,Operations,C102,27-09-2024,08-06-2023,Cash,Office Supplies,82073
+E1030,Nancy Bowman,HR,C103,15-07-2023,30-07-2024,Cash,Software,28959
+E1009,Rachel Johnson,IT,C102,05-05-2024,22-08-2023,Bank Transfer,Meals,70426
+E1018,Russell Day,Operations,C101,23-08-2024,13-09-2023,Cash,Office Supplies,59836
+E1043,Samuel Strickland,Sales,C104,06-04-2024,04-02-2025,Bank Transfer,Accommodation,37710
+E1012,Karen Davis,Sales,C101,04-06-2023,17-07-2023,Cash,Travel,15630
+E1013,Lauren Edwards,Operations,C101,11-07-2024,17-05-2023,Credit Card,Training,80558
+E1026,Brian Barker,Marketing,C102,09-11-2023,11-08-2024,Cash,Accommodation,30776
+E1002,Gloria Browning,HR,C104,11-03-2023,14-09-2023,Credit Card,Meals,56354
+E1011,Cynthia Russell,Finance,C101,13-09-2023,21-12-2023,Cash,Training,88190
+E1002,Gloria Browning,HR,C101,10-10-2024,17-10-2023,Cash,Training,61059
+E1024,Jared Farrell,Sales,C104,31-05-2024,18-07-2024,Cash,Accommodation,62685
+E1045,Julie Evans,Finance,C102,20-10-2023,11-10-2024,Credit Card,Meals,46852
+E1039,Erin Ray,Operations,C103,26-01-2025,29-03-2023,Credit Card,Meals,68636
+E1027,Cynthia Newton,Sales,C102,02-08-2024,11-10-2024,Bank Transfer,Office Supplies,69586
+E1039,Erin Ray,HR,C101,30-12-2023,28-03-2024,Cash,Travel,32297
+E1016,Brad Compton,HR,C103,19-09-2024,28-08-2023,Bank Transfer,Accommodation,94491
+E1026,Brian Barker,Sales,C103,01-07-2023,14-03-2023,Cash,Meals,24704
+E1010,Troy Gibson,Operations,C101,02-07-2023,23-03-2023,Cash,Software,47215
+E1012,Karen Davis,HR,C104,12-04-2024,15-07-2023,Cash,Accommodation,92541
+E1031,Fernando Brown,IT,C101,07-08-2024,16-07-2024,Credit Card,Travel,75924
+E1012,Karen Davis,Marketing,C103,09-11-2023,11-06-2023,Credit Card,Office Supplies,70749
+E1000,Nathan Espinoza,HR,C103,22-06-2023,17-04-2023,Credit Card,Accommodation,44356
+E1012,Karen Davis,Finance,C102,15-11-2024,06-10-2024,Credit Card,Training,95127
+E1031,Fernando Brown,Marketing,C101,30-07-2024,23-06-2023,Credit Card,Accommodation,62994
+E1014,Heather Rose,IT,C101,08-04-2024,27-02-2024,Bank Transfer,Software,59162
+E1008,Daniel Edwards,HR,C104,11-07-2024,09-11-2023,Cash,Software,27260
+E1033,Kathryn Watson,HR,C103,13-06-2024,01-11-2023,Bank Transfer,Travel,43581
+E1003,Brenda Long,Sales,C101,23-07-2024,18-07-2024,Credit Card,Software,14051
+E1008,Daniel Edwards,Marketing,C102,19-02-2024,24-07-2024,Cash,Meals,83947
+E1042,Sara Deleon,HR,C101,22-08-2024,27-04-2024,Cash,Training,14996
+E1004,Madison Sandoval,Operations,C101,21-02-2024,14-03-2024,Credit Card,Software,10080
+E1030,Nancy Bowman,IT,C103,27-02-2024,11-06-2023,Bank Transfer,Travel,28876
+E1028,Richard Benitez,Marketing,C101,17-05-2023,26-12-2023,Bank Transfer,Office Supplies,56949
+E1007,Robert Riley,Operations,C104,20-01-2025,22-03-2023,Cash,Office Supplies,81745
+E1010,Troy Gibson,IT,C103,24-04-2023,27-09-2024,Credit Card,Accommodation,66603
+E1047,Kimberly Allen,Sales,C103,21-03-2024,27-03-2023,Cash,Travel,98339
+E1010,Troy Gibson,IT,C103,02-03-2023,16-03-2023,Bank Transfer,Entertainment,28968
+E1003,Brenda Long,Finance,C104,13-12-2023,02-12-2024,Cash,Software,34843
+E1013,Lauren Edwards,IT,C101,12-10-2023,06-06-2023,Bank Transfer,Training,10123
+E1013,Lauren Edwards,IT,C102,07-05-2023,01-11-2023,Cash,Meals,11214
+E1027,Cynthia Newton,HR,C104,30-04-2023,09-12-2023,Cash,Office Supplies,25166
+E1020,Cameron Olson,Marketing,C103,12-03-2023,30-06-2024,Bank Transfer,Meals,69225
+E1008,Daniel Edwards,Marketing,C102,27-10-2024,13-12-2023,Bank Transfer,Entertainment,33313
+E1041,Jose Jackson,HR,C102,15-11-2024,15-03-2024,Bank Transfer,Software,27527
+E1005,Sean Reeves,Sales,C103,29-05-2024,28-06-2023,Bank Transfer,Meals,69919
+E1034,Danny Graham,Marketing,C101,16-03-2024,08-12-2024,Bank Transfer,Software,87224
+E1009,Rachel Johnson,IT,C103,02-04-2024,12-09-2024,Bank Transfer,Travel,32521
+E1039,Erin Ray,Marketing,C103,31-10-2023,22-06-2023,Credit Card,Travel,25772
+E1026,Brian Barker,Finance,C102,19-01-2024,14-09-2023,Bank Transfer,Software,36977
+E1034,Danny Graham,Finance,C101,07-11-2024,04-08-2024,Credit Card,Software,62307
+E1003,Brenda Long,IT,C102,02-02-2025,30-04-2024,Credit Card,Accommodation,28041
+E1008,Daniel Edwards,HR,C102,13-11-2024,03-03-2024,Bank Transfer,Software,69509
+E1006,Scott Smith,Sales,C104,21-06-2023,10-05-2024,Credit Card,Entertainment,16299
+E1012,Karen Davis,Marketing,C104,12-05-2023,27-05-2024,Bank Transfer,Accommodation,66148
+E1018,Russell Day,HR,C104,12-02-2024,07-11-2023,Bank Transfer,Entertainment,21173
+E1029,Jennifer Johnson,Sales,C104,14-07-2023,24-01-2024,Cash,Software,79057
+E1024,Jared Farrell,HR,C101,03-08-2024,05-03-2023,Bank Transfer,Travel,86510
+E1037,Keith Stewart,Marketing,C104,08-01-2024,02-06-2023,Bank Transfer,Travel,19054
+E1025,Tracey Mitchell,Finance,C101,28-04-2023,09-12-2024,Bank Transfer,Entertainment,71058
+E1038,Daniel Bailey,HR,C102,22-06-2024,30-06-2023,Bank Transfer,Meals,68165
+E1045,Julie Evans,IT,C103,25-08-2024,19-02-2024,Bank Transfer,Meals,22342
+E1022,Kaitlin Brown,Sales,C101,03-08-2023,23-02-2024,Bank Transfer,Office Supplies,50357
+E1019,Matthew Gonzalez,Finance,C104,18-02-2024,03-07-2023,Credit Card,Software,65033
+E1029,Jennifer Johnson,Marketing,C101,09-09-2023,20-04-2024,Bank Transfer,Meals,94112
+E1023,Charles Saunders,HR,C103,13-10-2024,31-07-2023,Bank Transfer,Training,93234
+E1027,Cynthia Newton,Sales,C101,13-05-2023,27-05-2024,Credit Card,Travel,59723
+E1019,Matthew Gonzalez,IT,C101,13-02-2024,04-09-2023,Cash,Meals,92365
+E1042,Sara Deleon,Marketing,C102,15-04-2024,15-08-2024,Cash,Software,85564
+E1017,Timothy Smith,HR,C103,27-08-2024,13-03-2024,Bank Transfer,Office Supplies,92215
+E1001,Christopher King,HR,C101,31-07-2023,09-10-2023,Cash,Training,72381
+E1006,Scott Smith,IT,C104,19-02-2024,25-01-2024,Cash,Meals,16077
+E1024,Jared Farrell,IT,C101,20-08-2024,26-11-2023,Cash,Office Supplies,29426
+E1035,Melissa Schaefer,HR,C101,28-01-2024,21-06-2023,Bank Transfer,Accommodation,71709
+E1001,Christopher King,Operations,C103,15-06-2023,08-09-2024,Bank Transfer,Office Supplies,95244
+E1034,Danny Graham,Operations,C102,19-11-2024,24-09-2024,Bank Transfer,Office Supplies,32684
+E1040,Donna Torres,Marketing,C101,12-11-2024,07-09-2024,Credit Card,Meals,77984
+E1012,Karen Davis,Finance,C104,09-04-2023,14-07-2023,Bank Transfer,Entertainment,36170
+E1008,Daniel Edwards,Marketing,C101,18-12-2024,05-04-2023,Cash,Office Supplies,65727
+E1007,Robert Riley,Finance,C102,01-09-2024,12-12-2024,Cash,Travel,65566
+E1009,Rachel Johnson,IT,C102,18-03-2024,26-12-2023,Bank Transfer,Entertainment,93218
+E1032,Mary Sanchez,HR,C104,24-03-2024,16-06-2023,Bank Transfer,Accommodation,56919
+E1045,Julie Evans,Operations,C102,14-05-2023,25-11-2023,Bank Transfer,Meals,34196
+E1044,Julie Lewis,Sales,C103,21-05-2023,23-03-2024,Bank Transfer,Training,79409
+E1003,Brenda Long,Sales,C104,25-05-2023,26-12-2024,Credit Card,Office Supplies,71450
+E1046,Daniel Schmidt,IT,C103,17-07-2024,03-09-2023,Bank Transfer,Training,13525
+E1018,Russell Day,IT,C104,06-08-2023,07-12-2023,Credit Card,Travel,72381
+E1026,Brian Barker,HR,C101,17-09-2024,22-08-2024,Bank Transfer,Software,54167
+E1011,Cynthia Russell,Marketing,C104,31-07-2024,26-01-2024,Bank Transfer,Entertainment,53004
+E1007,Robert Riley,HR,C101,21-06-2024,20-10-2023,Bank Transfer,Office Supplies,20052
+E1035,Melissa Schaefer,IT,C104,18-05-2024,09-10-2023,Bank Transfer,Training,75519
+E1001,Christopher King,Finance,C101,05-09-2024,09-06-2024,Cash,Entertainment,92097
+E1032,Mary Sanchez,Operations,C103,12-04-2024,26-09-2024,Bank Transfer,Software,63444
+E1014,Heather Rose,HR,C101,24-08-2023,25-07-2024,Bank Transfer,Training,51611
+E1010,Troy Gibson,HR,C103,10-12-2023,02-03-2023,Credit Card,Training,87653
+E1003,Brenda Long,Finance,C101,11-02-2025,07-08-2023,Credit Card,Office Supplies,93993
+E1030,Nancy Bowman,HR,C104,04-07-2024,30-09-2023,Bank Transfer,Office Supplies,75361
+E1032,Mary Sanchez,Sales,C103,31-10-2024,24-09-2024,Credit Card,Office Supplies,32632
+E1048,Edwin Ortiz,IT,C101,01-10-2024,19-07-2024,Bank Transfer,Travel,12480
+E1025,Tracey Mitchell,Marketing,C104,21-04-2023,26-03-2024,Cash,Training,21996
+E1006,Scott Smith,IT,C102,19-06-2024,30-03-2023,Credit Card,Training,79749
+E1020,Cameron Olson,Sales,C102,04-08-2023,09-01-2025,Cash,Software,13789
+E1000,Nathan Espinoza,Operations,C101,19-03-2024,07-01-2024,Credit Card,Accommodation,92799
+E1033,Kathryn Watson,Operations,C101,20-06-2024,15-03-2023,Credit Card,Travel,14143
+E1016,Brad Compton,Operations,C104,28-10-2024,13-04-2024,Credit Card,Office Supplies,87251
+E1014,Heather Rose,Finance,C101,28-05-2023,22-10-2023,Cash,Office Supplies,84232
+E1049,Johnny Young,Sales,C102,29-04-2023,05-03-2024,Credit Card,Travel,59488
+E1041,Jose Jackson,Finance,C103,23-03-2023,20-05-2024,Cash,Entertainment,74274
+E1031,Fernando Brown,Marketing,C101,09-04-2023,15-03-2023,Bank Transfer,Software,73695
+E1019,Matthew Gonzalez,IT,C103,24-12-2023,17-12-2023,Cash,Travel,55464
+E1037,Keith Stewart,Marketing,C103,30-03-2023,03-12-2024,Cash,Office Supplies,44847
+E1039,Erin Ray,Finance,C101,14-07-2023,23-06-2023,Cash,Meals,73798
+E1035,Melissa Schaefer,Finance,C103,29-05-2024,20-09-2024,Credit Card,Software,48001
+E1047,Kimberly Allen,Marketing,C101,06-07-2023,09-02-2024,Credit Card,Office Supplies,88485
+E1030,Nancy Bowman,Sales,C101,10-11-2024,27-01-2024,Cash,Travel,22231
+E1008,Daniel Edwards,Operations,C103,03-02-2024,05-03-2024,Bank Transfer,Travel,20553
+E1000,Nathan Espinoza,Operations,C101,20-03-2024,22-04-2023,Bank Transfer,Entertainment,67590
+E1037,Keith Stewart,Marketing,C101,27-07-2023,07-11-2024,Cash,Software,17893
+E1041,Jose Jackson,Marketing,C103,11-03-2024,16-05-2024,Bank Transfer,Travel,38488
+E1025,Tracey Mitchell,Marketing,C103,21-06-2023,19-02-2023,Cash,Office Supplies,68730
+E1012,Karen Davis,Sales,C101,12-02-2024,15-11-2024,Credit Card,Training,78265
+E1043,Samuel Strickland,Sales,C104,24-08-2023,24-03-2023,Credit Card,Travel,20988
+E1037,Keith Stewart,IT,C101,23-11-2023,01-04-2023,Cash,Software,73231
+E1040,Donna Torres,Sales,C104,08-12-2024,13-12-2024,Cash,Travel,20776
+E1004,Madison Sandoval,HR,C102,13-11-2024,28-12-2024,Cash,Software,26427
+E1010,Troy Gibson,Marketing,C103,08-03-2024,22-02-2024,Bank Transfer,Entertainment,57262
+E1045,Julie Evans,Operations,C104,05-05-2023,06-01-2025,Credit Card,Accommodation,57740
+E1047,Kimberly Allen,IT,C103,17-05-2024,28-03-2023,Bank Transfer,Entertainment,68754
+E1015,Emily Mercer,HR,C102,02-03-2023,22-04-2023,Bank Transfer,Office Supplies,49313
+E1037,Keith Stewart,IT,C101,20-08-2024,18-05-2023,Bank Transfer,Travel,32399
+E1025,Tracey Mitchell,Sales,C102,24-11-2024,18-10-2023,Credit Card,Accommodation,25692
+E1002,Gloria Browning,HR,C104,22-07-2023,13-09-2024,Cash,Travel,24611
+E1015,Emily Mercer,IT,C104,29-10-2024,26-03-2023,Bank Transfer,Training,39252
+E1014,Heather Rose,Marketing,C103,02-07-2023,01-08-2023,Credit Card,Office Supplies,42156
+E1014,Heather Rose,IT,C102,26-06-2023,11-01-2025,Bank Transfer,Software,30980
+E1038,Daniel Bailey,Marketing,C102,13-05-2024,23-02-2023,Credit Card,Travel,77588
+E1043,Samuel Strickland,Finance,C102,04-01-2025,22-03-2023,Bank Transfer,Accommodation,41482
+E1021,Brandy Garcia,IT,C104,17-03-2024,05-12-2023,Bank Transfer,Entertainment,23574
+E1035,Melissa Schaefer,Operations,C103,25-09-2023,29-08-2023,Cash,Training,42739
+E1041,Jose Jackson,HR,C103,20-12-2024,23-02-2023,Bank Transfer,Travel,76807
+E1046,Daniel Schmidt,IT,C104,23-07-2023,24-01-2024,Bank Transfer,Office Supplies,12557
+E1029,Jennifer Johnson,Sales,C104,10-10-2024,01-05-2023,Bank Transfer,Meals,50731
+E1025,Tracey Mitchell,Marketing,C102,28-05-2024,03-03-2024,Bank Transfer,Training,72478
+E1023,Charles Saunders,Sales,C103,20-09-2024,18-10-2024,Bank Transfer,Travel,38101
+E1007,Robert Riley,Sales,C101,02-11-2023,20-02-2024,Bank Transfer,Entertainment,46915
+E1010,Troy Gibson,Finance,C101,27-08-2023,30-12-2023,Cash,Travel,55868
+E1039,Erin Ray,Finance,C103,06-12-2024,29-08-2024,Cash,Entertainment,53543
+E1038,Daniel Bailey,Marketing,C101,19-11-2024,18-04-2023,Credit Card,Accommodation,22991
+E1039,Erin Ray,Operations,C101,26-04-2023,29-09-2023,Credit Card,Accommodation,74400
+E1031,Fernando Brown,Marketing,C101,09-06-2024,08-02-2024,Cash,Entertainment,28992
+E1044,Julie Lewis,HR,C102,18-11-2024,27-10-2023,Credit Card,Meals,35657
+E1048,Edwin Ortiz,Finance,C104,30-05-2023,26-03-2024,Bank Transfer,Office Supplies,29658
+E1038,Daniel Bailey,Finance,C102,23-09-2024,02-12-2024,Bank Transfer,Office Supplies,46636
+E1010,Troy Gibson,HR,C101,08-02-2025,25-05-2023,Bank Transfer,Meals,84297
+E1049,Johnny Young,Finance,C101,23-11-2023,14-11-2024,Credit Card,Office Supplies,71381
+E1022,Kaitlin Brown,HR,C103,18-09-2023,03-11-2024,Credit Card,Travel,67972
+E1014,Heather Rose,HR,C104,20-03-2023,13-12-2024,Credit Card,Office Supplies,52845
+E1044,Julie Lewis,Operations,C103,07-12-2024,23-08-2024,Bank Transfer,Travel,40084
+E1021,Brandy Garcia,IT,C104,14-12-2024,04-03-2023,Bank Transfer,Meals,45168
+E1043,Samuel Strickland,Finance,C104,01-06-2024,22-05-2024,Bank Transfer,Entertainment,66237
+E1012,Karen Davis,Finance,C102,23-04-2023,20-12-2023,Cash,Travel,39951
+E1017,Timothy Smith,HR,C101,11-01-2024,06-12-2023,Credit Card,Software,33308
+E1040,Donna Torres,Finance,C103,21-12-2024,01-05-2023,Cash,Training,29573
+E1000,Nathan Espinoza,Operations,C104,24-10-2024,01-03-2023,Bank Transfer,Office Supplies,39474
+E1048,Edwin Ortiz,Operations,C104,15-05-2023,05-07-2023,Bank Transfer,Training,92746
+E1006,Scott Smith,Operations,C103,30-04-2024,24-06-2023,Credit Card,Office Supplies,96009
+E1031,Fernando Brown,IT,C104,12-07-2024,03-03-2023,Bank Transfer,Meals,27379
+E1031,Fernando Brown,IT,C102,12-06-2024,05-03-2023,Credit Card,Office Supplies,28101
+E1034,Danny Graham,Operations,C104,25-02-2023,22-09-2023,Credit Card,Accommodation,68046
+E1008,Daniel Edwards,Sales,C103,21-02-2024,23-06-2023,Cash,Training,69774
+E1030,Nancy Bowman,Finance,C101,17-05-2023,06-08-2023,Cash,Meals,16834
+E1017,Timothy Smith,Operations,C104,30-11-2023,27-10-2024,Cash,Software,90606
+E1000,Nathan Espinoza,Sales,C103,08-02-2025,27-10-2024,Credit Card,Meals,54854
+E1047,Kimberly Allen,HR,C103,20-08-2023,04-04-2023,Bank Transfer,Entertainment,47594
+E1046,Daniel Schmidt,Operations,C103,08-05-2024,08-04-2024,Bank Transfer,Office Supplies,24694
+E1016,Brad Compton,Finance,C104,04-04-2023,19-05-2024,Credit Card,Travel,63913
+E1006,Scott Smith,Finance,C104,24-03-2023,18-08-2024,Cash,Office Supplies,66148
+E1029,Jennifer Johnson,Operations,C104,10-01-2025,11-11-2023,Credit Card,Software,31336
+E1038,Daniel Bailey,Finance,C102,26-07-2024,25-12-2024,Credit Card,Training,91164
+E1014,Heather Rose,IT,C104,26-02-2023,11-01-2025,Credit Card,Software,72365
+E1043,Samuel Strickland,Finance,C104,18-06-2024,28-09-2023,Credit Card,Training,15291
+E1008,Daniel Edwards,IT,C103,23-03-2024,04-06-2023,Cash,Meals,33575
+E1020,Cameron Olson,Sales,C103,24-02-2023,19-02-2023,Cash,Travel,12917
+E1045,Julie Evans,IT,C101,30-03-2023,30-05-2024,Bank Transfer,Travel,15610
+E1029,Jennifer Johnson,Operations,C102,12-04-2023,22-05-2024,Bank Transfer,Travel,26259
+E1032,Mary Sanchez,Finance,C103,20-03-2024,21-03-2023,Credit Card,Accommodation,73676
+E1010,Troy Gibson,HR,C102,27-10-2023,09-03-2023,Credit Card,Software,95329
+E1017,Timothy Smith,HR,C104,11-08-2024,31-01-2024,Bank Transfer,Meals,90897
+E1000,Nathan Espinoza,Operations,C104,29-10-2024,19-09-2024,Cash,Software,33542
+E1021,Brandy Garcia,HR,C103,11-06-2024,27-02-2023,Bank Transfer,Entertainment,39743
+E1027,Cynthia Newton,Sales,C103,19-12-2024,02-05-2023,Cash,Office Supplies,90663
+E1032,Mary Sanchez,Marketing,C101,07-08-2024,22-04-2024,Bank Transfer,Travel,25350
+E1016,Brad Compton,Marketing,C104,20-01-2024,17-11-2023,Bank Transfer,Meals,72364
+E1040,Donna Torres,Sales,C104,20-08-2024,05-11-2024,Credit Card,Entertainment,63697
+E1027,Cynthia Newton,Operations,C102,26-04-2024,14-09-2024,Cash,Accommodation,90130
+E1035,Melissa Schaefer,IT,C103,01-11-2024,10-09-2023,Credit Card,Software,71169
+E1022,Kaitlin Brown,HR,C102,29-01-2024,01-11-2024,Bank Transfer,Training,64428
+E1031,Fernando Brown,HR,C104,11-01-2024,12-06-2024,Credit Card,Office Supplies,90639
+E1006,Scott Smith,IT,C104,23-10-2023,02-02-2024,Credit Card,Office Supplies,27845
+E1012,Karen Davis,Finance,C101,30-10-2024,07-03-2023,Credit Card,Travel,80760
+E1045,Julie Evans,Finance,C102,02-07-2024,06-06-2023,Credit Card,Training,17440
+E1001,Christopher King,IT,C104,09-10-2023,12-11-2024,Cash,Training,11137
+E1044,Julie Lewis,IT,C103,09-05-2024,28-02-2023,Cash,Meals,92814
+E1019,Matthew Gonzalez,Sales,C102,21-08-2024,02-11-2023,Cash,Travel,69252
+E1033,Kathryn Watson,Finance,C103,10-06-2023,14-10-2023,Cash,Accommodation,20452
+E1031,Fernando Brown,IT,C101,17-12-2023,17-12-2024,Bank Transfer,Travel,64884
+E1014,Heather Rose,Sales,C103,30-05-2023,18-04-2024,Bank Transfer,Entertainment,62472
+E1005,Sean Reeves,Operations,C102,21-07-2023,04-06-2024,Credit Card,Accommodation,52326
+E1005,Sean Reeves,Marketing,C104,13-10-2023,11-08-2023,Credit Card,Software,57282
+E1012,Karen Davis,Marketing,C101,27-11-2024,25-07-2024,Credit Card,Entertainment,51036
+E1003,Brenda Long,HR,C104,23-07-2023,10-01-2025,Cash,Software,31079
+E1011,Cynthia Russell,Finance,C101,04-10-2024,20-04-2023,Bank Transfer,Meals,49038
+E1039,Erin Ray,Finance,C103,17-04-2023,08-10-2023,Cash,Training,11339
+E1046,Daniel Schmidt,IT,C101,21-03-2024,19-12-2024,Credit Card,Travel,18721
+E1003,Brenda Long,Finance,C101,21-04-2024,04-10-2024,Cash,Office Supplies,75792
+E1008,Daniel Edwards,IT,C103,29-01-2024,04-01-2024,Bank Transfer,Software,66406
+E1024,Jared Farrell,HR,C102,03-12-2023,21-01-2025,Bank Transfer,Meals,73440
+E1029,Jennifer Johnson,Operations,C104,30-06-2024,06-01-2025,Cash,Travel,60293
+E1003,Brenda Long,Marketing,C103,22-05-2024,04-09-2024,Cash,Training,19525
+E1019,Matthew Gonzalez,HR,C101,27-12-2024,01-03-2024,Credit Card,Software,50377
+E1025,Tracey Mitchell,Marketing,C104,24-10-2024,30-05-2024,Bank Transfer,Accommodation,91974
+E1008,Daniel Edwards,Sales,C102,06-02-2025,19-09-2023,Credit Card,Software,22286
+E1023,Charles Saunders,Operations,C103,06-06-2024,21-05-2024,Cash,Accommodation,26372
+E1038,Daniel Bailey,IT,C102,08-01-2024,10-08-2024,Bank Transfer,Meals,92807
+E1046,Daniel Schmidt,HR,C104,28-10-2024,24-10-2023,Credit Card,Software,97353
+E1049,Johnny Young,Operations,C104,24-11-2024,14-05-2023,Credit Card,Office Supplies,93694
+E1005,Sean Reeves,Finance,C102,20-07-2024,02-10-2023,Credit Card,Software,55208
+E1002,Gloria Browning,HR,C101,08-11-2024,01-06-2024,Credit Card,Meals,14215
+E1002,Gloria Browning,IT,C103,02-06-2024,10-09-2024,Bank Transfer,Travel,90902
+E1011,Cynthia Russell,Sales,C104,17-04-2024,03-05-2024,Bank Transfer,Training,91465
+E1048,Edwin Ortiz,IT,C102,15-07-2023,20-09-2023,Cash,Software,19370
+E1032,Mary Sanchez,Finance,C101,28-03-2023,14-12-2024,Bank Transfer,Travel,79178
+E1035,Melissa Schaefer,Finance,C101,07-08-2024,01-10-2024,Credit Card,Training,81461
+E1034,Danny Graham,Marketing,C104,09-03-2024,25-11-2024,Credit Card,Accommodation,26411
+E1039,Erin Ray,Finance,C102,14-06-2023,03-11-2024,Cash,Accommodation,47849
+E1006,Scott Smith,IT,C102,08-04-2024,09-09-2023,Bank Transfer,Office Supplies,83302
+E1033,Kathryn Watson,Operations,C101,29-05-2024,29-10-2023,Credit Card,Training,86329
+E1005,Sean Reeves,Sales,C104,30-12-2024,01-06-2024,Credit Card,Office Supplies,73336
+E1049,Johnny Young,Operations,C101,28-08-2023,30-04-2024,Bank Transfer,Entertainment,97621
+E1037,Keith Stewart,Finance,C103,25-07-2023,22-04-2024,Credit Card,Training,41064
+E1036,Chloe Kirby,Finance,C101,20-03-2023,11-12-2024,Credit Card,Meals,58123
+E1017,Timothy Smith,HR,C103,07-10-2023,28-09-2023,Cash,Training,21652
+E1025,Tracey Mitchell,IT,C102,15-10-2023,22-10-2023,Credit Card,Software,30282
+E1025,Tracey Mitchell,Finance,C101,07-05-2024,27-01-2024,Credit Card,Entertainment,56569
+E1029,Jennifer Johnson,Finance,C101,18-01-2025,01-08-2024,Cash,Training,48458
+E1007,Robert Riley,Operations,C104,26-02-2023,02-09-2024,Bank Transfer,Travel,48340
+E1028,Richard Benitez,Marketing,C102,29-08-2024,06-05-2024,Cash,Training,73691
+E1032,Mary Sanchez,HR,C102,31-01-2024,26-12-2024,Cash,Meals,27119
+E1025,Tracey Mitchell,Finance,C101,26-12-2024,17-09-2024,Cash,Training,45990
+E1048,Edwin Ortiz,Marketing,C101,09-07-2024,28-04-2024,Bank Transfer,Meals,32262
+E1010,Troy Gibson,Sales,C102,28-08-2023,23-11-2024,Cash,Software,23676
+E1029,Jennifer Johnson,Marketing,C104,03-01-2024,26-11-2024,Credit Card,Accommodation,34272
+E1044,Julie Lewis,IT,C104,20-01-2024,04-11-2023,Credit Card,Office Supplies,78156
+E1030,Nancy Bowman,Operations,C102,18-12-2023,12-10-2024,Bank Transfer,Meals,50174
+E1012,Karen Davis,Sales,C103,06-05-2023,25-05-2024,Bank Transfer,Entertainment,39029
+E1010,Troy Gibson,Operations,C103,17-08-2024,13-01-2024,Cash,Meals,69700
+E1040,Donna Torres,IT,C104,24-12-2024,16-11-2023,Cash,Accommodation,82759
+E1033,Kathryn Watson,Operations,C102,08-04-2024,16-07-2023,Credit Card,Training,59445
+E1047,Kimberly Allen,Sales,C101,02-02-2024,01-12-2024,Cash,Office Supplies,98504
+E1025,Tracey Mitchell,IT,C101,29-02-2024,20-06-2024,Cash,Software,83287
+E1030,Nancy Bowman,Sales,C104,19-09-2023,22-05-2023,Cash,Meals,30865
+E1011,Cynthia Russell,HR,C103,02-12-2023,16-11-2023,Credit Card,Software,89149
+E1001,Christopher King,HR,C104,28-05-2023,06-06-2024,Bank Transfer,Software,22949
+E1049,Johnny Young,Sales,C101,20-06-2023,01-12-2024,Cash,Entertainment,51853
+E1040,Donna Torres,Operations,C101,09-06-2024,23-05-2023,Cash,Office Supplies,25034
+E1001,Christopher King,IT,C101,21-01-2025,06-01-2025,Bank Transfer,Accommodation,84028
+E1020,Cameron Olson,Operations,C104,10-10-2024,23-09-2024,Bank Transfer,Entertainment,14840
+E1011,Cynthia Russell,Finance,C101,03-04-2023,12-10-2023,Credit Card,Travel,63307
+E1048,Edwin Ortiz,Marketing,C104,04-11-2023,12-04-2024,Cash,Entertainment,71944
+E1023,Charles Saunders,IT,C104,04-12-2024,03-05-2024,Credit Card,Training,96637
+E1043,Samuel Strickland,IT,C101,05-04-2024,25-12-2024,Bank Transfer,Entertainment,92362
+E1037,Keith Stewart,HR,C101,04-03-2024,22-04-2024,Cash,Travel,81256
+E1029,Jennifer Johnson,Finance,C104,24-09-2024,08-07-2024,Credit Card,Meals,88755
+E1019,Matthew Gonzalez,Finance,C103,03-07-2024,02-08-2023,Credit Card,Training,27304
+E1037,Keith Stewart,Operations,C102,29-05-2024,11-06-2023,Bank Transfer,Travel,22373
+E1012,Karen Davis,Marketing,C104,08-05-2023,21-09-2023,Credit Card,Meals,74064
+E1010,Troy Gibson,Marketing,C101,19-09-2024,25-01-2025,Bank Transfer,Software,91607
+E1031,Fernando Brown,Operations,C102,29-03-2024,23-04-2023,Bank Transfer,Accommodation,56028
+E1033,Kathryn Watson,Marketing,C101,17-01-2024,21-03-2023,Credit Card,Accommodation,51292
+E1015,Emily Mercer,Operations,C102,02-03-2023,20-04-2024,Credit Card,Entertainment,16073
+E1043,Samuel Strickland,Sales,C104,01-07-2024,14-07-2023,Bank Transfer,Training,45112
+E1004,Madison Sandoval,Operations,C104,26-11-2024,26-12-2024,Credit Card,Accommodation,33402
+E1026,Brian Barker,Marketing,C103,10-01-2024,29-11-2023,Credit Card,Accommodation,58738
+E1013,Lauren Edwards,Finance,C103,12-07-2024,14-05-2024,Bank Transfer,Accommodation,38599
+E1035,Melissa Schaefer,IT,C101,20-05-2024,30-04-2024,Cash,Office Supplies,78803
+E1030,Nancy Bowman,Marketing,C104,02-02-2025,23-11-2023,Cash,Office Supplies,90731
+E1003,Brenda Long,Marketing,C101,21-11-2023,14-05-2023,Credit Card,Travel,48971
+E1025,Tracey Mitchell,Sales,C104,13-05-2023,12-01-2025,Credit Card,Entertainment,98856
+E1044,Julie Lewis,HR,C101,28-08-2024,28-02-2023,Bank Transfer,Accommodation,24896
+E1043,Samuel Strickland,Sales,C104,10-12-2024,15-04-2023,Bank Transfer,Entertainment,38268
+E1008,Daniel Edwards,Operations,C103,24-11-2023,04-10-2024,Cash,Meals,52843
+E1046,Daniel Schmidt,Marketing,C101,10-06-2024,19-09-2024,Cash,Entertainment,10392
+E1020,Cameron Olson,IT,C103,14-03-2024,24-03-2023,Bank Transfer,Accommodation,45079
+E1022,Kaitlin Brown,Sales,C103,10-08-2024,26-05-2024,Cash,Meals,29364
+E1019,Matthew Gonzalez,Finance,C103,27-11-2023,08-10-2023,Credit Card,Travel,50345
+E1008,Daniel Edwards,HR,C103,22-06-2024,21-08-2024,Bank Transfer,Accommodation,66790
+E1028,Richard Benitez,IT,C103,31-12-2023,01-07-2023,Bank Transfer,Entertainment,16660
+E1038,Daniel Bailey,Operations,C102,22-10-2023,26-05-2023,Cash,Office Supplies,79826
