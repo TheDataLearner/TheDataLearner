@@ -1,0 +1,2001 @@
+Emp Name,Expense Type,Payment Thru,Amount,Service Fee,Total Amount,Transaction Date,Country,Department
+Elizabeth Lyons DDS,Meals,Cash,1366.93,62.28,1429.21,2024-05-17,Germany,SALS
+Cynthia Jones,Air,Card,1348.26,91.73,1439.99,2024-12-28,Australia,EXEC
+Jason Pham,Air,Card,401.81,15.09,416.9,2023-08-07,United Kingdom,FINC
+David Whitney,Air,Cash,131.08,8.8,139.88,2023-03-19,United Kingdom,ENGG
+Michael Shields,Car,Cash,209.32,4.77,214.09,2023-03-20,Canada,SALS
+Jessica Johnston,Hotel,Cash,270.92,12.9,283.82,2023-04-11,Canada,ENGG
+Kathy Green,Car,Card,1911.86,169.42,2081.28,2024-12-14,Canada,SALS
+Pamela Thompson,Meals,Cash,223.53,18.73,242.26,2024-07-03,United Kingdom,EXEC
+Alexis Murphy,Car,Cash,1384.89,71.66,1456.55,2024-02-10,Germany,ENGG
+Howard Wade,Hotel,Cash,1483.96,115.77,1599.73,2023-11-12,India,ADMN
+Dr. Bruce Morgan,Meals,Cash,553.46,35.12,588.58,2024-05-30,Germany,ADMN
+Daniel Hicks,Air,Cash,1346.66,76.59,1423.25,2023-02-14,United Kingdom,ENGG
+Ryan Thomas,Air,Cash,1175.15,75.5,1250.65,2024-12-24,Canada,ENGG
+Andrew Lamb,Air,Card,1358.41,32.65,1391.06,2023-01-18,Canada,EXEC
+Samantha Hartman,Meals,Card,1903.72,85.93,1989.65,2024-01-31,United States,EXEC
+David Mejia,Meals,Card,1707.33,96.41,1803.74,2023-12-29,Germany,ENGG
+Martha Price,Hotel,Cash,1534.0,57.05,1591.05,2024-02-15,Germany,FINC
+Desiree Reynolds,Hotel,Cash,1247.38,47.4,1294.78,2023-10-23,Canada,EXEC
+Raymond Griffin,Air,Card,172.63,8.99,181.62,2024-03-28,Canada,EXEC
+Kenneth Floyd,Meals,Card,1489.61,133.52,1623.13,2024-07-09,United States,EXEC
+William Vargas,Car,Card,705.8,14.85,720.65,2024-09-21,United Kingdom,FINC
+Leslie Pineda,Hotel,Cash,323.52,23.32,346.84,2024-03-01,United States,SALS
+Alexander Miles,Car,Cash,151.06,10.83,161.89,2024-09-20,Canada,SALS
+Diane Mcguire,Car,Cash,110.96,10.96,121.92,2023-06-25,Australia,ADMN
+Brittany Bridges,Meals,Cash,103.85,5.47,109.32,2024-08-23,United States,ENGG
+Nicole Ruiz,Meals,Card,1864.63,122.46,1987.09,2024-02-03,Canada,EXEC
+Suzanne Jackson,Air,Card,809.4,48.31,857.71,2023-02-01,Germany,SALS
+Michael Shaw,Hotel,Cash,1513.49,85.3,1598.79,2024-01-25,India,SALS
+Samuel Williams,Hotel,Cash,1162.3,115.64,1277.94,2024-11-13,Australia,ENGG
+Christine Bryant,Hotel,Cash,490.05,33.58,523.63,2023-06-24,United Kingdom,SALS
+Charles Sosa,Air,Cash,1772.08,94.6,1866.68,2023-10-15,India,ENGG
+Dustin Sullivan,Hotel,Card,1170.4,70.65,1241.05,2023-11-07,United Kingdom,FINC
+Jennifer Werner,Car,Cash,1134.57,74.38,1208.95,2024-07-16,India,ADMN
+Nicholas York,Meals,Cash,883.33,85.37,968.7,2023-04-14,Australia,EXEC
+Craig Owens,Hotel,Card,1144.71,28.56,1173.27,2024-07-05,United States,EXEC
+Jerry Hamilton,Air,Cash,1590.01,74.58,1664.59,2024-06-01,Canada,ENGG
+Nichole Leonard,Air,Card,733.33,53.83,787.16,2024-09-09,United States,ADMN
+Tammy Reyes,Hotel,Card,1837.42,176.41,2013.83,2024-12-26,Australia,ENGG
+David Banks,Meals,Card,1372.09,123.75,1495.84,2023-01-26,India,ENGG
+Christopher Davis,Car,Cash,546.89,31.66,578.55,2023-10-19,India,ADMN
+Michael Clark,Air,Card,845.74,23.67,869.41,2023-11-23,United Kingdom,ENGG
+Megan Howard,Meals,Card,526.83,43.3,570.13,2024-07-10,Germany,FINC
+Adam Hood,Meals,Card,556.2,37.36,593.56,2024-08-21,United States,EXEC
+Victoria Gray,Air,Card,895.14,79.6,974.74,2024-06-24,United Kingdom,ENGG
+Dana Davis,Hotel,Card,1854.18,67.35,1921.53,2023-02-02,India,ENGG
+Jason Hudson,Meals,Card,739.63,73.45,813.08,2024-06-02,Germany,SALS
+Jessica Carr,Air,Card,216.02,14.43,230.45,2023-11-19,Germany,EXEC
+Matthew Soto,Hotel,Cash,1258.04,95.84,1353.88,2023-11-09,India,FINC
+James Meyer,Hotel,Cash,1183.08,79.49,1262.57,2023-03-30,India,SALS
+Alicia Johnson,Hotel,Cash,125.45,5.85,131.3,2023-11-21,Germany,EXEC
+George Medina,Car,Cash,294.54,12.62,307.16,2023-10-31,United States,ADMN
+Eric Booker,Car,Card,1430.14,41.43,1471.57,2024-01-14,Australia,EXEC
+Jason Carlson,Hotel,Card,243.76,18.53,262.29,2023-11-10,United States,ENGG
+Lori Randall,Car,Card,251.26,11.6,262.86,2023-08-12,United Kingdom,ADMN
+Nicholas Edwards,Car,Card,1952.29,39.23,1991.52,2024-07-17,Australia,FINC
+Michael Green,Hotel,Card,1313.93,123.36,1437.29,2024-05-03,India,ADMN
+Rhonda Edwards,Car,Cash,605.85,44.35,650.2,2024-05-01,Australia,ENGG
+James Gonzales,Meals,Card,1872.81,104.69,1977.5,2024-08-31,United Kingdom,EXEC
+Isaac Mccullough,Car,Cash,1810.06,123.19,1933.25,2023-01-28,India,EXEC
+Frederick Griffith,Meals,Card,1054.45,32.17,1086.62,2023-04-08,Germany,EXEC
+Beth Serrano,Car,Cash,205.99,6.29,212.28,2024-09-30,United Kingdom,ENGG
+Lisa Mccarthy,Hotel,Card,332.58,19.46,352.04,2024-09-23,Germany,ENGG
+Brett Lucas,Car,Card,373.89,17.34,391.23,2023-07-14,Germany,FINC
+Adam Graham,Air,Cash,1324.13,62.01,1386.14,2023-09-24,India,ADMN
+Jennifer Carter,Car,Card,1942.08,164.0,2106.08,2024-11-26,Australia,EXEC
+Donald Parker,Hotel,Card,1865.31,182.36,2047.67,2024-03-13,United Kingdom,SALS
+Cory Vasquez,Hotel,Card,211.03,9.33,220.36,2024-12-16,United Kingdom,EXEC
+Jeremy Duarte,Meals,Cash,1594.47,58.25,1652.72,2023-05-16,United States,SALS
+Cynthia Wilson,Meals,Card,1599.45,120.59,1720.04,2023-05-04,United States,EXEC
+Todd Cole,Car,Card,1602.05,54.63,1656.68,2023-11-02,United States,EXEC
+James Murphy,Meals,Card,724.03,40.97,765.0,2023-05-11,India,ENGG
+Joshua Bridges,Meals,Cash,1382.77,135.89,1518.66,2024-10-30,Canada,SALS
+Amy Macias,Car,Card,121.99,4.32,126.31,2024-05-06,Australia,SALS
+Kyle Kaiser,Meals,Card,596.47,26.38,622.85,2023-10-25,United States,SALS
+Zoe Frost,Meals,Card,1568.57,152.33,1720.9,2023-06-30,India,ADMN
+Ryan Esparza,Car,Cash,1224.16,121.8,1345.96,2024-01-08,Australia,FINC
+Ann Jackson,Car,Card,357.02,7.18,364.2,2024-11-06,United States,EXEC
+Melissa Hayes,Hotel,Cash,69.52,6.0,75.52,2023-11-22,Australia,ENGG
+Katherine Keller,Meals,Cash,85.65,5.81,91.46,2023-04-26,Australia,FINC
+Anthony Travis,Car,Cash,159.72,15.72,175.44,2024-11-21,India,ADMN
+Anthony Hansen,Hotel,Cash,197.08,17.79,214.87,2024-10-23,United States,EXEC
+Dr. Christopher Turner,Car,Cash,123.98,8.31,132.29,2023-12-11,United States,EXEC
+Crystal Montgomery,Car,Card,433.75,19.82,453.57,2024-11-03,Australia,EXEC
+Christine Baker,Air,Card,538.09,32.07,570.16,2024-04-17,United States,ENGG
+Jorge Simmons,Car,Cash,1116.27,91.24,1207.51,2023-08-25,Australia,FINC
+Alan Long,Meals,Cash,504.84,46.21,551.05,2024-07-11,United Kingdom,ADMN
+James Lyons,Air,Cash,1896.33,163.16,2059.49,2024-03-24,India,SALS
+Kyle Scott,Hotel,Card,705.36,67.97,773.33,2024-01-27,India,ADMN
+Valerie Morrison,Air,Cash,1534.61,99.47,1634.08,2024-06-09,Canada,ADMN
+Hannah Oconnor,Hotel,Cash,240.93,12.42,253.35,2024-05-29,Canada,EXEC
+Samuel Newman,Air,Card,580.87,35.55,616.42,2023-10-09,Germany,ENGG
+Dawn Johnson,Air,Cash,1549.53,97.0,1646.53,2024-09-26,Australia,FINC
+Brandon Morris,Car,Card,533.15,24.17,557.32,2023-07-10,Germany,ADMN
+Nicholas Miller,Meals,Card,403.77,39.37,443.14,2023-01-24,Australia,ADMN
+Peter Hunter,Meals,Card,1240.99,66.24,1307.23,2023-03-22,Canada,ADMN
+Lisa Harris,Hotel,Card,626.16,50.26,676.42,2024-05-01,Australia,EXEC
+Chase Silva,Hotel,Card,597.64,15.84,613.48,2023-04-27,Australia,ENGG
+Brandy Hill,Hotel,Cash,110.69,8.57,119.26,2023-05-18,United Kingdom,ADMN
+Christopher Alexander,Meals,Card,731.25,67.33,798.58,2024-04-12,Germany,ENGG
+Cassandra Russell,Meals,Card,1600.17,58.89,1659.06,2024-07-11,Canada,FINC
+Levi Mcdowell,Air,Cash,908.39,49.98,958.37,2023-11-15,United Kingdom,FINC
+Benjamin George,Air,Card,1690.42,96.63,1787.05,2023-03-29,India,SALS
+Jasmine Guerrero,Hotel,Card,1157.84,24.77,1182.61,2024-10-05,Germany,FINC
+Madeline Bell,Meals,Card,1650.64,86.4,1737.04,2023-11-26,Germany,ADMN
+Danielle Miles,Air,Card,1017.32,67.15,1084.47,2024-07-06,United Kingdom,FINC
+Courtney Lang,Hotel,Card,802.21,23.8,826.01,2024-09-19,Germany,ADMN
+Jennifer Caldwell,Hotel,Card,719.2,58.86,778.06,2023-12-31,Canada,ADMN
+Jared Villarreal,Car,Cash,1807.23,57.11,1864.34,2023-07-11,Australia,EXEC
+Cheyenne Curtis,Air,Card,1968.95,119.21,2088.16,2023-09-29,Germany,EXEC
+Rebecca Avila,Air,Card,1572.49,97.33,1669.82,2024-03-06,United States,ENGG
+Andrea Wright,Meals,Cash,1682.56,35.59,1718.15,2024-01-06,Australia,EXEC
+Ronald Garcia,Meals,Cash,329.38,26.62,356.0,2023-10-04,Canada,ENGG
+Tracy Allen,Air,Cash,443.26,39.34,482.6,2023-11-18,India,ADMN
+Julian Wells,Car,Cash,408.8,30.53,439.33,2023-05-18,United Kingdom,FINC
+Richard Santiago,Hotel,Cash,1003.79,78.23,1082.02,2023-04-22,United Kingdom,EXEC
+April Goodwin,Car,Card,497.27,13.35,510.62,2023-02-11,Canada,SALS
+Anthony Cordova,Air,Card,1905.07,99.27,2004.34,2024-10-10,India,SALS
+Jason Weeks,Car,Cash,605.4,53.19,658.59,2024-06-24,Australia,ADMN
+Holly White,Car,Cash,1478.16,108.88,1587.04,2024-07-30,United Kingdom,ADMN
+Mr. George Henry,Hotel,Card,1439.8,140.91,1580.71,2023-04-30,Australia,EXEC
+Dawn Hopkins,Hotel,Card,1502.54,71.81,1574.35,2023-01-26,Germany,SALS
+James Peters,Hotel,Card,1175.87,54.7,1230.57,2024-07-08,Australia,ADMN
+Michelle Butler,Air,Card,1102.15,31.57,1133.72,2023-10-14,India,ENGG
+Terrance Cross,Meals,Cash,74.74,5.29,80.03,2024-09-11,India,ADMN
+Noah Torres,Air,Cash,1584.01,96.18,1680.19,2024-04-14,United States,FINC
+Destiny Green,Air,Card,360.61,8.45,369.06,2023-01-28,United States,FINC
+Sean Waller,Air,Card,476.05,31.89,507.94,2023-10-02,Germany,FINC
+Carrie Shepard,Hotel,Card,524.71,27.85,552.56,2023-09-17,United Kingdom,SALS
+Angela Davila,Meals,Card,272.18,25.36,297.54,2024-03-17,Canada,EXEC
+Michael Mcdaniel,Car,Card,751.24,47.25,798.49,2023-02-22,India,FINC
+Michael Johnson,Meals,Card,974.82,36.33,1011.15,2024-10-02,India,ENGG
+Lisa Nelson DDS,Car,Card,739.87,60.46,800.33,2023-11-23,Canada,SALS
+Marcus Lee,Hotel,Cash,833.99,81.13,915.12,2024-06-09,India,EXEC
+Michael Crawford,Car,Cash,1596.73,50.33,1647.06,2024-09-28,United Kingdom,ADMN
+Laurie Cardenas,Hotel,Cash,112.25,7.65,119.9,2024-03-08,Canada,EXEC
+Robert Nelson,Air,Card,1868.56,126.24,1994.8,2024-02-28,India,FINC
+Julie Ballard,Car,Cash,274.09,20.09,294.18,2024-03-12,India,ENGG
+Jill Horn,Meals,Card,482.92,48.13,531.05,2024-04-28,Australia,FINC
+Patricia Matthews,Car,Card,1681.33,157.5,1838.83,2024-05-31,Canada,SALS
+Michelle Hatfield,Air,Card,1515.02,64.67,1579.69,2023-05-21,United States,ENGG
+Justin Allen,Hotel,Cash,653.55,14.17,667.72,2023-08-20,Australia,EXEC
+Christopher Torres,Car,Card,1628.62,114.99,1743.61,2023-09-04,Germany,ENGG
+Reginald Garcia,Meals,Cash,1066.32,100.91,1167.23,2024-09-09,Australia,SALS
+Melissa Decker,Air,Card,719.16,27.71,746.87,2024-07-27,Canada,FINC
+Donald Lawrence,Hotel,Cash,1739.48,115.27,1854.75,2024-11-01,Australia,ADMN
+Diana Knight,Air,Cash,1551.43,34.59,1586.02,2023-10-08,Canada,SALS
+Bonnie Hogan,Car,Cash,990.05,96.46,1086.51,2023-11-30,Germany,FINC
+Rebecca Murphy,Air,Cash,1844.11,173.08,2017.19,2024-06-24,Canada,FINC
+Brian Gray,Car,Cash,376.99,37.49,414.48,2023-08-04,United Kingdom,SALS
+Bradley Davis,Meals,Card,234.72,15.35,250.07,2023-01-22,India,ADMN
+Lisa Campbell,Meals,Cash,931.39,76.68,1008.07,2024-10-20,United Kingdom,EXEC
+Brandon Bender,Air,Card,359.12,32.76,391.88,2024-09-19,United States,FINC
+Christopher Armstrong,Meals,Cash,217.91,11.12,229.03,2023-11-18,United States,ADMN
+Frank Atkinson,Car,Card,475.52,26.33,501.85,2023-04-15,United Kingdom,FINC
+Leslie Mccall,Meals,Cash,507.81,45.39,553.2,2023-09-30,United States,SALS
+Pamela Ball,Air,Cash,853.76,61.31,915.07,2023-02-14,United Kingdom,ADMN
+Sarah Castro,Car,Cash,1576.6,119.2,1695.8,2023-09-19,Canada,SALS
+Elizabeth Contreras,Hotel,Cash,144.79,3.17,147.96,2024-09-02,Australia,ADMN
+Jose Delacruz,Hotel,Cash,203.37,8.25,211.62,2024-06-09,India,ADMN
+Caleb Larsen,Air,Cash,543.9,38.73,582.63,2023-06-08,Canada,EXEC
+Scott Flores,Hotel,Card,338.51,20.06,358.57,2023-12-14,Germany,ENGG
+Calvin Bennett,Hotel,Cash,1850.37,146.79,1997.16,2024-02-22,United Kingdom,ADMN
+Paige Craig,Hotel,Cash,964.19,39.56,1003.75,2023-01-31,United States,ENGG
+Donald Hurst,Meals,Card,347.0,20.03,367.03,2023-05-11,Germany,FINC
+Jack Gibson,Meals,Cash,1879.3,156.45,2035.75,2023-04-25,Australia,ADMN
+Jennifer Jones,Hotel,Cash,480.13,37.89,518.02,2024-06-02,United States,ADMN
+Connor Evans,Hotel,Card,1620.55,61.76,1682.31,2023-03-25,Germany,SALS
+Betty Gregory,Air,Card,1608.03,63.67,1671.7,2024-09-12,India,ADMN
+Justin Paul,Car,Card,868.12,53.66,921.78,2023-01-29,United States,EXEC
+Edward Becker,Hotel,Card,128.06,10.76,138.82,2023-12-05,India,FINC
+Joshua Flores,Car,Card,575.04,33.34,608.38,2023-03-23,Canada,ADMN
+Tonya Garza,Hotel,Card,1228.57,115.21,1343.78,2024-02-21,United Kingdom,FINC
+James Wilson,Meals,Card,286.71,26.51,313.22,2024-09-18,Germany,FINC
+James Walker,Car,Cash,1331.58,28.11,1359.69,2023-04-04,India,FINC
+Brian Hill,Car,Cash,151.1,14.86,165.96,2024-02-05,United States,EXEC
+Benjamin Montgomery,Meals,Cash,707.36,35.53,742.89,2024-08-16,Australia,SALS
+Lisa Nelson,Car,Card,372.96,15.66,388.62,2024-01-18,United States,ADMN
+Robert Miller,Hotel,Card,1077.71,80.46,1158.17,2023-02-01,Australia,SALS
+Kristin Christian,Hotel,Card,1475.62,136.46,1612.08,2024-05-29,India,FINC
+Joyce Hayes,Hotel,Cash,1782.51,141.17,1923.68,2024-06-04,India,FINC
+Kelsey Mullins,Air,Cash,430.67,42.11,472.78,2023-12-06,Australia,FINC
+Philip Cooper,Air,Cash,256.46,6.93,263.39,2024-07-31,India,SALS
+Jason Lewis,Meals,Cash,1450.16,134.75,1584.91,2024-04-29,Germany,EXEC
+James Aguilar,Air,Cash,678.63,57.22,735.85,2023-02-03,Germany,EXEC
+Brian Summers,Air,Card,1939.93,150.07,2090.0,2024-09-05,United States,ENGG
+Catherine Hall,Meals,Cash,1819.71,92.43,1912.14,2023-05-15,United Kingdom,ENGG
+Sara Monroe,Meals,Card,1799.88,60.84,1860.72,2024-08-08,Australia,SALS
+Michael Wilson,Car,Card,111.66,9.36,121.02,2023-07-05,United Kingdom,EXEC
+Shannon Bishop,Air,Cash,559.82,21.25,581.07,2024-02-10,India,EXEC
+Matthew Larsen,Meals,Card,1171.52,110.99,1282.51,2024-10-26,Germany,FINC
+Mr. David Potter,Car,Card,980.87,72.26,1053.13,2024-02-16,Germany,EXEC
+Mr. Justin Hunt,Air,Cash,1477.64,120.02,1597.66,2024-06-18,United States,ADMN
+Ashley Smith,Hotel,Cash,958.43,58.2,1016.63,2023-09-10,India,FINC
+Shaun Garrett,Air,Cash,1091.88,30.65,1122.53,2024-07-03,Canada,ADMN
+Steven Young,Meals,Cash,1552.34,81.47,1633.81,2023-01-17,India,EXEC
+Grant Owens,Air,Card,495.97,47.8,543.77,2023-11-10,India,EXEC
+Lisa Patel,Air,Card,935.02,52.76,987.78,2024-12-28,Germany,SALS
+Brett Miller,Air,Card,411.96,23.3,435.26,2024-02-09,United States,ENGG
+Cassie Vargas,Hotel,Card,1003.61,22.86,1026.47,2024-12-27,Australia,SALS
+Dr. Theresa Carson,Hotel,Card,1207.47,83.36,1290.83,2024-03-14,United Kingdom,ADMN
+Susan Johnson,Meals,Card,1788.54,125.57,1914.11,2023-07-31,United Kingdom,ENGG
+Teresa Snyder,Hotel,Card,1573.55,61.84,1635.39,2023-02-14,United Kingdom,SALS
+Pamela Smith,Meals,Card,1980.67,179.88,2160.55,2023-10-03,India,FINC
+Tiffany Mendez,Car,Card,834.46,52.42,886.88,2024-08-09,Canada,EXEC
+Ashley Olsen,Hotel,Cash,583.84,40.16,624.0,2024-02-09,Canada,EXEC
+Andrew English,Car,Card,1731.13,137.74,1868.87,2024-02-21,Germany,EXEC
+Kimberly Moran,Hotel,Cash,629.07,55.36,684.43,2024-09-20,United Kingdom,ENGG
+Michael Davis,Meals,Card,1948.52,108.11,2056.63,2023-06-22,United Kingdom,EXEC
+Kristin Harris,Meals,Cash,486.1,41.02,527.12,2024-05-30,Germany,ENGG
+Dana Davis DDS,Car,Cash,207.23,12.48,219.71,2024-08-02,United States,ENGG
+Michael Hicks,Air,Card,1314.36,37.54,1351.9,2024-07-18,Canada,ENGG
+Dr. Destiny Patel,Air,Cash,352.17,28.42,380.59,2024-08-14,United Kingdom,ENGG
+Heather Johnston DVM,Air,Card,852.25,25.98,878.23,2023-05-29,Germany,ADMN
+Jennifer Chapman,Car,Cash,1713.16,82.95,1796.11,2023-07-28,United Kingdom,SALS
+Maria Montgomery,Meals,Cash,529.15,41.84,570.99,2023-03-27,United States,ADMN
+Daniel Thompson,Car,Cash,1157.47,93.85,1251.32,2023-12-27,United States,EXEC
+Edward Casey,Car,Cash,358.95,17.01,375.96,2023-09-06,United States,ADMN
+Mario Marquez,Hotel,Cash,1914.81,186.89,2101.7,2024-03-10,Australia,FINC
+Michelle Davis,Meals,Card,1397.24,100.27,1497.51,2023-01-20,United States,FINC
+Cynthia Webb,Air,Cash,1866.03,158.68,2024.71,2024-01-22,India,ADMN
+Matthew Hopkins,Car,Cash,1084.12,26.51,1110.63,2023-09-02,United Kingdom,EXEC
+Dustin Fields,Hotel,Cash,1935.61,75.67,2011.28,2023-03-10,Australia,SALS
+Janet Hamilton,Air,Card,723.71,51.16,774.87,2024-08-21,United States,EXEC
+Melanie Mejia,Hotel,Card,635.48,20.12,655.6,2024-03-22,India,ENGG
+Spencer Simmons,Car,Card,1989.99,161.03,2151.02,2024-08-13,Canada,ADMN
+Jesse Conway,Air,Cash,495.16,36.35,531.51,2024-02-02,United States,FINC
+Kendra Lee,Car,Cash,1973.43,141.96,2115.39,2023-10-26,Australia,EXEC
+Robin Bell,Air,Card,1687.07,94.52,1781.59,2023-11-11,Canada,ADMN
+Natalie King,Car,Card,914.54,26.12,940.66,2024-11-25,Canada,FINC
+Mason Arias,Hotel,Cash,872.6,41.76,914.36,2024-06-24,Australia,SALS
+Zachary Sims,Car,Cash,600.55,44.82,645.37,2023-05-13,Australia,SALS
+David Murray,Car,Cash,1792.0,73.13,1865.13,2023-04-01,United States,SALS
+Adam Conrad,Car,Cash,640.35,50.22,690.57,2023-09-29,United Kingdom,SALS
+Kathleen Davis,Hotel,Cash,1285.19,32.6,1317.79,2023-09-25,Canada,FINC
+Collin Vaughan,Hotel,Cash,1219.91,57.56,1277.47,2024-08-15,United Kingdom,FINC
+Abigail Armstrong,Hotel,Cash,1025.15,92.85,1118.0,2024-11-09,Australia,FINC
+Veronica Taylor,Air,Cash,1528.97,120.67,1649.64,2023-12-18,Australia,SALS
+Kim Wilson,Car,Card,618.54,39.42,657.96,2024-04-06,United States,FINC
+Adam Long,Meals,Cash,1193.44,67.32,1260.76,2023-11-19,Canada,ADMN
+Tonya Hunter,Car,Cash,485.25,38.35,523.6,2024-12-22,United States,ENGG
+Wendy Oconnor,Air,Card,1415.41,70.08,1485.49,2023-09-08,Canada,ENGG
+Jennifer Brown,Car,Cash,1207.98,64.88,1272.86,2024-08-12,United Kingdom,ENGG
+Roger Simmons,Air,Card,585.47,54.31,639.78,2023-11-22,United States,ADMN
+Shelby Meyer,Car,Card,458.71,40.75,499.46,2023-08-18,Germany,ADMN
+Jeremy Lopez,Air,Cash,1794.02,120.47,1914.49,2023-04-18,Australia,ADMN
+Timothy Davis,Hotel,Cash,1539.29,117.02,1656.31,2024-06-15,Germany,ENGG
+Thomas Meadows,Air,Card,272.76,6.36,279.12,2024-04-12,United Kingdom,EXEC
+Jorge Singh,Air,Cash,1378.86,49.38,1428.24,2023-07-30,India,ADMN
+Christian Jennings,Car,Card,1557.68,104.9,1662.58,2023-11-26,Germany,EXEC
+Tiffany Sanchez,Hotel,Cash,1669.59,35.45,1705.04,2023-05-29,United Kingdom,SALS
+Tim Obrien,Car,Card,1671.7,69.95,1741.65,2024-11-24,Australia,ENGG
+Marcus Johnson,Air,Cash,699.46,30.99,730.45,2023-04-21,Australia,FINC
+Miranda Higgins,Meals,Cash,1124.8,76.66,1201.46,2024-12-28,United States,ENGG
+David Davis,Hotel,Cash,539.21,14.94,554.15,2024-01-01,United States,EXEC
+Aaron Randall,Meals,Card,610.6,36.97,647.57,2023-03-16,United States,EXEC
+Lucas Richards,Car,Card,666.93,66.01,732.94,2024-07-07,United Kingdom,SALS
+Kimberly Brown,Meals,Card,1864.18,179.19,2043.37,2023-08-03,Canada,ADMN
+Yolanda Sandoval,Meals,Cash,1415.32,47.05,1462.37,2024-02-06,United Kingdom,SALS
+Kathleen Weeks,Meals,Cash,1357.31,96.16,1453.47,2023-07-08,Canada,ENGG
+Jacob Stein,Car,Card,1280.96,104.17,1385.13,2023-10-24,Canada,EXEC
+Robert Watkins,Air,Cash,1195.03,61.34,1256.37,2023-06-06,Canada,ADMN
+Cassandra Gilmore,Meals,Card,745.0,66.38,811.38,2024-06-23,United States,ADMN
+Justin Bowen,Hotel,Cash,931.22,83.31,1014.53,2023-08-05,Canada,EXEC
+Robin Hughes,Meals,Cash,1167.19,96.16,1263.35,2023-07-19,Australia,FINC
+Julie Ingram,Meals,Card,1818.51,140.85,1959.36,2023-08-10,Canada,ENGG
+Jessica Duke,Hotel,Cash,571.24,50.0,621.24,2023-09-22,Australia,SALS
+Sara Clark,Meals,Cash,932.18,34.72,966.9,2024-12-13,Australia,SALS
+John Allen,Hotel,Card,1651.96,62.72,1714.68,2024-07-25,United States,EXEC
+Erika Chavez,Car,Cash,1785.59,159.6,1945.19,2023-11-20,Australia,FINC
+Omar Jordan,Air,Card,357.71,32.87,390.58,2023-03-12,Canada,EXEC
+Angela Johnson,Meals,Cash,684.67,42.13,726.8,2024-02-08,United States,SALS
+Sergio Love,Hotel,Card,1315.99,54.48,1370.47,2024-10-01,Canada,SALS
+Timothy Turner,Meals,Cash,375.65,27.31,402.96,2024-07-05,United States,ENGG
+Carol Bowen,Meals,Card,1126.14,61.91,1188.05,2023-07-16,United States,FINC
+Nicholas Harvey,Air,Card,520.81,20.62,541.43,2023-01-03,United States,EXEC
+Bill Johnson,Meals,Card,1232.39,100.87,1333.26,2024-09-15,United Kingdom,SALS
+Donald Bryant,Hotel,Card,731.31,27.72,759.03,2023-11-04,United States,ADMN
+Johnny Smith,Hotel,Cash,747.83,49.09,796.92,2023-01-28,Canada,FINC
+Jennifer Ford,Car,Card,1138.2,83.18,1221.38,2024-03-18,Canada,EXEC
+William Miller,Hotel,Card,943.76,55.06,998.82,2024-04-16,Germany,ENGG
+Amy Allen,Air,Cash,1838.53,39.62,1878.15,2024-10-06,Canada,SALS
+Corey Hayes,Car,Cash,1471.72,130.54,1602.26,2024-03-25,Canada,FINC
+Michelle Castillo,Meals,Card,659.44,25.25,684.69,2024-01-14,Canada,ENGG
+Amanda Sutton,Meals,Card,376.35,22.43,398.78,2024-04-26,Germany,EXEC
+Tara Hall,Air,Cash,830.21,29.14,859.35,2023-12-05,United Kingdom,FINC
+Ryan Johnson,Meals,Card,1061.55,58.66,1120.21,2024-10-21,Australia,ADMN
+Paul Mora,Air,Cash,908.76,45.68,954.44,2024-09-26,Australia,EXEC
+Dawn Rhodes,Car,Card,394.85,15.01,409.86,2023-08-12,Germany,SALS
+Anthony Browning,Car,Cash,363.2,31.2,394.4,2024-05-19,India,ADMN
+Dr. Ruth Smith,Meals,Card,754.74,56.83,811.57,2024-08-20,Australia,SALS
+Mr. James Harrison,Meals,Card,1833.34,182.87,2016.21,2024-05-18,India,ADMN
+Lisa Turner,Car,Card,404.92,11.92,416.84,2024-08-19,Germany,ENGG
+Marissa Kramer MD,Air,Card,283.45,7.36,290.81,2023-06-28,Canada,ENGG
+Eric Moore,Hotel,Cash,65.69,5.74,71.43,2024-09-10,India,SALS
+James Turner,Car,Card,1842.78,159.07,2001.85,2024-03-29,United States,FINC
+Grant Melendez,Air,Card,700.16,65.94,766.1,2024-01-13,Germany,ENGG
+Christina Johnson,Hotel,Cash,1983.94,111.48,2095.42,2024-12-05,India,SALS
+James Schneider,Hotel,Card,1547.16,137.19,1684.35,2023-03-07,Australia,SALS
+Brooke Campbell,Meals,Card,1221.04,43.81,1264.85,2024-04-02,United Kingdom,EXEC
+Jeffrey Russell,Air,Cash,1997.63,112.15,2109.78,2024-03-18,Australia,FINC
+Patrick Martin,Car,Cash,1361.83,104.79,1466.62,2024-02-16,India,EXEC
+Oscar Hernandez,Meals,Cash,1497.69,131.11,1628.8,2024-08-29,United States,EXEC
+Amanda Barron,Meals,Cash,1936.0,61.81,1997.81,2023-03-06,Germany,ENGG
+Earl Ellis,Car,Card,514.42,35.6,550.02,2023-04-12,Canada,FINC
+Jessica Lewis,Meals,Card,630.01,60.82,690.83,2023-06-28,India,EXEC
+Kerry Reyes,Air,Cash,63.07,2.78,65.85,2023-01-26,United Kingdom,FINC
+Grant Holloway,Hotel,Card,1382.08,123.94,1506.02,2023-10-21,Germany,ENGG
+Bruce Fischer,Meals,Card,946.85,51.25,998.1,2024-04-11,Germany,FINC
+David Wilson,Car,Card,1639.82,67.2,1707.02,2024-01-06,Canada,SALS
+Nathan Mcdonald,Hotel,Cash,1244.1,92.67,1336.77,2023-04-25,Australia,EXEC
+Jill Summers,Air,Cash,155.69,11.41,167.1,2023-08-07,Germany,SALS
+Samuel Oneill,Air,Card,1373.16,104.85,1478.01,2024-09-12,United Kingdom,FINC
+Robert Green,Car,Cash,1379.57,88.85,1468.42,2024-09-29,Australia,ENGG
+Craig Gates,Meals,Card,1848.37,61.74,1910.11,2024-08-09,Germany,FINC
+Sandra Shepherd,Meals,Cash,1327.81,112.41,1440.22,2023-03-07,United Kingdom,FINC
+Lauren Sellers,Air,Cash,515.35,34.89,550.24,2024-03-13,Canada,ADMN
+Kristina Thomas,Hotel,Card,1827.53,55.12,1882.65,2023-11-18,Germany,SALS
+Paul Hickman,Meals,Card,408.26,21.79,430.05,2023-09-14,Australia,ADMN
+Spencer Adkins,Hotel,Cash,1820.71,136.7,1957.41,2024-02-21,India,FINC
+Alison Edwards,Meals,Cash,1169.39,95.94,1265.33,2024-03-25,Canada,FINC
+Carla Patterson,Car,Card,1620.3,113.59,1733.89,2024-08-05,Canada,ENGG
+Kristy Haas,Meals,Card,1145.23,80.32,1225.55,2023-11-22,United Kingdom,ENGG
+Steven Ho,Car,Card,348.15,20.72,368.87,2024-06-10,Germany,SALS
+Michelle Mays,Meals,Card,93.25,2.58,95.83,2024-05-31,United Kingdom,ADMN
+Phyllis Stephens,Hotel,Card,1178.01,37.72,1215.73,2023-02-27,Canada,SALS
+Katrina Wallace,Air,Cash,85.8,5.68,91.48,2024-03-01,India,FINC
+Kyle Clark,Car,Cash,1802.54,86.69,1889.23,2024-07-05,Germany,ENGG
+Amanda Moody,Hotel,Card,241.78,5.89,247.67,2023-09-26,Germany,EXEC
+Sherry Bentley,Car,Cash,1358.08,79.4,1437.48,2023-06-21,India,SALS
+Brian Rivera,Meals,Cash,1807.97,60.81,1868.78,2023-04-20,Australia,ADMN
+Kayla Curtis,Car,Cash,651.89,21.68,673.57,2024-07-01,Canada,EXEC
+Samantha Howell,Meals,Card,323.33,13.84,337.17,2023-02-03,Canada,ADMN
+Carolyn Smith,Hotel,Cash,1284.27,38.81,1323.08,2023-11-06,United Kingdom,FINC
+Christian Armstrong,Air,Cash,716.24,28.98,745.22,2024-06-07,Canada,EXEC
+Valerie Walsh,Meals,Card,1487.18,88.38,1575.56,2023-11-20,India,ENGG
+Joy Lam,Meals,Card,1310.62,83.16,1393.78,2023-10-28,Germany,ADMN
+Bill Baker,Car,Cash,1817.62,38.4,1856.02,2023-05-07,United States,SALS
+Grace Walker,Hotel,Cash,782.44,71.51,853.95,2023-02-15,United Kingdom,ENGG
+Charles Aguilar,Car,Cash,575.39,17.84,593.23,2023-09-24,United Kingdom,ADMN
+Kevin Lee,Meals,Cash,1820.56,114.97,1935.53,2023-11-04,United States,ENGG
+David Williams,Meals,Cash,1047.53,101.78,1149.31,2023-01-01,Canada,FINC
+Deborah Bennett,Car,Cash,1896.52,79.03,1975.55,2024-05-24,Australia,FINC
+Mary Martinez,Meals,Cash,597.91,27.73,625.64,2024-08-19,India,ADMN
+Aaron Christian,Car,Card,560.07,15.65,575.72,2024-11-17,Australia,ENGG
+Edward Wright,Air,Card,1070.75,64.1,1134.85,2023-03-30,United States,EXEC
+Kimberly Massey,Car,Cash,1159.3,23.74,1183.04,2023-02-13,United States,ADMN
+Lindsay Allen,Car,Cash,1740.9,69.05,1809.95,2024-01-13,United Kingdom,EXEC
+Monica Fuller,Meals,Cash,174.56,15.08,189.64,2024-08-02,India,ENGG
+Greg Andrade,Hotel,Cash,410.63,18.74,429.37,2023-05-30,India,ADMN
+Kaitlyn Robbins,Car,Card,1338.46,61.84,1400.3,2024-12-07,Canada,EXEC
+Daniel Greene,Air,Card,1422.89,108.77,1531.66,2023-05-20,India,ADMN
+Rhonda Larson,Meals,Card,1071.93,88.43,1160.36,2023-03-10,India,FINC
+Justin Smith,Car,Card,1477.7,105.71,1583.41,2024-11-05,India,ADMN
+Sara Torres,Meals,Cash,1580.24,96.47,1676.71,2023-04-20,United States,EXEC
+Evan Harris,Hotel,Card,339.23,29.36,368.59,2024-03-29,India,ADMN
+Jamie Johnson,Car,Cash,1242.37,51.52,1293.89,2023-04-13,United Kingdom,EXEC
+Joel Black,Air,Card,1734.3,108.67,1842.97,2024-02-18,Germany,SALS
+Angela Gould,Air,Card,837.61,52.79,890.4,2024-02-06,Australia,SALS
+Steven Doyle,Hotel,Cash,68.21,5.31,73.52,2023-04-25,United States,ENGG
+Tina Jordan,Air,Card,483.59,41.65,525.24,2024-07-19,Canada,FINC
+Stephanie Norton,Car,Card,715.91,42.82,758.73,2024-12-05,Australia,FINC
+Richard Campbell,Hotel,Card,620.92,40.87,661.79,2023-07-10,United States,EXEC
+Jacqueline Smith,Hotel,Card,376.07,15.53,391.6,2024-01-16,Canada,FINC
+Jeffrey Stewart,Meals,Cash,1493.75,36.18,1529.93,2023-06-03,United Kingdom,FINC
+Jeffery Williams,Meals,Card,978.44,82.9,1061.34,2023-08-14,Canada,EXEC
+Valerie Fisher,Meals,Cash,386.2,8.4,394.6,2023-11-14,Canada,ADMN
+James Webb,Hotel,Card,1930.03,78.92,2008.95,2024-09-06,Australia,ENGG
+Nathaniel Alvarado,Car,Cash,947.77,82.23,1030.0,2024-03-08,United Kingdom,SALS
+Philip Miles,Meals,Cash,994.91,69.21,1064.12,2023-05-06,United Kingdom,ENGG
+Bruce Stevenson,Hotel,Cash,1828.59,161.44,1990.03,2024-06-05,India,FINC
+Haley Bryant,Air,Cash,1395.8,119.41,1515.21,2024-04-11,India,EXEC
+Joseph Acosta,Hotel,Cash,143.59,10.8,154.39,2024-12-11,India,EXEC
+Mr. Jeremy Gutierrez MD,Hotel,Card,691.87,56.54,748.41,2024-08-01,Germany,SALS
+Jordan Santos,Car,Card,181.26,15.98,197.24,2023-09-12,Canada,ADMN
+Courtney Hill,Air,Card,1675.19,161.75,1836.94,2024-10-05,United Kingdom,ENGG
+Alison Hodge,Hotel,Card,1462.1,41.76,1503.86,2023-06-27,Germany,EXEC
+Harry Scott,Hotel,Cash,1277.22,65.16,1342.38,2023-01-03,Australia,EXEC
+Norma Burton,Air,Cash,129.71,10.78,140.49,2023-07-28,United States,SALS
+Rebecca Howard,Car,Card,946.2,54.27,1000.47,2023-03-24,United States,SALS
+Kelsey Sweeney,Car,Cash,1855.64,139.63,1995.27,2024-11-03,Australia,FINC
+Lisa Bishop,Meals,Card,433.42,32.48,465.9,2023-04-24,United Kingdom,EXEC
+Elaine Williams,Meals,Cash,273.41,26.09,299.5,2023-05-08,Australia,ENGG
+Eric Myers,Meals,Cash,1413.27,134.37,1547.64,2024-07-19,United States,ENGG
+Claire Campbell,Meals,Card,681.45,14.63,696.08,2023-05-06,United States,FINC
+Brent Adams,Hotel,Card,1765.06,101.85,1866.91,2024-01-10,United Kingdom,ADMN
+Tiffany Bell,Air,Card,1797.53,82.4,1879.93,2024-06-13,Canada,FINC
+Dillon Davis,Air,Card,746.66,37.54,784.2,2024-06-24,Australia,ENGG
+Kelly Mccarty,Hotel,Cash,1325.21,57.25,1382.46,2024-07-14,United States,EXEC
+Patricia Hudson,Meals,Cash,1709.41,54.05,1763.46,2023-12-04,Australia,SALS
+Eugene Turner,Air,Card,1096.87,67.36,1164.23,2024-08-26,Germany,FINC
+Morgan Lee,Meals,Cash,72.59,5.53,78.12,2023-04-04,India,ADMN
+Juan Bird,Car,Card,250.58,11.97,262.55,2023-11-19,Germany,ENGG
+William Mclean,Air,Cash,85.53,5.54,91.07,2023-10-17,United Kingdom,SALS
+Jennifer Martin,Meals,Cash,324.06,17.04,341.1,2023-02-25,Germany,ADMN
+Paula Smith,Air,Cash,1657.6,59.45,1717.05,2024-11-26,India,ENGG
+Deanna Schwartz,Hotel,Card,350.16,18.13,368.29,2024-11-03,India,EXEC
+Gregory Russell,Hotel,Cash,408.67,10.03,418.7,2024-10-02,Germany,EXEC
+Jason Cooper PhD,Hotel,Card,818.26,43.06,861.32,2023-01-05,India,ENGG
+Brandon Armstrong,Hotel,Cash,585.15,43.87,629.02,2023-07-09,United States,SALS
+Angela Sawyer,Car,Card,752.44,22.06,774.5,2023-04-03,United Kingdom,ENGG
+Derek Kelly,Hotel,Card,534.47,36.32,570.79,2023-01-17,United Kingdom,FINC
+Melissa Young,Meals,Card,434.94,11.6,446.54,2024-12-05,Germany,EXEC
+Christopher Fields,Air,Cash,1511.62,43.94,1555.56,2024-03-14,United States,ENGG
+Crystal Nicholson,Car,Card,1360.26,116.18,1476.44,2024-11-29,Australia,ENGG
+David Norris,Air,Cash,712.5,31.36,743.86,2024-05-05,Canada,ADMN
+Larry Fischer,Air,Cash,1946.6,123.13,2069.73,2024-08-25,United Kingdom,ENGG
+Ronnie Chavez,Air,Card,897.17,64.85,962.02,2024-09-29,Australia,ADMN
+Sean Ortiz,Meals,Card,362.37,19.11,381.48,2023-11-21,United Kingdom,SALS
+Peter Stanton,Air,Cash,98.27,5.6,103.87,2024-04-20,Australia,ADMN
+Luis Sullivan,Meals,Cash,1669.39,135.58,1804.97,2024-01-26,Germany,ENGG
+Danielle Khan,Car,Card,1148.92,110.58,1259.5,2023-12-08,United States,SALS
+Julie Simpson,Car,Card,1226.61,42.62,1269.23,2023-03-03,India,SALS
+Aaron Harris,Meals,Cash,1881.91,102.34,1984.25,2024-08-02,India,FINC
+Darren Mccall,Meals,Card,1776.85,46.47,1823.32,2024-07-23,United States,ENGG
+Jonathan Mills,Car,Cash,711.53,30.55,742.08,2024-09-14,Australia,FINC
+Jennifer Peterson,Hotel,Card,1403.77,29.74,1433.51,2024-11-07,India,ADMN
+Paul Black,Meals,Card,1436.88,75.08,1511.96,2024-09-24,Germany,FINC
+Marilyn Olson,Hotel,Card,1110.16,105.66,1215.82,2023-02-16,Australia,ENGG
+Joann Reeves,Car,Cash,198.05,15.5,213.55,2024-01-09,India,ENGG
+Melanie Martinez,Meals,Cash,348.32,22.16,370.48,2023-12-06,Canada,ADMN
+Shannon Liu,Air,Cash,310.72,30.5,341.22,2023-12-16,Australia,SALS
+Joanne Wood,Car,Cash,1144.78,110.18,1254.96,2023-10-04,United States,SALS
+Luis Browning,Air,Cash,541.7,46.59,588.29,2023-05-23,Australia,SALS
+Clarence Beck MD,Air,Cash,1752.01,90.37,1842.38,2024-08-24,India,FINC
+April Cooper,Air,Cash,1080.84,50.55,1131.39,2023-12-23,United Kingdom,FINC
+Daniel Drake,Air,Cash,1909.51,161.21,2070.72,2023-08-06,Canada,EXEC
+Susan Roberts,Meals,Cash,1559.36,34.3,1593.66,2023-11-01,India,SALS
+David Reyes,Hotel,Card,1060.65,35.87,1096.52,2024-08-23,United Kingdom,ADMN
+Tina Friedman,Car,Card,1504.02,114.0,1618.02,2023-10-20,Australia,FINC
+Alan James,Hotel,Card,1125.28,71.53,1196.81,2024-02-19,Canada,FINC
+Jacob Davis,Air,Cash,803.13,53.63,856.76,2024-07-05,United States,EXEC
+Bryce Dunn,Meals,Cash,675.87,60.19,736.06,2023-04-10,United States,ENGG
+Dr. Grant Ferguson,Hotel,Card,1969.16,102.01,2071.17,2024-01-15,Germany,ADMN
+Shaun Sanders,Car,Card,557.47,54.52,611.99,2024-05-15,Germany,ADMN
+Sharon Landry,Air,Cash,667.66,22.52,690.18,2024-09-24,India,ENGG
+Sheri Mahoney,Car,Cash,1089.11,67.81,1156.92,2024-05-15,United States,EXEC
+Monique Gomez,Car,Cash,1558.68,61.14,1619.82,2023-02-15,United Kingdom,EXEC
+Kimberly Freeman,Meals,Card,1715.16,53.92,1769.08,2024-06-15,Germany,EXEC
+Holly Manning,Car,Cash,1927.89,183.0,2110.89,2024-12-21,United Kingdom,ENGG
+Douglas Mason,Meals,Cash,1301.22,49.25,1350.47,2024-08-19,United States,EXEC
+Lori Munoz,Air,Cash,1244.6,114.49,1359.09,2023-09-20,Germany,SALS
+Daniel Reid,Meals,Card,1302.23,77.56,1379.79,2023-11-26,Australia,ENGG
+Jessica Kelly,Hotel,Card,83.17,5.9,89.07,2023-07-17,India,FINC
+Jennifer Stephens,Meals,Card,88.29,2.84,91.13,2024-12-05,United Kingdom,EXEC
+Phillip Walker,Air,Card,1133.0,50.26,1183.26,2024-01-24,Germany,SALS
+Kelly Miller,Car,Cash,669.25,25.56,694.81,2023-10-03,Germany,FINC
+Jose Gutierrez,Hotel,Cash,1414.08,51.32,1465.4,2023-11-08,United Kingdom,FINC
+Kristin Vargas,Car,Cash,923.87,47.24,971.11,2024-06-15,Canada,FINC
+Diane Wiley,Meals,Cash,686.86,33.98,720.84,2023-08-01,United States,FINC
+Wendy Kramer,Meals,Card,1705.28,68.7,1773.98,2024-09-13,Germany,SALS
+Lisa Hayes,Meals,Cash,363.8,22.35,386.15,2023-05-07,United States,ADMN
+Matthew Hatfield,Hotel,Cash,1610.56,92.58,1703.14,2024-04-02,Germany,FINC
+Autumn Harris,Car,Card,858.64,69.57,928.21,2023-06-22,Germany,FINC
+Blake Guzman,Hotel,Cash,1226.54,120.84,1347.38,2023-07-01,India,SALS
+Kimberly Guerra,Car,Card,1134.66,102.03,1236.69,2024-03-29,Germany,ENGG
+Chase Walker,Car,Card,1701.72,133.32,1835.04,2023-12-29,United States,ADMN
+Michael Mahoney,Meals,Cash,1621.67,74.96,1696.63,2023-05-22,Germany,FINC
+Jennifer Sims,Hotel,Cash,1956.03,39.19,1995.22,2024-04-08,Canada,ADMN
+Bryan Stewart,Meals,Cash,774.11,17.97,792.08,2023-07-20,Germany,ADMN
+Angel Davila,Air,Card,217.82,10.38,228.2,2024-04-26,United States,EXEC
+Tony Farrell,Hotel,Card,349.09,10.36,359.45,2024-06-08,Australia,EXEC
+Kayla Miller,Hotel,Card,827.29,50.9,878.19,2024-04-08,India,EXEC
+Kristen Tucker,Hotel,Cash,735.52,39.48,775.0,2023-09-23,United Kingdom,SALS
+Timothy Mcfarland,Car,Card,1543.51,49.62,1593.13,2024-04-13,Australia,ADMN
+James Wallace,Air,Card,1776.78,157.99,1934.77,2024-05-30,Germany,FINC
+Yvette Mcdaniel,Air,Card,1359.0,120.25,1479.25,2023-03-07,Germany,FINC
+Lisa Phillips,Hotel,Cash,165.91,7.53,173.44,2023-06-03,Germany,ENGG
+Lisa Williams,Car,Cash,1310.83,111.38,1422.21,2023-08-04,India,ENGG
+Joseph Anderson,Meals,Card,1470.79,85.22,1556.01,2023-08-14,United States,EXEC
+Richard Stevens,Air,Card,567.26,47.69,614.95,2023-06-23,United States,ENGG
+Michael Nguyen,Car,Card,1295.29,98.64,1393.93,2024-03-27,Germany,ADMN
+Alicia Owens,Car,Cash,59.08,4.94,64.02,2023-02-16,Germany,ENGG
+Daniel Barton,Car,Cash,512.58,23.53,536.11,2024-05-21,Germany,ENGG
+Veronica Hobbs,Air,Card,692.22,62.14,754.36,2024-12-17,Canada,ENGG
+Michele Wallace,Air,Card,176.71,13.8,190.51,2023-04-24,United Kingdom,SALS
+Danielle Ruiz,Air,Card,797.0,51.33,848.33,2023-05-22,Germany,FINC
+Katelyn Zuniga,Meals,Cash,1497.62,49.17,1546.79,2023-06-09,United States,FINC
+Michael Ramos,Hotel,Card,1424.84,57.29,1482.13,2024-11-20,United Kingdom,ADMN
+Christine Trevino,Car,Card,955.54,84.19,1039.73,2024-03-04,Australia,FINC
+Patrick Rojas,Hotel,Card,279.66,22.37,302.03,2024-10-05,United Kingdom,EXEC
+Brian Johnson,Meals,Cash,201.8,14.86,216.66,2024-10-13,India,ADMN
+Stephanie Neal,Hotel,Card,1673.59,92.2,1765.79,2024-03-02,India,ENGG
+Ryan Edwards,Air,Card,1111.96,54.42,1166.38,2024-12-29,India,ENGG
+Derrick Hayes,Air,Cash,1647.55,36.09,1683.64,2023-04-29,Canada,FINC
+Kristina Brooks,Meals,Card,1486.99,128.45,1615.44,2023-10-10,Germany,FINC
+Caleb Freeman,Air,Cash,1598.89,84.14,1683.03,2024-04-20,United States,ADMN
+Pamela Mcneil,Air,Cash,272.69,10.44,283.13,2023-09-28,Canada,SALS
+Amanda Flores,Meals,Cash,698.58,44.76,743.34,2024-06-01,Canada,ADMN
+Jessica Johns,Car,Card,1543.26,84.58,1627.84,2023-03-28,India,FINC
+Douglas Williams,Car,Cash,1129.7,112.1,1241.8,2024-01-15,United States,SALS
+Michael White,Meals,Cash,997.99,40.67,1038.66,2023-05-14,India,SALS
+Michelle Reed,Hotel,Cash,1975.98,137.43,2113.41,2024-11-22,India,EXEC
+James Henry,Air,Card,1883.54,139.11,2022.65,2023-07-09,Australia,EXEC
+Mark Donovan,Car,Cash,51.32,2.52,53.84,2024-05-29,United States,ADMN
+Joshua Fuller,Hotel,Cash,377.51,26.06,403.57,2023-03-13,Canada,ENGG
+Latoya Mcclure,Hotel,Card,352.29,14.14,366.43,2024-06-18,India,SALS
+Sabrina Crosby,Meals,Card,1000.85,89.81,1090.66,2024-06-30,Canada,FINC
+Kathleen Reed,Hotel,Card,1126.78,32.41,1159.19,2024-08-18,India,SALS
+Courtney Scott,Meals,Card,780.1,25.62,805.72,2023-09-21,Canada,FINC
+Henry Scott,Air,Card,1043.59,101.19,1144.78,2024-06-29,United Kingdom,EXEC
+Mark Martin,Hotel,Card,1590.02,126.58,1716.6,2024-10-17,United Kingdom,ENGG
+Gerald Dean,Air,Card,999.25,21.81,1021.06,2023-05-24,Canada,EXEC
+Vincent Nelson,Meals,Cash,1241.47,57.56,1299.03,2024-02-18,India,ADMN
+Troy Keith,Meals,Card,196.88,14.49,211.37,2023-01-16,Australia,ADMN
+Michael Parker,Hotel,Cash,1775.38,68.02,1843.4,2024-01-16,United States,ENGG
+Carmen Smith,Car,Cash,704.18,29.93,734.11,2024-12-13,Germany,SALS
+Clayton Jensen,Meals,Card,1664.93,103.7,1768.63,2024-05-28,Australia,ENGG
+Desiree Bates DDS,Meals,Card,1439.0,93.56,1532.56,2024-09-20,Germany,ENGG
+Marissa Walsh,Air,Cash,1688.95,127.58,1816.53,2024-07-19,United States,ENGG
+Anthony Deleon,Air,Card,1301.79,37.21,1339.0,2023-08-09,Canada,FINC
+David Sullivan,Car,Cash,1432.26,99.76,1532.02,2024-06-11,United States,ENGG
+Mark Sandoval,Air,Card,1161.26,78.55,1239.81,2024-12-03,United Kingdom,FINC
+Tricia Pierce,Meals,Cash,1167.85,92.26,1260.11,2024-05-29,United States,ENGG
+Andrew Bennett,Car,Cash,1335.15,103.38,1438.53,2024-01-16,Germany,SALS
+Kevin Bell MD,Car,Cash,943.24,29.68,972.92,2024-06-21,Australia,FINC
+Dawn Flores,Hotel,Cash,379.83,32.96,412.79,2023-06-21,United States,ADMN
+Susan Schmidt,Air,Card,1638.07,84.36,1722.43,2024-10-27,United Kingdom,ADMN
+Cory Fritz,Meals,Cash,309.73,16.29,326.02,2024-03-05,United States,EXEC
+Suzanne Vincent,Hotel,Card,1500.49,106.78,1607.27,2023-05-22,India,ADMN
+Matthew Johnson,Meals,Card,1356.66,102.72,1459.38,2024-01-22,India,ADMN
+Jeffrey Smith,Hotel,Cash,653.38,39.34,692.72,2024-11-15,United Kingdom,ENGG
+Nathan Sanders,Hotel,Cash,223.75,12.39,236.14,2024-09-23,India,FINC
+Dylan Holmes,Air,Cash,286.82,18.01,304.83,2024-07-24,Germany,EXEC
+Allison Smith,Hotel,Card,1321.01,65.33,1386.34,2024-08-02,Germany,FINC
+Kenneth Haney,Car,Cash,51.8,2.94,54.74,2023-02-17,Germany,EXEC
+Anthony Moore,Car,Card,578.48,15.87,594.35,2023-01-27,Canada,FINC
+David Leonard,Hotel,Cash,1168.27,47.08,1215.35,2024-09-24,United States,ENGG
+Christopher Gray,Meals,Cash,846.88,43.38,890.26,2023-05-13,India,EXEC
+Ms. Heather Morgan,Meals,Cash,1920.19,108.66,2028.85,2023-09-03,Australia,SALS
+Margaret Wright,Air,Cash,406.44,37.01,443.45,2023-08-17,Canada,ADMN
+Nancy Oconnor,Car,Cash,550.89,42.91,593.8,2024-07-26,United States,EXEC
+Cynthia Bond,Car,Cash,1503.63,78.81,1582.44,2023-08-01,Australia,FINC
+Dylan Hayden,Meals,Cash,1507.06,58.36,1565.42,2024-10-14,Canada,SALS
+Adam Carroll,Air,Cash,1667.07,164.0,1831.07,2024-07-23,India,EXEC
+Nancy Martin,Meals,Card,1003.9,23.14,1027.04,2024-05-06,Germany,SALS
+John Mcdaniel,Air,Cash,252.31,12.15,264.46,2023-06-17,Australia,ENGG
+Diane Ramirez,Car,Card,572.07,27.78,599.85,2023-04-02,Germany,ENGG
+Molly Johnson,Air,Cash,1198.95,95.03,1293.98,2023-06-25,Australia,ENGG
+Valerie Garcia,Meals,Cash,1548.36,81.54,1629.9,2023-09-15,United States,EXEC
+Amanda Bond,Hotel,Card,480.35,40.69,521.04,2024-10-20,United States,EXEC
+Chad Ortiz,Hotel,Card,433.43,34.54,467.97,2023-09-26,United States,EXEC
+Harry Fleming,Meals,Card,410.12,38.39,448.51,2024-01-04,United States,SALS
+Patricia Flowers,Car,Card,689.5,48.41,737.91,2024-12-21,United States,EXEC
+Stephanie Bond,Car,Card,1965.7,163.89,2129.59,2023-08-05,United Kingdom,SALS
+Tony Garza,Meals,Cash,420.96,22.15,443.11,2023-09-10,Canada,EXEC
+Anthony Maddox,Car,Cash,1379.86,78.4,1458.26,2023-11-04,Canada,FINC
+Richard Mcdowell,Car,Card,1846.31,184.53,2030.84,2023-06-06,Germany,EXEC
+Linda Wilson,Car,Card,1205.63,64.33,1269.96,2024-04-11,United Kingdom,SALS
+Mrs. Ashley Kaufman,Meals,Cash,736.01,54.74,790.75,2024-07-28,United Kingdom,SALS
+Ricky Henderson,Meals,Card,453.98,30.07,484.05,2023-11-03,United States,FINC
+Angela Boyd,Air,Cash,892.03,39.95,931.98,2024-07-23,Australia,ADMN
+Jonathan Oliver,Air,Cash,1526.45,47.38,1573.83,2023-10-03,Germany,FINC
+Joe Daugherty,Car,Card,1150.01,82.16,1232.17,2023-10-28,Canada,SALS
+John Richardson,Hotel,Cash,1336.92,53.77,1390.69,2023-02-16,United States,ENGG
+Wayne Molina,Car,Cash,1278.45,114.36,1392.81,2024-09-05,United States,FINC
+Kaitlin Santos,Air,Cash,389.37,34.34,423.71,2023-07-23,Germany,SALS
+Alexis Fernandez,Hotel,Cash,1321.72,106.94,1428.66,2023-01-01,United Kingdom,SALS
+Michelle Hartman,Car,Card,1218.97,66.37,1285.34,2023-02-28,Canada,ENGG
+Dr. Scott Hall III,Hotel,Card,1808.44,154.76,1963.2,2023-06-18,India,ADMN
+Russell Miller,Car,Card,472.91,33.59,506.5,2023-08-19,United States,ENGG
+Mrs. Allison Young,Air,Cash,202.73,13.31,216.04,2024-12-30,United States,SALS
+Jason Perez,Car,Cash,1706.3,37.38,1743.68,2023-11-22,India,FINC
+Christopher Johnson,Meals,Card,1928.74,160.28,2089.02,2024-07-29,Canada,ENGG
+Dillon Parks,Air,Card,1338.09,99.5,1437.59,2024-12-13,United States,ENGG
+Bonnie Hartman,Car,Cash,1253.09,60.97,1314.06,2024-08-15,India,ADMN
+Michael Mcmahon,Air,Cash,1521.72,104.97,1626.69,2023-05-11,Germany,ENGG
+Angela Hernandez,Meals,Cash,1749.52,143.27,1892.79,2023-12-03,United Kingdom,EXEC
+Jason Henson,Meals,Cash,96.85,5.99,102.84,2023-02-11,United Kingdom,ENGG
+Tanya Underwood,Car,Card,1682.1,131.48,1813.58,2023-09-04,Germany,ENGG
+Nicholas Cox,Air,Card,752.15,44.4,796.55,2023-04-17,Australia,ENGG
+Rachel Tanner,Meals,Card,1906.98,179.91,2086.89,2024-01-05,Germany,ENGG
+Michael Roberts IV,Air,Cash,356.55,31.06,387.61,2024-12-19,India,FINC
+Angela Rios,Air,Card,1402.64,95.78,1498.42,2023-07-19,Germany,ENGG
+Ryan Thompson,Hotel,Card,1971.0,74.88,2045.88,2024-07-29,India,ENGG
+Danielle Henry,Meals,Card,1564.63,66.64,1631.27,2024-06-25,United States,ENGG
+Jacqueline Jensen MD,Air,Cash,1707.77,48.99,1756.76,2024-09-18,United Kingdom,ADMN
+Christopher Ray,Air,Card,119.34,10.73,130.07,2024-04-27,United States,FINC
+James Potter,Meals,Cash,1110.58,99.45,1210.03,2023-07-21,Germany,ADMN
+Cody Simmons,Air,Cash,1017.87,40.69,1058.56,2024-10-27,United States,EXEC
+Antonio Johnson,Air,Cash,1615.04,111.83,1726.87,2024-06-12,India,ADMN
+Samuel Hart,Car,Card,841.24,27.43,868.67,2023-02-13,India,ENGG
+Eric Smith,Hotel,Card,758.06,29.28,787.34,2024-03-08,Canada,SALS
+Kyle Eaton,Car,Cash,1285.2,84.35,1369.55,2023-11-01,United Kingdom,ENGG
+Barbara Luna,Air,Card,266.52,11.8,278.32,2023-02-23,India,ENGG
+John Turner,Air,Cash,1365.04,44.04,1409.08,2024-02-19,United Kingdom,FINC
+Heather Roberts,Meals,Card,1114.39,70.01,1184.4,2024-02-16,Germany,SALS
+Abigail King,Air,Cash,1113.98,36.21,1150.19,2024-03-22,Canada,ADMN
+Philip Clark,Car,Card,978.47,44.85,1023.32,2024-08-01,Germany,EXEC
+Bill White,Meals,Card,1734.75,120.02,1854.77,2023-05-10,United States,ENGG
+Jeffrey Nelson,Meals,Card,544.02,13.87,557.89,2023-08-23,United Kingdom,EXEC
+Michelle Alvarez,Meals,Cash,1540.53,88.28,1628.81,2024-01-10,Germany,FINC
+Michael Schultz,Car,Cash,331.01,16.96,347.97,2023-05-18,United States,SALS
+Lauren Jones,Meals,Cash,326.71,32.46,359.17,2024-07-31,United Kingdom,ADMN
+Alfred Dyer,Hotel,Cash,567.62,22.09,589.71,2024-12-17,India,FINC
+Michael Pope,Car,Card,921.56,38.88,960.44,2023-10-30,Canada,ENGG
+Gregory Hayes,Air,Cash,800.59,17.94,818.53,2024-05-14,United States,EXEC
+Mr. Karl Avila,Hotel,Cash,708.39,20.96,729.35,2024-06-28,United Kingdom,ENGG
+Cheryl Downs,Meals,Card,739.69,37.83,777.52,2023-08-17,United States,FINC
+Katherine Mccoy,Hotel,Cash,1971.35,79.06,2050.41,2023-12-24,Germany,EXEC
+Kristi Humphrey,Hotel,Cash,174.24,15.15,189.39,2024-11-10,Germany,FINC
+Ryan Hubbard,Meals,Cash,199.71,18.44,218.15,2023-06-03,Australia,EXEC
+Gregory Austin,Meals,Cash,734.21,14.78,748.99,2024-07-17,United Kingdom,ADMN
+Derek Benjamin,Hotel,Card,206.07,11.75,217.82,2023-12-05,Germany,SALS
+Cynthia Chan,Hotel,Cash,387.2,8.38,395.58,2024-04-17,Canada,SALS
+Jasmine Wade,Meals,Cash,288.63,22.38,311.01,2024-01-04,Germany,SALS
+Tammy Kelly,Car,Card,1621.23,156.9,1778.13,2024-02-09,Germany,EXEC
+Nichole Harrison,Hotel,Cash,675.15,42.27,717.42,2024-07-12,United Kingdom,ADMN
+Mrs. Bethany Carlson,Air,Cash,415.22,38.4,453.62,2023-09-21,Australia,ENGG
+Chelsea Kelly,Meals,Cash,919.5,62.02,981.52,2024-01-17,United States,EXEC
+Wendy Little,Car,Card,1284.53,79.43,1363.96,2023-01-20,United States,SALS
+Stephen Long,Car,Card,808.39,46.72,855.11,2024-12-01,Germany,FINC
+Ryan Johnson Jr.,Air,Cash,965.55,49.72,1015.27,2023-09-28,Australia,EXEC
+Janice Garner,Car,Card,1957.91,179.16,2137.07,2023-02-25,Canada,SALS
+Thomas Mercer,Hotel,Cash,1877.05,101.01,1978.06,2024-09-25,Australia,ENGG
+Anita Contreras,Air,Card,1890.91,178.42,2069.33,2023-10-12,Australia,ENGG
+Kristine Joyce,Meals,Card,1925.91,161.32,2087.23,2024-03-30,Canada,FINC
+Billy Fisher,Air,Cash,86.54,4.31,90.85,2024-03-12,United States,SALS
+Alicia Marshall DDS,Car,Cash,1284.81,107.54,1392.35,2024-09-04,Australia,ADMN
+Michael Sparks,Air,Cash,801.92,77.56,879.48,2024-12-20,Germany,EXEC
+Joshua Davis,Hotel,Card,1728.86,108.79,1837.65,2023-01-10,Canada,SALS
+Matthew Mahoney,Hotel,Cash,274.59,5.75,280.34,2024-01-19,Germany,ADMN
+Todd Jackson,Car,Card,111.58,10.78,122.36,2024-10-08,United States,ENGG
+Andrea Gonzalez,Car,Cash,194.15,18.98,213.13,2023-05-27,Germany,SALS
+Thomas Campbell,Air,Card,1016.41,31.06,1047.47,2024-12-17,India,ADMN
+Ruben Hernandez,Meals,Card,1182.19,52.6,1234.79,2024-07-30,United States,EXEC
+Stephanie Davis,Air,Cash,1568.35,33.54,1601.89,2024-02-11,United Kingdom,ENGG
+Ann Spence,Hotel,Cash,1325.9,33.76,1359.66,2023-03-06,United States,ADMN
+Cynthia Berry,Meals,Cash,696.43,68.66,765.09,2024-01-23,Australia,ENGG
+James Cox,Air,Card,943.83,44.6,988.43,2024-08-17,United States,SALS
+Jeffery Horne,Air,Cash,943.29,86.75,1030.04,2023-09-24,Canada,FINC
+Diane Campbell,Air,Cash,475.6,18.89,494.49,2023-12-28,Australia,FINC
+Breanna Smith,Hotel,Card,510.99,25.6,536.59,2024-03-18,United Kingdom,SALS
+Janice Moss,Air,Cash,1854.55,97.9,1952.45,2023-04-03,United Kingdom,FINC
+Thomas Ferguson,Meals,Cash,1510.5,133.05,1643.55,2023-09-02,Germany,SALS
+Kendra Wells,Hotel,Card,846.3,19.35,865.65,2024-02-20,Germany,EXEC
+Chloe Bright,Car,Card,1085.84,41.34,1127.18,2023-11-27,Australia,EXEC
+Lori Martinez,Air,Card,422.1,25.2,447.3,2024-04-06,Australia,EXEC
+Joseph Thomas,Hotel,Cash,669.79,57.6,727.39,2024-12-05,Canada,ENGG
+Dawn Palmer,Air,Card,329.89,21.78,351.67,2024-04-10,Canada,SALS
+Victor Powell,Meals,Card,1098.55,68.37,1166.92,2023-12-17,United States,FINC
+Jessica Crawford,Air,Card,1754.59,86.49,1841.08,2023-09-02,Germany,ADMN
+Ashley Rosales,Meals,Cash,645.27,15.53,660.8,2024-08-23,Canada,EXEC
+David Mullins,Car,Card,1661.88,55.84,1717.72,2024-07-29,Australia,ENGG
+Richard Hudson,Air,Card,1250.33,93.91,1344.24,2024-02-21,Germany,ENGG
+Kyle Murphy,Hotel,Cash,1063.43,36.04,1099.47,2024-07-13,Germany,SALS
+Mary Lopez,Meals,Card,1197.6,61.58,1259.18,2024-02-15,United States,ENGG
+Dawn Gonzalez,Air,Card,1670.73,88.94,1759.67,2024-02-08,Canada,FINC
+Crystal Kerr,Air,Cash,1753.93,95.58,1849.51,2023-01-24,Canada,ENGG
+Mark Jones,Air,Card,436.54,14.17,450.71,2024-11-14,United States,SALS
+Heather Craig,Hotel,Cash,255.37,10.72,266.09,2023-04-24,Australia,SALS
+Michael Lane,Air,Card,1074.27,41.12,1115.39,2024-08-19,India,FINC
+Mark Johnson,Air,Card,1876.03,47.61,1923.64,2024-02-15,Australia,ENGG
+Steven Shea,Car,Card,1361.64,29.47,1391.11,2024-09-17,India,EXEC
+Jordan Odonnell,Air,Cash,521.3,38.25,559.55,2024-06-05,Germany,ADMN
+Jasmine Jones,Air,Card,1732.96,57.71,1790.67,2024-07-31,Canada,FINC
+Taylor Roberts,Hotel,Cash,1109.42,89.69,1199.11,2023-03-22,India,FINC
+Lori Mills,Car,Cash,1928.53,72.54,2001.07,2024-11-08,Canada,EXEC
+Kimberly Fritz,Meals,Cash,1523.75,152.37,1676.12,2023-10-16,United Kingdom,EXEC
+Kelly White,Car,Cash,91.45,2.82,94.27,2023-04-03,Canada,EXEC
+John Barnett,Meals,Cash,406.66,21.43,428.09,2024-03-24,United Kingdom,EXEC
+Andrea Dixon,Air,Cash,1585.65,84.33,1669.98,2024-12-04,United Kingdom,ENGG
+Geoffrey Taylor,Car,Card,1556.8,59.98,1616.78,2024-07-04,United States,ADMN
+Jennifer Porter,Hotel,Card,274.35,8.96,283.31,2024-09-17,United Kingdom,EXEC
+David Bender,Meals,Cash,321.78,7.51,329.29,2024-09-07,Canada,EXEC
+Michael Underwood,Meals,Card,114.09,8.93,123.02,2024-07-06,United Kingdom,SALS
+Jose Phelps,Meals,Cash,768.18,21.32,789.5,2023-01-21,India,SALS
+William Smith,Hotel,Cash,195.63,4.88,200.51,2024-03-20,United States,ENGG
+Andrea Taylor,Car,Cash,462.34,22.0,484.34,2023-12-20,India,SALS
+Nicole Lynn,Hotel,Cash,699.2,14.84,714.04,2024-04-30,Australia,SALS
+Tonya Davis,Meals,Card,1385.02,67.48,1452.5,2024-12-13,United Kingdom,SALS
+Megan Thomas,Meals,Card,1921.82,128.86,2050.68,2024-06-27,United Kingdom,SALS
+Angela Becker,Air,Card,108.68,6.74,115.42,2024-10-14,Germany,SALS
+Thomas Vega,Meals,Cash,712.17,40.24,752.41,2023-08-11,Australia,EXEC
+Matthew Hoover,Air,Cash,386.71,28.64,415.35,2023-10-01,United States,SALS
+Kendra Dixon,Air,Card,1314.3,56.52,1370.82,2023-09-21,Australia,FINC
+Adam Lawson,Meals,Cash,357.41,8.2,365.61,2023-12-10,United Kingdom,FINC
+Julie Curry,Hotel,Card,1382.44,30.41,1412.85,2024-10-18,Australia,EXEC
+Evelyn Davenport,Car,Card,327.86,27.82,355.68,2024-08-19,Germany,ADMN
+Justin Lopez,Car,Cash,1159.56,78.43,1237.99,2023-09-16,Germany,ENGG
+Melissa Doyle,Air,Cash,1246.59,69.03,1315.62,2024-12-29,Germany,ADMN
+Debra Butler,Hotel,Card,1715.47,60.44,1775.91,2024-10-10,Canada,EXEC
+Benjamin Brown,Hotel,Card,77.71,3.56,81.27,2024-10-23,United Kingdom,SALS
+Lori Andrade,Meals,Cash,1951.44,86.16,2037.6,2024-04-22,India,FINC
+Thomas Holloway,Car,Card,1804.95,96.95,1901.9,2024-08-21,United States,EXEC
+Benjamin Stark,Hotel,Card,199.3,7.07,206.37,2024-10-12,United Kingdom,ADMN
+Tammy Buckley,Car,Cash,1492.52,113.43,1605.95,2024-09-05,United States,ENGG
+Debra Jenkins,Hotel,Card,595.75,48.29,644.04,2023-06-17,Australia,SALS
+David Nelson,Meals,Card,1953.01,78.09,2031.1,2024-08-02,Australia,FINC
+Brandy Lane,Meals,Card,1855.64,91.13,1946.77,2024-08-16,Canada,ADMN
+Michael Kirby,Meals,Cash,1086.13,57.16,1143.29,2024-10-31,Canada,ENGG
+Traci Blair,Meals,Card,1344.27,47.81,1392.08,2024-01-16,India,ADMN
+John Finley,Hotel,Cash,1688.71,132.5,1821.21,2024-05-31,Canada,EXEC
+Tammy Sanchez,Car,Card,1139.16,78.9,1218.06,2023-10-14,Australia,EXEC
+Mrs. Taylor Gilbert,Meals,Card,63.4,1.57,64.97,2023-12-07,United States,SALS
+Jeffery Small,Hotel,Card,717.15,25.92,743.07,2024-11-08,United States,ENGG
+Nathan White,Hotel,Cash,256.1,20.79,276.89,2024-09-19,United Kingdom,ADMN
+Christopher York,Car,Card,1745.79,133.66,1879.45,2024-12-10,United Kingdom,SALS
+Ronald Freeman,Air,Cash,802.91,54.35,857.26,2023-05-24,United States,FINC
+Brian Rodriguez,Hotel,Card,1902.94,58.05,1960.99,2024-05-26,United Kingdom,FINC
+Dr. Brittney Lee MD,Car,Cash,1943.94,59.13,2003.07,2024-07-18,Germany,SALS
+Christopher Alvarez,Hotel,Cash,704.25,22.83,727.08,2024-06-23,United States,SALS
+David Brown,Meals,Card,652.37,21.8,674.17,2024-02-01,Germany,SALS
+Jason Huff,Hotel,Cash,1622.95,100.46,1723.41,2023-08-20,United Kingdom,EXEC
+Scott Edwards,Meals,Card,643.88,28.98,672.86,2023-03-21,United States,FINC
+Tanya Bond,Hotel,Card,1422.42,50.77,1473.19,2024-02-17,Germany,ADMN
+Sarah Peterson,Meals,Cash,1882.56,40.21,1922.77,2024-12-28,Germany,ADMN
+Gregory Rojas,Meals,Card,139.21,12.32,151.53,2024-09-07,India,ADMN
+Amanda Ramos,Car,Cash,415.77,20.05,435.82,2024-01-07,Canada,FINC
+Robert Williams,Air,Cash,956.41,26.89,983.3,2023-10-24,United States,ENGG
+David Jensen,Hotel,Cash,1483.67,69.52,1553.19,2024-02-27,Germany,FINC
+Michele Ray,Hotel,Card,218.57,18.2,236.77,2023-12-07,Germany,FINC
+Yolanda Tanner,Air,Cash,622.2,31.15,653.35,2024-08-24,United Kingdom,FINC
+Devon Johnson,Air,Card,431.21,27.21,458.42,2024-06-12,India,SALS
+Rachel Jordan,Car,Card,1181.62,109.82,1291.44,2024-03-26,Canada,EXEC
+Michael Levy,Car,Card,75.98,1.57,77.55,2024-06-30,Germany,FINC
+Mrs. Crystal Rodriguez MD,Air,Card,1155.41,83.16,1238.57,2023-05-08,India,SALS
+Dustin Gonzalez,Meals,Card,1874.65,130.14,2004.79,2024-12-07,United States,EXEC
+Jenna Rose,Car,Card,1225.8,104.36,1330.16,2024-03-11,India,EXEC
+Johnathan Thompson,Hotel,Cash,1034.93,74.1,1109.03,2023-03-23,Germany,ADMN
+Andrew Brown,Hotel,Card,383.2,20.05,403.25,2023-08-02,Canada,ENGG
+Jennifer Jones,Meals,Card,60.27,1.27,61.54,2024-11-03,United States,SALS
+Richard Ramos,Meals,Cash,1590.85,89.18,1680.03,2023-04-14,Germany,EXEC
+Cassandra Greene,Air,Card,892.62,78.45,971.07,2023-07-14,Canada,SALS
+Jennifer Campos,Hotel,Card,414.17,20.03,434.2,2023-05-23,India,EXEC
+Lauren Phillips,Car,Card,715.74,44.12,759.86,2023-11-27,United States,ADMN
+Emma Jones,Meals,Cash,1672.39,78.67,1751.06,2024-12-05,India,EXEC
+Barbara Frazier,Meals,Cash,308.03,26.01,334.04,2023-09-26,Canada,ADMN
+Amy Mathews,Hotel,Card,1754.44,58.78,1813.22,2024-06-15,Canada,ENGG
+Amanda Jacobs,Air,Cash,410.15,24.67,434.82,2024-02-22,United Kingdom,ENGG
+Amy Black DVM,Air,Cash,1287.06,40.51,1327.57,2023-07-29,Australia,EXEC
+Gina Cobb,Meals,Cash,126.53,10.57,137.1,2023-07-04,United States,ENGG
+Nathan Barnes,Meals,Cash,1037.1,21.31,1058.41,2024-01-15,United Kingdom,SALS
+Holly Walker,Car,Cash,1017.25,90.6,1107.85,2024-12-13,Germany,FINC
+Alice Butler,Hotel,Cash,77.59,3.66,81.25,2023-07-28,Canada,ENGG
+Alexis Mcdonald,Meals,Card,1694.25,63.95,1758.2,2023-04-28,Australia,FINC
+Lori Anderson,Hotel,Card,100.59,5.79,106.38,2024-03-20,Canada,EXEC
+Brenda Brown,Car,Cash,1145.21,106.78,1251.99,2024-04-03,India,ADMN
+Yvonne Daniels,Car,Cash,178.83,14.15,192.98,2023-06-03,Germany,EXEC
+Sarah Moses,Hotel,Card,131.31,9.66,140.97,2024-07-02,India,ENGG
+Jacob Taylor,Meals,Cash,1883.73,137.03,2020.76,2023-10-28,Australia,ADMN
+Samantha Patel,Car,Cash,1916.61,189.7,2106.31,2024-11-07,Germany,ENGG
+Amy Davis,Car,Card,1592.41,116.49,1708.9,2024-04-06,United Kingdom,FINC
+Deanna Glass,Meals,Card,1231.87,121.13,1353.0,2024-09-24,Canada,ADMN
+Michael Lewis,Meals,Cash,1544.36,98.23,1642.59,2024-01-11,Germany,ENGG
+Rebecca Greene,Car,Cash,1931.72,77.22,2008.94,2024-04-15,United Kingdom,SALS
+Tina Thompson,Hotel,Cash,1650.86,139.69,1790.55,2024-02-29,Canada,ENGG
+Lisa Ferguson,Hotel,Cash,1126.23,93.35,1219.58,2024-11-03,United States,ENGG
+Danielle Green,Air,Card,1687.71,158.47,1846.18,2024-04-06,United Kingdom,ADMN
+Robert Beard,Hotel,Cash,234.5,13.62,248.12,2024-07-23,Canada,FINC
+Brian Andrade,Hotel,Card,1863.14,57.75,1920.89,2023-01-03,India,SALS
+Shawn Johnson,Air,Card,1364.79,60.05,1424.84,2024-04-26,India,FINC
+Tammy Reyes,Hotel,Cash,1137.43,40.74,1178.17,2024-11-16,India,EXEC
+Brian Kemp,Hotel,Card,1237.68,29.36,1267.04,2024-09-13,United Kingdom,ENGG
+Michelle Walker,Air,Cash,651.42,21.84,673.26,2023-11-02,United States,ENGG
+Robert Mullen,Car,Card,1402.32,84.55,1486.87,2024-05-21,United Kingdom,FINC
+Sherri Rosario,Meals,Cash,1901.81,138.71,2040.52,2024-10-05,India,EXEC
+Brandi Shaw,Hotel,Card,1877.67,175.03,2052.7,2023-09-25,United States,ENGG
+Christine Nelson,Car,Cash,1981.46,125.33,2106.79,2023-11-30,United Kingdom,SALS
+David Stokes,Air,Cash,1787.27,57.83,1845.1,2023-03-28,Canada,EXEC
+Daniel Washington,Meals,Card,239.8,16.57,256.37,2023-11-10,Australia,SALS
+Kimberly Wilson,Car,Card,1111.6,107.13,1218.73,2024-12-22,Canada,FINC
+Melissa Michael,Air,Cash,1308.53,61.38,1369.91,2023-11-13,United Kingdom,ADMN
+Traci Olson,Car,Card,1652.94,65.07,1718.01,2023-07-02,Canada,FINC
+Emily Middleton,Meals,Cash,1044.22,22.18,1066.4,2024-09-02,Germany,ADMN
+Austin Wilkerson,Car,Cash,490.78,26.69,517.47,2024-10-11,Germany,ENGG
+Samantha Alvarez,Hotel,Cash,743.34,59.77,803.11,2024-12-18,Australia,ADMN
+Veronica Gonzalez,Air,Cash,794.53,53.45,847.98,2023-01-05,Canada,ADMN
+Nancy Campbell,Meals,Card,54.71,2.57,57.28,2024-07-20,Canada,FINC
+Christine Pearson,Hotel,Cash,574.32,43.87,618.19,2023-02-05,United States,ADMN
+Sarah Lucas,Hotel,Card,300.87,6.87,307.74,2024-08-21,United States,EXEC
+Heather Lee,Hotel,Cash,1114.36,79.78,1194.14,2023-01-16,Australia,EXEC
+Kevin English,Hotel,Cash,1094.64,67.0,1161.64,2024-01-30,Australia,SALS
+Lisa Harris,Hotel,Card,318.45,16.95,335.4,2023-07-11,Australia,EXEC
+Janice Carpenter,Car,Card,1197.38,66.15,1263.53,2024-10-30,Germany,EXEC
+Jessica Wheeler,Car,Card,857.52,22.99,880.51,2024-08-27,United States,SALS
+Gerald Brennan,Air,Card,534.01,51.61,585.62,2023-04-25,United Kingdom,ADMN
+Susan Wright,Air,Cash,1757.76,69.12,1826.88,2023-07-23,Australia,FINC
+Jessica Newton,Air,Card,1385.91,72.32,1458.23,2024-02-01,Canada,ENGG
+Elizabeth Ramirez,Hotel,Card,413.52,25.74,439.26,2024-05-07,Australia,ADMN
+Nicholas Delgado,Air,Card,773.94,22.81,796.75,2024-04-05,India,ADMN
+Sean Munoz,Air,Card,427.18,22.61,449.79,2023-11-20,Germany,SALS
+Pamela Porter,Car,Card,953.75,58.67,1012.42,2023-10-31,Germany,FINC
+Nicole Rios,Air,Card,685.03,26.79,711.82,2023-03-28,Canada,SALS
+Hannah Alvarez,Hotel,Card,1839.05,92.93,1931.98,2023-04-21,Germany,ADMN
+David Garrett,Meals,Cash,79.04,5.76,84.8,2023-03-21,United Kingdom,SALS
+Christian Ellis,Air,Card,1388.66,95.72,1484.38,2024-05-18,Canada,ENGG
+Christian Smith,Hotel,Card,166.17,3.68,169.85,2024-02-02,Germany,SALS
+Tina Gonzales,Meals,Card,1440.98,115.31,1556.29,2024-10-07,India,FINC
+Andrew Bradford,Hotel,Cash,719.23,61.29,780.52,2024-05-18,United Kingdom,ADMN
+Derek Watts,Air,Cash,91.66,5.9,97.56,2023-03-15,Canada,FINC
+Victoria Walker,Air,Cash,437.86,24.33,462.19,2024-12-20,United Kingdom,ENGG
+Jonathan Gay,Air,Cash,1574.27,48.82,1623.09,2023-11-08,United States,ADMN
+Mark Jackson,Hotel,Cash,564.88,17.54,582.42,2023-03-09,United Kingdom,ENGG
+Tina Henry,Meals,Cash,1171.61,108.49,1280.1,2024-08-30,India,FINC
+Mary Anderson,Hotel,Card,1853.0,145.5,1998.5,2023-04-19,Canada,EXEC
+Edward Todd,Air,Cash,1636.49,61.06,1697.55,2023-12-09,United Kingdom,ADMN
+Angel Kim,Hotel,Card,202.69,18.9,221.59,2024-11-02,United States,FINC
+Stephanie Jenkins,Air,Card,744.85,26.22,771.07,2024-07-14,India,SALS
+Joseph Mcdaniel,Meals,Card,813.58,50.84,864.42,2023-12-29,United Kingdom,ADMN
+Jennifer George,Car,Cash,1780.32,59.02,1839.34,2024-02-14,Germany,ENGG
+Lori Walker,Meals,Cash,1262.75,107.59,1370.34,2024-07-05,Canada,ENGG
+Kevin Brown,Hotel,Cash,1956.28,70.97,2027.25,2023-07-13,United Kingdom,FINC
+Jennifer Garza,Hotel,Cash,1171.22,61.68,1232.9,2023-04-23,Canada,SALS
+Gregory Hughes,Hotel,Card,926.75,84.66,1011.41,2023-11-21,Canada,ENGG
+Arthur Hoffman,Car,Card,194.32,5.54,199.86,2024-05-04,Germany,FINC
+Dana Thompson,Meals,Cash,1754.57,127.07,1881.64,2023-02-15,India,FINC
+Brent Underwood,Hotel,Cash,801.96,48.01,849.97,2024-08-10,Australia,EXEC
+Kenneth Crawford,Air,Cash,1909.23,114.77,2024.0,2023-11-10,Canada,FINC
+Austin Lewis,Meals,Cash,278.22,18.37,296.59,2024-06-25,Australia,SALS
+Frank Manning,Meals,Card,1480.25,48.26,1528.51,2023-11-15,Germany,ADMN
+Zachary Green,Air,Cash,457.99,35.16,493.15,2023-08-10,India,FINC
+Victor Evans,Air,Card,1373.03,90.97,1464.0,2024-01-21,Germany,ENGG
+Margaret Edwards,Hotel,Card,1868.49,182.63,2051.12,2024-08-08,India,FINC
+Charles Johnson,Car,Card,82.26,4.19,86.45,2023-07-03,Germany,ADMN
+Michelle Martinez,Meals,Cash,1057.09,62.94,1120.03,2023-06-13,Canada,EXEC
+Lee Hobbs,Air,Card,706.35,56.94,763.29,2023-11-10,Germany,SALS
+Andrea Farrell,Car,Card,672.77,47.78,720.55,2024-06-03,United Kingdom,EXEC
+Susan Franklin,Car,Cash,462.81,13.61,476.42,2023-07-30,United Kingdom,FINC
+Jennifer Roach,Hotel,Cash,1999.86,159.24,2159.1,2023-01-08,Australia,ENGG
+Mrs. Stacey Brooks,Hotel,Card,137.76,6.33,144.09,2024-04-06,Canada,EXEC
+Stephanie Goodwin,Car,Card,1939.83,111.8,2051.63,2023-02-09,India,ADMN
+Jessica Navarro,Hotel,Cash,1911.33,115.39,2026.72,2023-02-04,Australia,ENGG
+Alisha Hill,Hotel,Card,713.44,64.37,777.81,2023-07-10,Germany,FINC
+John Scott,Hotel,Cash,1412.76,54.0,1466.76,2023-05-08,United States,ENGG
+William Dodson,Air,Card,1358.92,79.77,1438.69,2023-09-07,Canada,ADMN
+Sonya Carlson,Meals,Card,1645.33,36.35,1681.68,2024-10-13,United Kingdom,ENGG
+Sandra Woods,Car,Card,606.76,49.37,656.13,2024-01-25,India,SALS
+Jordan Love,Car,Cash,834.33,49.72,884.05,2024-05-16,United Kingdom,FINC
+Stacey Jimenez,Meals,Card,1091.71,36.02,1127.73,2024-07-31,Australia,SALS
+Christina Blankenship,Air,Card,1577.13,54.78,1631.91,2024-11-10,Australia,EXEC
+Ashley Willis,Car,Cash,1845.93,92.68,1938.61,2023-07-06,India,ENGG
+Lindsey Reid,Car,Cash,408.0,23.23,431.23,2023-06-04,Canada,EXEC
+Victor Gutierrez,Hotel,Cash,1465.65,118.11,1583.76,2023-11-28,United States,ADMN
+Jimmy Rodriguez,Air,Cash,1098.5,35.11,1133.61,2023-01-31,Australia,FINC
+Robert Price,Air,Cash,1895.91,186.91,2082.82,2024-09-04,India,EXEC
+Lisa Welch,Hotel,Cash,929.68,23.95,953.63,2024-01-31,United States,SALS
+Susan Clay,Hotel,Card,1668.25,137.93,1806.18,2023-03-24,Canada,FINC
+Rebecca Jensen,Car,Cash,187.97,13.44,201.41,2024-08-17,United States,ADMN
+Sara Garcia,Meals,Card,304.24,9.44,313.68,2024-06-16,Canada,SALS
+Christopher Pace,Car,Cash,1404.9,83.91,1488.81,2023-10-02,United States,ADMN
+Mark Ortega,Air,Cash,1546.04,99.32,1645.36,2023-09-15,Australia,ENGG
+Lori Harris,Meals,Card,959.96,75.22,1035.18,2024-01-09,Canada,ENGG
+John Scott,Hotel,Card,1757.59,37.1,1794.69,2023-11-07,Australia,FINC
+Craig Robinson,Meals,Card,1409.62,124.11,1533.73,2023-06-07,Australia,EXEC
+Robert Brooks,Meals,Cash,1588.46,60.73,1649.19,2023-10-27,Australia,ADMN
+Roger Schwartz,Car,Cash,590.05,19.66,609.71,2023-08-31,United States,EXEC
+Richard Long,Meals,Cash,1263.78,34.83,1298.61,2024-03-18,Germany,EXEC
+Frederick Henderson,Air,Card,797.15,54.32,851.47,2023-06-06,United States,ENGG
+Timothy Jones,Car,Cash,1747.61,145.49,1893.1,2024-05-04,United States,EXEC
+Beth Sullivan,Air,Card,1348.77,69.22,1417.99,2023-08-17,Canada,EXEC
+Joseph Castaneda,Hotel,Card,436.87,27.27,464.14,2023-06-21,United States,FINC
+Stephanie Collins,Meals,Card,216.91,6.27,223.18,2023-05-17,United Kingdom,ADMN
+Michael Smith,Air,Card,1997.55,179.23,2176.78,2024-11-25,Canada,FINC
+James Franklin,Air,Cash,1396.79,99.76,1496.55,2023-07-20,Australia,ADMN
+Nicholas Wilson,Car,Card,1353.16,86.75,1439.91,2023-05-27,India,FINC
+Jacob Wright,Hotel,Card,1974.57,76.88,2051.45,2024-06-09,United Kingdom,ADMN
+Alan Abbott,Meals,Cash,1184.07,109.8,1293.87,2023-11-22,Australia,EXEC
+Patricia Sellers,Meals,Card,705.23,59.03,764.26,2024-01-22,Australia,SALS
+Wendy Barnes,Hotel,Card,920.36,33.76,954.12,2024-04-05,India,ADMN
+Samuel Wade,Meals,Cash,1584.85,69.83,1654.68,2024-03-06,Germany,ADMN
+Brittany Poole,Hotel,Cash,602.54,43.37,645.91,2024-03-15,Australia,ADMN
+David Carter,Air,Card,1156.73,36.33,1193.06,2024-04-06,United Kingdom,FINC
+Morgan Montgomery,Hotel,Card,1914.44,134.39,2048.83,2023-11-15,Germany,EXEC
+Cheryl Myers,Meals,Cash,1184.0,42.92,1226.92,2023-02-09,United Kingdom,ADMN
+Cathy Rodriguez,Car,Card,1657.8,141.43,1799.23,2023-10-30,Canada,ENGG
+James Patterson,Hotel,Cash,1515.47,53.39,1568.86,2024-11-01,Australia,ENGG
+Ian Brown,Car,Cash,1766.58,133.19,1899.77,2023-05-05,Germany,ENGG
+Andrea Miller,Hotel,Card,352.42,22.43,374.85,2024-07-15,Australia,FINC
+Tyrone Middleton,Car,Card,398.92,16.1,415.02,2023-02-23,United Kingdom,FINC
+Amanda Elliott,Car,Cash,1298.23,51.89,1350.12,2024-01-28,Germany,EXEC
+Douglas Diaz,Car,Cash,1724.51,102.03,1826.54,2024-09-21,Australia,FINC
+William Ortiz,Hotel,Card,1861.7,75.43,1937.13,2023-10-06,United Kingdom,FINC
+Paula Wilson,Hotel,Card,1829.07,134.87,1963.94,2024-01-27,Canada,FINC
+Brandy Stanley,Meals,Card,1957.49,160.09,2117.58,2023-01-14,Australia,EXEC
+Stephen Livingston,Hotel,Cash,1115.12,87.87,1202.99,2023-12-15,United States,EXEC
+Daniel Shelton,Hotel,Cash,699.97,54.08,754.05,2023-05-18,India,FINC
+Zachary Webb,Air,Card,1460.52,144.61,1605.13,2023-03-28,Australia,FINC
+Kimberly Knapp,Meals,Card,1824.24,58.57,1882.81,2023-09-15,United Kingdom,FINC
+Jennifer Harris,Hotel,Card,67.15,1.99,69.14,2024-06-23,Germany,EXEC
+Shelly Miller,Car,Cash,642.17,15.8,657.97,2024-11-22,United States,ADMN
+Stephanie Pollard,Car,Cash,611.0,54.05,665.05,2024-09-19,United States,FINC
+John Gutierrez,Hotel,Card,1663.12,51.76,1714.88,2023-08-05,Germany,SALS
+Samantha Schneider,Car,Cash,1784.12,52.22,1836.34,2024-04-02,Australia,ENGG
+Brian Lee,Air,Card,627.56,12.62,640.18,2023-01-25,India,SALS
+Austin Alexander,Meals,Card,1617.17,34.22,1651.39,2023-01-13,Germany,EXEC
+Jennifer Moreno,Car,Cash,223.64,19.15,242.79,2024-10-20,India,ENGG
+Matthew Johnson,Car,Cash,859.37,71.09,930.46,2024-03-05,United States,ENGG
+Matthew Roman,Meals,Card,1775.59,117.97,1893.56,2024-08-08,Australia,ENGG
+Robert Smith,Car,Card,845.13,68.11,913.24,2024-02-22,Australia,EXEC
+Todd Campos,Air,Card,793.47,68.91,862.38,2023-09-02,Germany,EXEC
+Kenneth Payne,Hotel,Card,717.49,30.1,747.59,2024-09-11,India,SALS
+Louis Moore,Meals,Cash,443.63,44.08,487.71,2024-05-03,Canada,SALS
+Helen Flores,Meals,Card,314.9,21.87,336.77,2024-03-20,Australia,SALS
+Julie Novak,Air,Cash,1723.47,91.47,1814.94,2023-08-08,United States,ADMN
+Daniel Ramos,Meals,Card,1481.28,129.55,1610.83,2023-06-07,United States,SALS
+Michael Webb,Meals,Cash,1202.05,37.46,1239.51,2024-11-11,Germany,FINC
+Gary Smith,Hotel,Cash,1398.96,128.69,1527.65,2023-09-07,India,EXEC
+Nathan Lynn,Air,Card,1069.35,97.65,1167.0,2023-12-16,Australia,SALS
+Matthew Branch,Hotel,Cash,1635.85,32.99,1668.84,2024-10-31,Germany,FINC
+Mark Medina,Hotel,Card,594.43,31.18,625.61,2023-04-25,Canada,EXEC
+James Castillo,Car,Card,127.67,4.45,132.12,2024-12-23,Canada,SALS
+Holly Terry,Car,Cash,906.51,56.87,963.38,2023-10-19,Australia,SALS
+Faith Jenkins,Air,Cash,404.05,38.14,442.19,2024-05-04,United States,EXEC
+Charles Avila,Car,Card,773.35,62.86,836.21,2024-10-05,United Kingdom,FINC
+Brandon Johnson,Air,Card,881.62,41.6,923.22,2023-09-07,United Kingdom,FINC
+Steven Peters,Air,Card,1789.87,172.34,1962.21,2023-10-14,United Kingdom,EXEC
+Ann Ball,Car,Card,86.42,6.05,92.47,2024-07-29,United States,EXEC
+Sarah Collins,Car,Card,695.86,37.4,733.26,2023-09-10,United Kingdom,ADMN
+John Vargas,Hotel,Cash,1831.13,86.87,1918.0,2023-09-07,United States,FINC
+Ann Perez,Hotel,Cash,833.9,81.89,915.79,2023-10-30,Australia,ADMN
+Taylor Pruitt,Meals,Card,437.48,20.68,458.16,2023-09-07,United States,EXEC
+Tammy Mitchell,Hotel,Card,528.3,23.4,551.7,2023-01-18,India,SALS
+William Sims,Hotel,Card,184.87,9.33,194.2,2024-07-01,Germany,SALS
+Amanda Duke,Meals,Card,508.65,41.18,549.83,2023-11-30,United Kingdom,ADMN
+Kari Aguilar,Air,Card,263.42,17.91,281.33,2024-10-30,India,FINC
+Nancy Thompson,Hotel,Cash,1602.26,40.49,1642.75,2023-09-12,India,EXEC
+Amy Manning,Car,Cash,862.2,82.41,944.61,2023-02-26,Canada,SALS
+Steven Brown,Hotel,Cash,531.42,32.63,564.05,2024-02-05,Australia,EXEC
+Earl Beasley,Car,Card,1913.61,108.82,2022.43,2024-10-09,Australia,ADMN
+Mr. Jeffrey Fernandez,Air,Cash,1784.66,40.35,1825.01,2023-01-04,Canada,FINC
+Fernando Jackson,Hotel,Card,433.81,21.92,455.73,2024-08-20,Canada,ENGG
+Kylie Simpson DDS,Meals,Cash,1090.49,97.85,1188.34,2023-09-24,United Kingdom,ADMN
+Ebony Bishop,Hotel,Cash,880.4,39.09,919.49,2024-02-05,United Kingdom,ADMN
+Melissa Martinez,Car,Cash,1561.74,151.3,1713.04,2023-06-25,Germany,EXEC
+Brenda Rivera,Car,Cash,1136.73,79.08,1215.81,2023-10-19,United States,SALS
+Ashley Turner,Hotel,Card,1055.63,48.75,1104.38,2024-01-25,India,EXEC
+Zachary Patterson,Meals,Card,124.5,12.03,136.53,2023-04-03,Germany,EXEC
+Jeffrey Jacobs,Hotel,Cash,1156.83,77.5,1234.33,2023-06-09,Germany,FINC
+Claudia Rodriguez,Meals,Cash,1971.84,153.46,2125.3,2024-03-20,India,FINC
+Ashley Jordan,Car,Card,1178.1,57.2,1235.3,2023-02-22,United Kingdom,SALS
+Nicole Ramos,Air,Cash,1968.93,157.28,2126.21,2023-10-17,United Kingdom,FINC
+Emma Morrison,Hotel,Cash,1865.63,106.27,1971.9,2024-08-13,United States,SALS
+Robert Gonzales,Air,Card,220.25,16.2,236.45,2023-11-04,United Kingdom,SALS
+Christopher French,Car,Card,658.48,46.34,704.82,2024-09-14,India,ENGG
+James Stevens,Air,Card,787.74,25.17,812.91,2023-06-06,United Kingdom,FINC
+Paul Weber,Car,Card,481.35,33.04,514.39,2024-01-08,Canada,ADMN
+Christopher Olson,Air,Cash,1272.4,120.56,1392.96,2024-08-17,India,FINC
+Lindsey Wright,Meals,Card,1317.97,72.73,1390.7,2024-05-19,Germany,ADMN
+Brian Grant,Car,Card,1330.68,53.44,1384.12,2024-06-15,United Kingdom,FINC
+Michelle Perez,Hotel,Cash,1443.72,120.75,1564.47,2024-11-12,Australia,FINC
+Sean Nguyen,Car,Cash,836.7,24.63,861.33,2024-08-11,Canada,SALS
+Lisa Gonzales,Air,Cash,1700.51,154.66,1855.17,2023-07-22,Canada,ENGG
+Thomas Cruz,Hotel,Cash,602.91,43.54,646.45,2024-01-11,India,SALS
+Elizabeth White,Car,Cash,386.79,19.56,406.35,2024-01-20,Canada,ENGG
+Jeffrey Brown,Air,Cash,826.13,66.66,892.79,2023-12-18,Canada,FINC
+Teresa Price,Car,Cash,1802.46,121.08,1923.54,2023-10-23,Germany,EXEC
+Anne Allen,Hotel,Cash,706.12,25.5,731.62,2024-01-07,United States,ENGG
+Michael Carter,Car,Card,627.97,25.71,653.68,2024-11-08,India,ENGG
+Benjamin Snyder,Car,Card,457.2,32.46,489.66,2024-03-02,United States,SALS
+Anna Hawkins,Hotel,Cash,1433.66,36.93,1470.59,2024-09-06,United Kingdom,EXEC
+Anthony Berger,Hotel,Card,1996.28,195.21,2191.49,2023-09-12,India,FINC
+Rodney Owens,Hotel,Card,583.52,40.08,623.6,2024-04-06,India,EXEC
+Michael Wilcox,Meals,Cash,1802.53,148.82,1951.35,2024-05-08,Germany,ENGG
+Craig Clark,Air,Card,572.32,54.05,626.37,2023-08-19,Canada,ADMN
+Samantha Brown,Hotel,Card,366.34,7.59,373.93,2024-04-28,United Kingdom,ENGG
+Danielle Dixon,Air,Card,1867.6,62.72,1930.32,2023-02-15,Germany,FINC
+Shawn Hunter,Air,Card,924.57,37.86,962.43,2023-02-08,United States,EXEC
+Matthew Williams,Air,Card,1238.4,87.02,1325.42,2024-09-30,United States,ENGG
+Teresa Coleman,Air,Cash,177.78,9.82,187.6,2023-06-19,Canada,ENGG
+Monique Dawson,Hotel,Cash,945.92,93.21,1039.13,2023-04-01,United States,SALS
+Heather Fox,Car,Cash,1116.54,42.21,1158.75,2024-05-02,Canada,SALS
+Jennifer Lee,Hotel,Cash,1744.27,70.94,1815.21,2023-02-22,Australia,FINC
+Shelley Farrell,Hotel,Card,1077.95,89.72,1167.67,2024-08-09,Australia,ENGG
+Michael Kim,Air,Card,1787.85,120.7,1908.55,2023-12-13,Germany,ADMN
+Tiffany Sanders,Hotel,Card,1176.59,106.2,1282.79,2024-08-09,India,FINC
+Lisa Reilly,Hotel,Cash,976.85,62.98,1039.83,2024-06-28,United Kingdom,ENGG
+Samuel Ingram,Air,Card,623.75,15.88,639.63,2024-12-27,United States,ENGG
+Donna Mullins,Hotel,Card,1265.19,45.91,1311.1,2024-06-19,India,FINC
+Kathryn Sanders,Air,Cash,977.48,73.52,1051.0,2023-06-19,Germany,SALS
+Elizabeth Mccoy,Meals,Cash,1312.15,104.5,1416.65,2024-08-07,United States,EXEC
+Mary Bender,Meals,Card,95.33,7.84,103.17,2023-01-28,United Kingdom,SALS
+Eric Johnson,Hotel,Card,1002.55,65.61,1068.16,2024-12-04,India,EXEC
+Randy Lopez,Car,Card,277.14,19.65,296.79,2024-12-20,India,EXEC
+Douglas Mueller,Meals,Cash,815.42,22.44,837.86,2023-02-05,United States,EXEC
+John Hall,Hotel,Cash,1650.54,42.52,1693.06,2023-11-16,Canada,ADMN
+Denise Knight,Air,Card,1216.17,33.35,1249.52,2024-05-29,Germany,ADMN
+Laura Ryan,Car,Card,1665.98,101.32,1767.3,2024-01-06,United States,ENGG
+Sharon Pena,Car,Cash,1411.83,37.83,1449.66,2023-10-15,India,ADMN
+Stephanie Sanders,Hotel,Card,183.78,6.65,190.43,2024-09-11,Australia,ENGG
+Sean Wu,Hotel,Card,1522.74,71.95,1594.69,2024-04-15,Canada,EXEC
+Jessica Atkins,Hotel,Cash,790.81,36.11,826.92,2024-08-31,Australia,ADMN
+Carol Baxter,Hotel,Card,1735.45,149.36,1884.81,2024-03-26,Australia,SALS
+Richard Anderson,Car,Cash,1959.37,108.94,2068.31,2024-03-14,India,ADMN
+Lynn Gardner,Air,Cash,1365.61,55.71,1421.32,2023-09-10,Germany,EXEC
+Carrie Wilson,Meals,Cash,967.48,84.36,1051.84,2024-01-04,Canada,EXEC
+Lisa Nichols,Car,Card,847.5,34.16,881.66,2023-05-03,Canada,ENGG
+Rachel Martin,Hotel,Card,98.32,3.74,102.06,2023-01-06,India,SALS
+Zachary Cantu,Hotel,Card,929.17,87.87,1017.04,2024-04-02,Australia,ADMN
+Jeremy Pittman,Car,Card,455.06,17.4,472.46,2023-10-14,Canada,EXEC
+David Brown,Car,Card,716.23,60.96,777.19,2024-02-16,Canada,FINC
+Andrea Williams,Hotel,Card,1394.55,89.85,1484.4,2024-01-04,Canada,ENGG
+Sean Cook,Meals,Cash,1823.88,123.45,1947.33,2024-11-16,India,ENGG
+Lance Tyler,Meals,Cash,338.59,16.42,355.01,2023-03-15,Australia,ENGG
+Katherine Turner,Hotel,Cash,245.84,14.53,260.37,2024-01-06,Canada,FINC
+Ashley Norris,Air,Cash,1185.12,35.28,1220.4,2024-12-14,Germany,FINC
+Dean Lawrence MD,Car,Card,1099.78,51.06,1150.84,2023-07-04,United Kingdom,ENGG
+Rodney Nelson,Hotel,Card,582.91,44.19,627.1,2023-07-24,United Kingdom,ENGG
+Brian Valdez,Meals,Card,694.67,21.78,716.45,2024-06-03,Germany,ENGG
+Vanessa Nichols,Hotel,Card,1406.39,83.8,1490.19,2024-12-18,Australia,FINC
+Joseph Johnson,Air,Card,426.58,10.12,436.7,2024-07-16,India,ADMN
+Ashley Merritt,Car,Card,692.57,23.06,715.63,2023-03-19,United States,ADMN
+Joseph Hoffman,Hotel,Card,303.03,12.49,315.52,2024-07-06,United States,ENGG
+Christina Jordan,Car,Card,762.29,42.52,804.81,2023-05-23,India,ADMN
+Miguel Anderson,Air,Card,738.38,60.35,798.73,2024-02-29,Canada,FINC
+Jasmine Jimenez,Car,Cash,1009.28,83.77,1093.05,2023-06-11,Australia,ADMN
+Jason Robinson,Hotel,Cash,539.39,48.24,587.63,2023-12-29,Germany,FINC
+Stephen Gibson,Car,Card,83.81,4.26,88.07,2023-02-06,United Kingdom,ENGG
+Kathleen Cochran,Meals,Card,1443.83,141.98,1585.81,2024-12-24,Canada,FINC
+Alexandra Reyes,Hotel,Card,1213.72,109.91,1323.63,2024-07-24,Germany,ENGG
+Jerry Harris,Car,Cash,1634.77,53.57,1688.34,2024-02-23,United Kingdom,SALS
+Anthony Dorsey,Meals,Card,1690.76,85.91,1776.67,2024-03-20,Australia,SALS
+Sarah Jennings,Air,Cash,1376.16,107.72,1483.88,2023-05-26,India,ENGG
+Marcus Thornton,Car,Card,986.79,56.18,1042.97,2023-05-01,Canada,FINC
+Larry Lynch,Air,Card,1794.59,123.15,1917.74,2023-01-31,India,ENGG
+Mark Thompson,Air,Cash,654.33,16.96,671.29,2023-11-07,India,ADMN
+Susan Banks,Air,Card,1345.61,71.63,1417.24,2023-09-23,Australia,ENGG
+John Johnson,Hotel,Cash,1446.03,101.33,1547.36,2024-08-05,Germany,EXEC
+Patricia Browning,Meals,Card,516.2,13.46,529.66,2024-01-15,Germany,SALS
+Mikayla Brown,Car,Cash,1872.09,80.97,1953.06,2023-12-30,India,FINC
+Carol Cruz,Air,Card,1776.1,149.42,1925.52,2024-10-21,United Kingdom,ADMN
+Brent Gonzales,Car,Cash,265.03,23.31,288.34,2023-06-10,United Kingdom,SALS
+Jennifer Jackson,Car,Card,277.78,16.8,294.58,2024-05-13,United States,ADMN
+Joshua Roberts,Car,Cash,561.42,27.28,588.7,2024-02-27,United Kingdom,FINC
+Sheila Bruce,Hotel,Card,736.1,47.06,783.16,2023-09-27,Canada,SALS
+Amanda Phillips,Car,Card,843.08,26.27,869.35,2023-05-18,India,SALS
+Rebecca Walton,Air,Cash,462.69,35.04,497.73,2023-05-15,Canada,SALS
+Carlos Harris,Air,Card,661.15,60.79,721.94,2023-12-03,United States,ENGG
+Brian Knight,Car,Cash,1147.43,101.95,1249.38,2024-01-17,Canada,FINC
+Annette Mitchell,Hotel,Cash,1499.36,58.48,1557.84,2023-12-05,United States,FINC
+Alex Patrick,Meals,Card,916.59,64.49,981.08,2023-02-08,United States,FINC
+Amy Thomas,Car,Card,201.16,19.33,220.49,2023-12-11,United States,FINC
+Amy Wallace,Hotel,Card,1750.72,172.19,1922.91,2023-04-23,United Kingdom,FINC
+Nicole Allen,Air,Cash,1670.89,106.06,1776.95,2024-03-05,Australia,FINC
+Michael Miles,Hotel,Cash,673.94,45.23,719.17,2024-02-05,India,EXEC
+Daniel Jackson,Air,Card,1750.18,69.41,1819.59,2024-04-18,Germany,ENGG
+Gary Medina,Meals,Card,1750.74,114.49,1865.23,2024-09-21,India,EXEC
+Lorraine Melendez,Car,Cash,158.11,5.27,163.38,2024-02-08,United Kingdom,ENGG
+Karen Murphy,Hotel,Cash,1547.27,58.66,1605.93,2024-11-27,Canada,SALS
+Sandy Sweeney,Hotel,Cash,1837.28,95.29,1932.57,2023-02-16,United States,ADMN
+Brittany Carey,Air,Cash,1073.78,23.33,1097.11,2023-07-02,Australia,SALS
+David Jones,Hotel,Cash,813.7,67.51,881.21,2023-12-20,United States,EXEC
+Samuel Watson,Hotel,Cash,732.1,59.99,792.09,2023-10-19,Australia,FINC
+Michael Johnson,Air,Cash,263.59,6.32,269.91,2024-03-30,India,FINC
+Michael Jarvis,Hotel,Card,144.13,3.21,147.34,2023-05-12,Germany,EXEC
+Mark Kaiser,Car,Cash,59.0,3.03,62.03,2023-06-06,Germany,SALS
+Brian Vaughn,Meals,Card,434.77,42.34,477.11,2024-01-26,United States,ADMN
+Brian Andrews,Meals,Card,109.44,7.39,116.83,2023-06-30,India,ENGG
+Caroline Zavala,Car,Card,1074.72,51.47,1126.19,2023-06-24,United States,EXEC
+Patricia Rogers,Car,Card,1863.65,140.35,2004.0,2023-12-02,Canada,ADMN
+Sarah Simmons,Car,Cash,1533.51,126.15,1659.66,2023-11-16,India,ENGG
+Philip Lopez,Car,Cash,721.16,65.32,786.48,2023-07-26,Canada,ADMN
+Elizabeth Vargas,Car,Cash,1187.22,37.96,1225.18,2024-10-21,Germany,SALS
+Mary Schwartz,Car,Cash,415.32,11.56,426.88,2024-02-21,India,ADMN
+Brad Tucker,Hotel,Card,836.67,78.54,915.21,2023-04-01,Australia,ENGG
+Matthew Baker,Car,Card,1511.53,48.36,1559.89,2023-05-13,United Kingdom,ENGG
+Cynthia Caldwell,Hotel,Card,557.98,24.57,582.55,2023-12-24,United Kingdom,FINC
+David Martin,Meals,Cash,470.49,11.88,482.37,2023-05-30,United Kingdom,EXEC
+Yvette Jones,Meals,Cash,1155.09,80.46,1235.55,2024-11-01,United Kingdom,FINC
+Paul Stein,Car,Card,620.19,16.25,636.44,2024-11-10,Canada,FINC
+Isabella Cunningham,Air,Cash,978.47,24.51,1002.98,2023-09-04,Australia,EXEC
+Samuel Ross,Air,Card,1966.58,73.98,2040.56,2023-06-23,United Kingdom,ADMN
+Steven Walker,Meals,Cash,1661.24,40.79,1702.03,2024-09-24,India,ENGG
+David Hopkins,Car,Card,1589.41,66.72,1656.13,2024-03-14,Canada,ADMN
+Todd Webb,Air,Card,91.12,4.32,95.44,2024-12-25,United Kingdom,FINC
+Paul Ortiz,Meals,Card,1925.54,160.06,2085.6,2024-08-26,Germany,SALS
+Andrew Robinson,Hotel,Card,999.89,47.85,1047.74,2023-06-25,Germany,SALS
+Wendy Weaver,Hotel,Card,1473.58,40.95,1514.53,2024-08-26,Canada,ENGG
+Travis Williams,Hotel,Card,1467.51,70.15,1537.66,2024-10-30,United States,EXEC
+Paula Romero,Meals,Card,1164.48,68.46,1232.94,2024-10-04,United Kingdom,FINC
+Robert Walker,Meals,Card,916.94,31.22,948.16,2024-07-20,United Kingdom,EXEC
+Benjamin Brown,Hotel,Cash,762.54,67.32,829.86,2024-06-03,Germany,SALS
+Amber Olsen,Air,Cash,350.44,26.4,376.84,2023-08-03,Germany,ADMN
+Christopher Griffin,Air,Card,190.65,13.01,203.66,2024-07-28,Germany,ENGG
+Tammie Stevens,Air,Cash,91.64,6.79,98.43,2023-08-22,United Kingdom,EXEC
+Jennifer Stewart,Car,Card,833.31,48.28,881.59,2024-11-21,United States,ADMN
+Christine Jones,Meals,Card,1631.99,37.08,1669.07,2023-06-26,Canada,FINC
+Melissa Mullen MD,Meals,Cash,1410.6,68.28,1478.88,2024-01-15,United Kingdom,SALS
+Richard Johnson,Hotel,Card,1832.34,147.27,1979.61,2023-10-23,India,ADMN
+Jerry Clark,Meals,Card,1787.65,102.66,1890.31,2023-11-24,India,FINC
+Gina King,Meals,Cash,792.33,78.1,870.43,2024-04-22,Australia,ENGG
+Julie Garner,Hotel,Cash,754.82,24.09,778.91,2023-08-15,Australia,FINC
+Andre Schwartz,Car,Card,1793.08,91.99,1885.07,2024-05-12,Canada,FINC
+Barbara Campbell,Meals,Card,1021.75,56.91,1078.66,2024-12-27,United Kingdom,ADMN
+Nicole Hatfield,Air,Cash,1756.36,52.6,1808.96,2023-08-23,Germany,ADMN
+Jason Ellis,Hotel,Cash,585.59,48.15,633.74,2023-02-27,Australia,ADMN
+Mrs. Mary Walker,Meals,Card,353.14,25.97,379.11,2024-08-28,Germany,EXEC
+Kelsey Russell,Car,Card,1281.24,74.62,1355.86,2023-06-16,United Kingdom,FINC
+Kelly Williams,Car,Cash,640.32,21.91,662.23,2024-10-28,Canada,ENGG
+Rodney Lane,Car,Cash,209.04,9.69,218.73,2024-05-25,Australia,SALS
+Jennifer Soto,Air,Cash,692.33,29.12,721.45,2024-03-12,United Kingdom,ADMN
+Marcus Hart,Car,Cash,1492.55,67.07,1559.62,2024-02-29,United Kingdom,FINC
+Amy Harris,Car,Cash,760.04,44.52,804.56,2023-10-28,Canada,SALS
+Cynthia Peterson,Car,Cash,1329.04,82.32,1411.36,2024-07-23,Australia,EXEC
+Lynn Stephens,Hotel,Card,1143.8,113.33,1257.13,2023-09-26,United Kingdom,FINC
+John Bright,Meals,Card,1699.9,35.27,1735.17,2024-03-16,United Kingdom,ADMN
+Rebecca Valencia,Car,Card,1305.15,79.76,1384.91,2024-12-27,Canada,ENGG
+Elizabeth Green,Hotel,Card,863.92,62.77,926.69,2024-02-05,United Kingdom,SALS
+Brad Moore,Meals,Cash,1552.3,114.61,1666.91,2023-09-07,Australia,ADMN
+Elizabeth Ferguson DDS,Meals,Card,1172.25,112.64,1284.89,2023-07-02,Canada,EXEC
+Justin Koch,Car,Card,1176.26,53.97,1230.23,2023-09-19,Germany,FINC
+Melissa Bartlett,Car,Card,1093.32,87.48,1180.8,2023-02-17,United Kingdom,EXEC
+Steve Bryan,Meals,Cash,52.85,2.47,55.32,2023-11-27,India,SALS
+Ashley Davis,Meals,Card,513.55,33.58,547.13,2023-06-17,Australia,ADMN
+Amy Schmidt,Air,Cash,364.26,34.22,398.48,2023-03-11,Canada,SALS
+Anthony Coleman,Meals,Cash,1551.88,87.5,1639.38,2024-03-22,India,ENGG
+Laura Jordan,Hotel,Card,1168.31,99.52,1267.83,2023-11-02,India,FINC
+Daniel Brown,Air,Card,1892.79,46.7,1939.49,2024-02-13,United States,EXEC
+Charles Harding,Hotel,Cash,488.64,18.95,507.59,2024-08-16,India,ENGG
+Andrea Brennan,Hotel,Cash,1254.52,107.25,1361.77,2023-07-07,India,FINC
+Julie Miller,Hotel,Card,220.19,5.99,226.18,2024-04-09,United Kingdom,EXEC
+Garrett Hill,Meals,Card,388.91,30.55,419.46,2023-06-17,United States,ENGG
+Samuel Fox,Meals,Cash,934.56,26.75,961.31,2024-07-19,India,FINC
+Thomas Douglas,Meals,Card,1476.69,67.88,1544.57,2024-05-02,United States,ENGG
+Dennis Russell,Meals,Card,97.5,7.76,105.26,2024-07-06,Germany,EXEC
+Kristen Hart,Hotel,Cash,648.64,51.37,700.01,2024-09-06,United Kingdom,EXEC
+Bryce Martin,Car,Cash,1816.2,90.45,1906.65,2024-04-22,India,SALS
+Thomas Madden,Car,Cash,164.75,15.82,180.57,2024-10-17,India,EXEC
+Leslie Nelson,Car,Cash,1629.02,144.69,1773.71,2023-05-06,United States,ENGG
+Vanessa Craig,Car,Cash,320.47,21.16,341.63,2023-08-16,United States,FINC
+James Best,Air,Card,1596.38,85.49,1681.87,2023-09-20,United Kingdom,ADMN
+Jennifer Waller,Meals,Cash,1488.91,108.95,1597.86,2024-04-10,Australia,ADMN
+Jade Clark,Air,Card,1985.29,161.3,2146.59,2024-07-01,Germany,ADMN
+Carolyn King,Air,Cash,1086.08,27.25,1113.33,2023-08-25,Canada,SALS
+John Harris,Hotel,Card,1582.55,82.2,1664.75,2023-09-19,Germany,ADMN
+Rebecca Carpenter,Hotel,Cash,515.16,49.32,564.48,2023-07-16,United States,ENGG
+Clinton Perez,Hotel,Card,89.63,8.29,97.92,2024-06-23,Canada,SALS
+Christina Griffin,Air,Cash,1626.07,137.11,1763.18,2024-05-12,Germany,FINC
+Becky Christian,Car,Cash,60.97,1.79,62.76,2024-02-22,Germany,ADMN
+Elizabeth Hampton,Car,Card,1537.62,75.23,1612.85,2024-04-21,Canada,FINC
+Angela Baker,Meals,Card,1935.19,154.27,2089.46,2024-09-13,Australia,ENGG
+Paul Johnson,Hotel,Cash,1610.67,36.31,1646.98,2024-03-18,United Kingdom,ADMN
+Samantha Olson,Air,Card,1955.0,126.61,2081.61,2023-02-03,India,FINC
+Leslie King,Car,Cash,1778.62,146.38,1925.0,2023-03-26,United States,EXEC
+Melissa Romero,Meals,Cash,944.22,77.07,1021.29,2023-03-13,United States,EXEC
+Lori Elliott,Meals,Cash,1379.02,91.34,1470.36,2023-01-18,United States,SALS
+Mark Davila,Air,Cash,1834.77,93.69,1928.46,2024-11-22,United States,FINC
+Jeffrey Logan,Hotel,Cash,1684.06,42.81,1726.87,2023-03-03,Australia,SALS
+Randy Gallegos,Air,Card,1734.95,88.9,1823.85,2024-10-06,Australia,FINC
+Ronald Wright,Meals,Cash,217.63,13.17,230.8,2024-04-18,India,EXEC
+Erica Floyd,Meals,Card,1459.65,117.76,1577.41,2023-12-22,India,ENGG
+William Wilkerson,Hotel,Card,68.0,2.39,70.39,2023-02-16,Germany,EXEC
+Travis Powell,Meals,Cash,919.18,22.66,941.84,2023-01-27,United Kingdom,EXEC
+Travis Adams,Car,Cash,448.73,22.55,471.28,2024-09-12,Australia,EXEC
+Stacy Bryant,Car,Card,803.11,29.8,832.91,2024-01-19,United States,FINC
+Mrs. Melissa Holland,Car,Card,1620.16,128.42,1748.58,2024-08-04,India,SALS
+Jared Matthews,Meals,Cash,1106.84,87.2,1194.04,2024-12-17,Germany,SALS
+Zachary Estrada,Air,Cash,1769.64,148.37,1918.01,2024-12-10,Germany,ADMN
+Annette Farley,Air,Cash,941.67,62.75,1004.42,2024-03-10,United States,SALS
+Suzanne Santos,Hotel,Cash,387.14,19.63,406.77,2024-03-27,Germany,EXEC
+Kenneth Brown,Meals,Cash,1224.53,100.77,1325.3,2023-07-09,United States,FINC
+Jillian Ward,Meals,Card,1824.95,182.01,2006.96,2024-10-30,Germany,ADMN
+Kyle Howard,Hotel,Cash,1425.82,63.64,1489.46,2023-02-12,Germany,SALS
+Logan Reed,Car,Cash,742.77,39.29,782.06,2023-10-10,United States,SALS
+Larry Gilmore,Air,Card,625.85,19.58,645.43,2023-08-06,Canada,ADMN
+Tamara Huang,Car,Cash,1926.64,145.79,2072.43,2023-06-12,United States,SALS
+Kari Patel,Hotel,Card,1306.08,90.49,1396.57,2023-10-06,India,SALS
+Matthew Wallace,Car,Cash,534.93,32.9,567.83,2023-11-16,India,ENGG
+Tricia Johnson,Hotel,Card,136.44,10.8,147.24,2024-11-09,Canada,ADMN
+Alexis Sims,Air,Cash,1794.41,89.17,1883.58,2024-09-09,India,ADMN
+Brandon Price,Meals,Card,958.67,19.64,978.31,2024-03-21,Canada,ADMN
+Lynn French,Hotel,Cash,534.03,21.11,555.14,2023-05-06,India,EXEC
+Jeremy Gonzalez,Hotel,Card,1204.31,73.58,1277.89,2024-10-13,India,FINC
+Julia Kim,Car,Card,1048.28,31.87,1080.15,2023-10-10,United Kingdom,ENGG
+Jonathan Cunningham,Meals,Cash,1669.46,41.6,1711.06,2023-07-26,United Kingdom,ENGG
+Dr. Whitney Cook,Car,Card,489.27,26.49,515.76,2024-11-09,Australia,ADMN
+Paul King,Meals,Cash,280.73,13.17,293.9,2023-04-26,United States,EXEC
+Victoria Walls,Air,Cash,1164.38,114.68,1279.06,2023-09-06,India,EXEC
+Terri Mccall,Hotel,Cash,397.28,13.36,410.64,2024-02-19,Germany,FINC
+Olivia Bush,Air,Card,1260.58,85.74,1346.32,2023-08-15,India,ADMN
+Jamie Castillo,Air,Cash,681.14,62.75,743.89,2024-10-01,United Kingdom,EXEC
+Matthew Stanton,Meals,Cash,589.63,54.44,644.07,2023-02-10,Canada,ENGG
+Ronald Shelton,Meals,Card,266.82,15.84,282.66,2023-12-20,Canada,EXEC
+Charles Lopez,Meals,Card,410.79,21.47,432.26,2024-04-20,United Kingdom,SALS
+Ryan Preston,Hotel,Cash,997.72,56.04,1053.76,2024-06-23,Germany,FINC
+Craig Browning,Hotel,Cash,360.28,22.39,382.67,2023-08-23,Canada,ENGG
+Patrick White,Hotel,Card,694.06,18.31,712.37,2024-07-17,Australia,ENGG
+Travis Johnson,Car,Cash,937.07,23.9,960.97,2023-11-24,United Kingdom,SALS
+Sean Mills,Car,Card,593.12,56.91,650.03,2023-08-04,United Kingdom,ENGG
+James Forbes,Car,Cash,755.3,68.71,824.01,2023-10-16,India,FINC
+Jonathan Howard,Hotel,Card,857.37,42.79,900.16,2024-03-20,India,EXEC
+Sean Gibson,Air,Cash,1713.27,108.19,1821.46,2024-11-06,United States,EXEC
+Brandon Collins,Meals,Card,1941.92,41.65,1983.57,2024-03-30,United Kingdom,SALS
+Jason Brown,Meals,Card,1665.55,162.25,1827.8,2024-08-16,United Kingdom,ENGG
+David Snyder,Air,Card,586.08,17.61,603.69,2023-01-21,India,FINC
+Kim Herrera,Air,Cash,1975.69,122.66,2098.35,2024-02-15,United Kingdom,EXEC
+Jennifer Perez,Car,Card,1659.32,35.61,1694.93,2024-10-29,United Kingdom,ADMN
+Jacob Johnson,Hotel,Card,604.7,32.49,637.19,2023-03-15,United States,SALS
+Angelica Fields,Meals,Card,1834.71,124.84,1959.55,2023-08-24,Germany,ENGG
+Pamela Brown,Meals,Card,247.58,5.23,252.81,2024-10-28,United States,FINC
+Michael Kelley,Hotel,Card,486.1,13.7,499.8,2023-04-19,United Kingdom,ENGG
+Hector Williams,Car,Cash,358.04,20.83,378.87,2023-07-27,United Kingdom,FINC
+Richard Johnson,Air,Card,1438.27,75.13,1513.4,2023-03-15,Canada,ENGG
+Jessica Andrews,Meals,Card,1235.2,45.56,1280.76,2023-05-11,India,SALS
+Jennifer Green,Hotel,Cash,353.38,13.51,366.89,2023-09-23,Germany,ENGG
+Raymond Mcdonald,Air,Cash,1804.69,101.78,1906.47,2023-08-11,India,SALS
+Ashley Lucero,Air,Cash,94.84,3.59,98.43,2024-04-19,Germany,FINC
+Derrick Roach,Meals,Card,495.41,36.13,531.54,2024-08-20,Canada,FINC
+Sarah Morales,Air,Cash,1260.08,102.77,1362.85,2023-10-08,India,SALS
+Debra Hoffman,Air,Card,1959.84,80.86,2040.7,2024-10-18,United Kingdom,ENGG
+Dr. Christine Brown,Hotel,Card,987.89,26.3,1014.19,2023-06-24,India,ENGG
+Terri Kelly,Meals,Card,1373.47,70.58,1444.05,2023-02-02,United Kingdom,ADMN
+Kenneth Collins,Car,Card,530.64,26.13,556.77,2023-08-25,United States,SALS
+Brittany Sanders,Hotel,Cash,1633.82,84.52,1718.34,2023-07-13,United States,ENGG
+Amy Taylor,Air,Card,1510.3,57.21,1567.51,2023-10-23,Germany,FINC
+Ashley Chen,Car,Card,1010.59,75.22,1085.81,2023-02-20,United States,FINC
+Ashley Lewis,Hotel,Cash,824.98,68.82,893.8,2024-04-16,Canada,ENGG
+Glenn Boyd,Hotel,Card,1047.87,54.39,1102.26,2023-10-14,Canada,ENGG
+Ashley Waters,Air,Card,534.72,44.37,579.09,2023-10-15,India,FINC
+Jill Parker,Meals,Cash,1931.71,60.17,1991.88,2023-12-22,India,EXEC
+William Baker,Meals,Cash,1136.36,85.11,1221.47,2024-02-26,Australia,EXEC
+Brian Bryan,Meals,Card,1872.75,52.0,1924.75,2024-02-10,United States,FINC
+Carolyn Martinez,Hotel,Cash,133.27,7.29,140.56,2023-07-10,United States,EXEC
+April Aguilar,Air,Card,1457.68,34.55,1492.23,2024-06-19,Australia,FINC
+Andrew Espinoza,Meals,Card,1256.99,32.47,1289.46,2024-02-14,Germany,ENGG
+Jeremy Edwards,Air,Cash,92.78,7.21,99.99,2023-08-12,United States,ENGG
+Miguel Velazquez,Car,Cash,1425.03,73.06,1498.09,2023-09-29,India,ENGG
+Danielle Parker,Meals,Card,1934.8,59.52,1994.32,2023-07-02,Germany,ENGG
+Robin Johnson,Hotel,Cash,1405.34,138.98,1544.32,2023-08-10,India,ENGG
+Virginia Evans,Air,Card,1783.68,113.84,1897.52,2024-04-28,United Kingdom,ENGG
+Stephanie Stevens,Meals,Cash,1388.1,102.93,1491.03,2024-08-07,Australia,FINC
+Sarah Richardson,Meals,Cash,98.1,7.68,105.78,2024-11-11,Australia,ADMN
+Angela Cooper,Car,Card,1559.95,139.42,1699.37,2023-09-09,Canada,EXEC
+Jennifer Allen,Car,Cash,1385.51,66.55,1452.06,2024-08-10,India,FINC
+Mary Harrison,Air,Card,832.94,77.12,910.06,2023-04-14,Canada,SALS
+Misty Scott,Meals,Card,1502.17,75.66,1577.83,2024-11-07,India,EXEC
+Joshua Sellers,Air,Card,913.44,45.83,959.27,2023-05-10,Canada,EXEC
+Matthew Cummings,Hotel,Card,1487.24,119.36,1606.6,2024-07-01,United Kingdom,ENGG
+Teresa Sanchez,Meals,Cash,1616.73,79.0,1695.73,2024-10-09,India,EXEC
+Nancy Hunter,Meals,Card,1891.67,112.32,2003.99,2024-01-21,India,ADMN
+Sean Riddle,Air,Cash,247.36,21.66,269.02,2023-03-21,Germany,FINC
+Lori Neal,Air,Cash,181.17,13.7,194.87,2024-05-13,Germany,ENGG
+Ashley Thomas,Car,Card,1644.54,132.32,1776.86,2024-01-12,Canada,EXEC
+James Schmidt,Meals,Cash,1226.96,93.66,1320.62,2023-10-28,Canada,ADMN
+Justin Espinoza,Air,Card,1799.78,134.96,1934.74,2023-11-03,United Kingdom,EXEC
+Haley Lowe,Hotel,Card,822.07,77.7,899.77,2024-03-04,United States,SALS
+Kelsey Stafford,Meals,Card,948.71,67.46,1016.17,2023-10-22,Australia,ENGG
+Mary Allen,Hotel,Cash,1361.16,91.19,1452.35,2023-09-22,India,ENGG
+Carol Castillo,Air,Card,912.59,59.78,972.37,2024-01-22,Canada,ADMN
+Eric Hendricks,Meals,Cash,141.3,11.94,153.24,2023-11-05,Germany,ADMN
+Roy Kelly,Air,Card,1759.58,146.27,1905.85,2023-03-25,Germany,EXEC
+John Melton,Car,Card,245.39,22.24,267.63,2024-01-06,Australia,ADMN
+Mark Sherman,Car,Card,272.54,14.23,286.77,2023-10-15,Germany,ADMN
+Debra Jackson,Meals,Cash,1860.42,163.24,2023.66,2024-11-29,Canada,EXEC
+Lacey Wood,Hotel,Card,1216.7,63.29,1279.99,2023-01-08,United Kingdom,EXEC
+Timothy Smith DDS,Meals,Card,1045.22,29.23,1074.45,2023-05-20,Canada,ENGG
+Robert Sharp,Meals,Card,1653.88,90.51,1744.39,2024-09-17,United States,SALS
+James Meadows,Air,Cash,77.28,3.89,81.17,2023-04-05,India,FINC
+Kari Huerta,Air,Cash,1831.74,56.8,1888.54,2023-02-07,Germany,ADMN
+Jessica Cordova,Air,Card,1003.61,62.16,1065.77,2023-04-16,Germany,FINC
+Karen Cooke,Air,Cash,990.11,37.57,1027.68,2023-01-16,United Kingdom,FINC
+Daniel Davis,Meals,Cash,1991.84,98.83,2090.67,2024-07-02,United Kingdom,EXEC
+Rodney Guzman,Hotel,Card,528.22,47.11,575.33,2023-06-13,India,SALS
+Jason Carr,Meals,Card,609.06,20.18,629.24,2024-04-13,Australia,ADMN
+Corey Barrera,Hotel,Cash,1585.85,117.58,1703.43,2024-08-04,United Kingdom,EXEC
+Kayla Patrick,Air,Card,1870.3,184.0,2054.3,2023-08-30,Germany,ENGG
+Jeffrey Short,Car,Card,1297.13,62.36,1359.49,2024-11-20,United Kingdom,EXEC
+Steven Thomas,Car,Card,1383.12,70.01,1453.13,2024-10-03,United Kingdom,SALS
+Anna West,Air,Cash,825.95,50.3,876.25,2024-02-04,Australia,ENGG
+Hayley Wood,Hotel,Card,1483.21,33.42,1516.63,2024-11-19,Australia,ENGG
+Carla Howe,Hotel,Cash,1066.09,72.5,1138.59,2024-07-23,United Kingdom,ENGG
+Mark Sawyer,Hotel,Card,169.9,8.02,177.92,2023-07-10,United Kingdom,ENGG
+Kelli Hughes,Car,Cash,334.78,29.35,364.13,2024-04-22,India,SALS
+Brad Williams,Hotel,Card,1717.77,58.94,1776.71,2023-09-22,India,SALS
+Terry Moody,Car,Card,702.67,28.28,730.95,2024-04-24,India,ENGG
+Sarah Rivera,Air,Card,348.42,22.5,370.92,2024-12-20,United States,EXEC
+Steven Ruiz,Hotel,Cash,358.67,22.58,381.25,2024-05-26,Australia,ENGG
+John Oliver,Meals,Cash,333.8,26.01,359.81,2024-07-14,United States,FINC
+Curtis Frazier,Meals,Card,259.79,23.44,283.23,2024-03-21,Australia,SALS
+Elizabeth Patterson,Hotel,Card,1420.58,131.94,1552.52,2023-09-06,India,ADMN
+Rebecca Flores,Car,Card,992.58,59.24,1051.82,2024-10-13,Australia,SALS
+Jessica Bryant,Car,Cash,291.4,12.97,304.37,2023-02-15,United States,ADMN
+Gregory Moore,Meals,Card,1625.71,111.13,1736.84,2023-07-10,United States,SALS
+Susan Barton,Air,Card,765.07,66.76,831.83,2023-05-25,United States,ENGG
+Andrew Peters,Air,Card,462.94,27.15,490.09,2023-05-09,Canada,EXEC
+David Bryan,Meals,Cash,149.37,10.46,159.83,2023-05-23,United States,ADMN
+Austin Davis,Meals,Cash,1149.35,108.42,1257.77,2024-04-27,India,SALS
+Mason Chambers,Car,Card,950.44,56.18,1006.62,2023-10-30,United States,FINC
+Mackenzie Holmes,Car,Card,1573.74,79.88,1653.62,2023-07-18,India,FINC
+Kelly Wells,Air,Card,1743.8,107.76,1851.56,2024-11-27,India,FINC
+Rita Hanson,Car,Card,1948.71,108.73,2057.44,2023-04-14,Canada,SALS
+Brianna Davis,Meals,Cash,346.43,31.3,377.73,2023-06-03,Germany,ENGG
+William Martinez,Meals,Cash,1297.79,68.67,1366.46,2024-08-13,India,FINC
+Megan Grant,Air,Card,1354.37,105.53,1459.9,2023-03-31,Australia,ADMN
+Andrea Allen,Meals,Cash,1646.15,130.66,1776.81,2023-03-27,United States,ADMN
+Tiffany Fisher,Hotel,Card,493.63,24.48,518.11,2023-02-26,Germany,SALS
+Stephanie Mathis,Air,Cash,311.72,8.1,319.82,2023-08-27,United States,ADMN
+Lorraine Wong,Hotel,Card,1218.02,101.94,1319.96,2023-01-25,Australia,FINC
+George Warren,Car,Cash,1655.51,120.96,1776.47,2023-10-10,India,EXEC
+Jason Aguilar,Hotel,Cash,301.81,8.07,309.88,2024-12-27,United States,EXEC
+Renee Mcdonald,Air,Cash,456.49,16.47,472.96,2024-12-07,Australia,SALS
+Dustin Perez,Air,Card,1822.27,64.13,1886.4,2023-06-25,Australia,EXEC
+Kevin Wilson,Air,Card,530.46,18.83,549.29,2024-02-11,Germany,ADMN
+Michael Smith,Hotel,Cash,1345.61,114.81,1460.42,2024-08-17,Canada,FINC
+Jesse Gonzalez,Air,Cash,891.98,81.04,973.02,2023-12-27,Germany,SALS
+Jacob Adams,Hotel,Cash,57.06,5.5,62.56,2024-11-26,Germany,SALS
+Nicole Howard,Meals,Cash,1711.07,44.63,1755.7,2023-01-26,United Kingdom,ENGG
+Martha Love,Meals,Card,1210.36,85.67,1296.03,2023-03-28,Germany,EXEC
+Richard Washington,Hotel,Cash,315.2,18.21,333.41,2024-03-27,United Kingdom,EXEC
+Holly Brown,Air,Card,846.77,31.28,878.05,2024-02-07,Australia,SALS
+Jeffery Elliott,Car,Card,565.25,50.56,615.81,2023-06-27,Australia,SALS
+Robert Williamson,Hotel,Card,1680.98,100.22,1781.2,2024-12-22,United Kingdom,ADMN
+Felicia Larson,Meals,Card,623.58,46.73,670.31,2024-06-24,Germany,SALS
+Tiffany Bowman,Air,Card,552.89,29.2,582.09,2024-03-01,Canada,EXEC
+Mark Patton,Meals,Card,1135.0,73.53,1208.53,2023-04-18,United Kingdom,EXEC
+Stacy Jones,Air,Card,1256.93,44.19,1301.12,2023-01-23,Germany,ENGG
+Timothy Murray,Meals,Card,568.27,47.49,615.76,2024-07-28,Australia,ADMN
+Tammy Callahan,Air,Card,780.56,76.22,856.78,2023-08-03,United States,ADMN
+Debra Rowland,Meals,Cash,1668.06,99.16,1767.22,2024-10-03,Canada,SALS
+Joshua Gardner,Car,Card,358.39,29.61,388.0,2023-11-02,India,SALS
+Sylvia Peterson,Car,Cash,1159.64,76.12,1235.76,2024-09-20,Germany,ENGG
+Cynthia Herrera,Meals,Card,442.38,34.16,476.54,2024-11-13,Australia,FINC
+Justin Todd,Hotel,Card,191.89,7.45,199.34,2023-02-07,United Kingdom,EXEC
+Michael Fischer,Meals,Card,586.48,54.93,641.41,2023-06-24,Canada,FINC
+Helen Kane,Air,Card,478.01,36.67,514.68,2023-10-03,United States,ENGG
+Stephen Harris,Meals,Cash,1110.64,59.08,1169.72,2023-02-13,United Kingdom,ENGG
+Joseph Hall,Car,Cash,979.08,26.15,1005.23,2024-05-31,Australia,ENGG
+Karen Zuniga,Car,Card,1165.86,76.28,1242.14,2023-06-05,Germany,ADMN
+Jessica George,Air,Card,1868.94,72.73,1941.67,2023-10-08,Australia,SALS
+Donna Miller,Air,Card,1563.11,46.32,1609.43,2023-02-27,India,EXEC
+Eric Marshall,Meals,Card,992.7,27.29,1019.99,2024-10-11,United States,SALS
+Hannah Wilson,Meals,Cash,57.55,1.77,59.32,2024-12-26,Canada,SALS
+John Jones,Hotel,Card,589.68,23.4,613.08,2024-04-11,United Kingdom,ENGG
+Kelly Garcia,Air,Cash,300.86,21.25,322.11,2023-04-28,India,EXEC
+Terri Donaldson,Air,Card,1595.2,136.13,1731.33,2024-07-21,Australia,SALS
+Pamela Ross,Air,Cash,760.16,63.84,824.0,2023-10-21,Germany,EXEC
+Carmen Diaz,Hotel,Card,599.31,41.47,640.78,2023-06-22,United States,SALS
+Timothy Cook,Hotel,Card,423.45,13.7,437.15,2023-05-25,United States,EXEC
+Brandi Jensen,Car,Cash,1260.33,106.55,1366.88,2024-02-02,Canada,ENGG
+Eric Russell,Meals,Card,1471.08,121.67,1592.75,2023-06-30,Australia,FINC
+Patrick Powell,Hotel,Cash,1697.66,112.27,1809.93,2023-06-19,Canada,SALS
+Jorge Nolan,Air,Cash,1917.34,50.19,1967.53,2023-05-17,United Kingdom,FINC
+David Chavez,Car,Card,965.74,33.96,999.7,2023-12-18,Germany,SALS
+Robert Gibbs,Air,Card,182.5,7.3,189.8,2024-06-27,Australia,ADMN
+Heather Price,Hotel,Cash,233.28,11.87,245.15,2023-08-20,United Kingdom,SALS
+William Sanchez,Hotel,Card,639.17,59.3,698.47,2024-03-13,India,ADMN
+Amanda Carroll,Meals,Cash,1868.36,73.84,1942.2,2024-01-05,United States,SALS
+Mary Rios,Hotel,Card,757.23,24.8,782.03,2024-02-10,United Kingdom,EXEC
+Kirk Ferguson,Air,Cash,239.26,5.99,245.25,2023-05-05,United States,EXEC
+William Cortez,Meals,Cash,1130.07,63.14,1193.21,2024-07-22,United Kingdom,ENGG
+Lisa Smith,Hotel,Card,1012.31,34.3,1046.61,2024-11-22,Australia,SALS
+Amanda Pearson,Air,Cash,193.36,8.62,201.98,2024-12-29,Canada,SALS
+Amy Tanner,Car,Card,266.46,15.53,281.99,2024-06-08,Australia,ADMN
+Rita Tucker,Meals,Cash,518.29,15.85,534.14,2024-01-16,United States,ENGG
+Kimberly Greer,Meals,Cash,1691.64,108.92,1800.56,2023-03-31,Canada,FINC
+Kristen Watkins,Meals,Cash,1998.23,45.04,2043.27,2023-08-24,United States,SALS
+Kevin Nguyen,Hotel,Cash,411.8,31.21,443.01,2024-09-29,Australia,FINC
+Brittany Brown,Air,Card,976.26,94.72,1070.98,2023-07-10,Canada,SALS
+Julie Zimmerman,Air,Card,1898.02,48.78,1946.8,2024-07-25,Canada,ADMN
+Sierra Walton,Hotel,Cash,1508.33,35.63,1543.96,2024-12-08,Australia,ADMN
+Jo Lambert,Car,Card,174.04,11.75,185.79,2023-07-10,India,FINC
+Dawn Little,Car,Cash,1208.48,66.78,1275.26,2023-07-17,Canada,EXEC
+Sherri Nichols,Meals,Card,1194.83,116.54,1311.37,2023-01-31,India,FINC
+Joseph Gaines,Hotel,Card,566.85,39.95,606.8,2024-08-03,Australia,ENGG
+Matthew Gray,Hotel,Cash,1971.3,120.1,2091.4,2023-04-17,Australia,ENGG
+Anne Diaz,Car,Cash,1984.19,129.95,2114.14,2023-06-07,Germany,ENGG
+Charles Jones,Meals,Cash,893.72,39.73,933.45,2024-06-01,India,ENGG
+Nicole Mejia,Air,Cash,541.61,14.21,555.82,2024-01-04,Australia,EXEC
+Bradley Daniels,Meals,Cash,283.94,17.42,301.36,2024-01-26,India,ADMN
+Casey Anderson,Air,Card,873.99,55.38,929.37,2023-04-20,Australia,ENGG
+Samantha Deleon,Air,Cash,1324.22,101.43,1425.65,2024-10-06,India,ADMN
+Matthew Jones,Meals,Cash,1728.21,163.59,1891.8,2023-05-11,United Kingdom,EXEC
+Jennifer Lopez,Meals,Cash,1081.98,52.78,1134.76,2024-11-08,India,ENGG
+Philip Casey,Air,Cash,785.44,26.61,812.05,2024-04-06,Germany,SALS
+Richard Banks,Car,Card,1730.98,71.84,1802.82,2023-10-04,Canada,FINC
+Christopher Griffin,Car,Card,1189.35,38.92,1228.27,2023-03-15,Australia,ADMN
+Michelle Davidson,Air,Cash,520.92,38.02,558.94,2024-05-16,Australia,FINC
+Corey Michael PhD,Hotel,Cash,1707.53,64.35,1771.88,2024-01-06,Germany,SALS
+Shawn Brown,Car,Card,1746.29,90.0,1836.29,2024-07-02,Australia,ADMN
+Megan Hatfield,Air,Cash,707.28,29.13,736.41,2024-09-09,Canada,FINC
+Courtney Cruz,Air,Cash,1939.31,117.74,2057.05,2023-12-24,Canada,EXEC
+Wendy Velazquez,Meals,Card,555.69,17.1,572.79,2024-02-14,Canada,ADMN
+Timothy Rowe,Meals,Card,1716.25,59.59,1775.84,2024-06-16,Canada,ENGG
+Justin Jordan,Air,Card,159.35,11.44,170.79,2024-08-05,India,SALS
+John Baker,Car,Card,627.42,56.57,683.99,2023-10-08,Germany,ADMN
+Maria Cross,Hotel,Cash,1489.69,139.31,1629.0,2024-10-20,India,ADMN
+Dawn Maldonado,Hotel,Cash,1709.03,155.22,1864.25,2024-12-22,Australia,EXEC
+Regina Wright,Air,Cash,924.93,22.62,947.55,2024-12-29,India,FINC
+Lisa Martinez,Air,Cash,1601.24,147.0,1748.24,2024-09-29,India,SALS
+John Stewart,Air,Card,1497.25,102.4,1599.65,2024-04-28,Germany,FINC
+Janet Griffith,Meals,Cash,981.88,29.38,1011.26,2024-09-11,Germany,FINC
+John Richardson,Hotel,Cash,428.52,10.84,439.36,2023-04-21,Australia,ENGG
+Robert Owens,Air,Card,1836.34,44.47,1880.81,2024-06-11,India,ADMN
+Michael Carson,Hotel,Card,1505.12,82.85,1587.97,2023-01-12,Australia,SALS
+Ricky Lawrence,Meals,Cash,1977.54,172.58,2150.12,2024-10-31,United Kingdom,ENGG
+Elizabeth Sanchez,Hotel,Cash,1843.99,172.0,2015.99,2024-07-28,Germany,SALS
+Victor Smith,Hotel,Cash,340.31,19.03,359.34,2023-03-16,Germany,ENGG
+Ellen Perry,Meals,Card,1065.17,38.46,1103.63,2024-03-02,Canada,ADMN
+Sandra Brown,Car,Cash,1660.04,112.71,1772.75,2024-10-13,Canada,ADMN
+Victoria Schmitt,Car,Card,1448.97,59.27,1508.24,2023-10-06,Germany,ENGG
+Brittany Todd,Meals,Card,1405.11,109.15,1514.26,2024-08-09,India,ADMN
+Kayla Zhang,Air,Cash,1070.72,88.44,1159.16,2023-01-17,Germany,EXEC
+Susan Massey,Car,Cash,107.05,9.25,116.3,2023-12-07,Germany,ADMN
+Scott Hess,Air,Card,1971.82,63.07,2034.89,2023-05-26,Australia,EXEC
+Steven Randall,Air,Card,857.16,53.5,910.66,2024-02-12,Germany,SALS
+Cynthia Jenkins,Hotel,Cash,1696.6,100.26,1796.86,2023-08-25,Australia,FINC
+Melanie Castillo,Air,Card,1762.44,121.87,1884.31,2024-03-19,India,SALS
+Christina Carter,Meals,Card,117.15,5.79,122.94,2023-03-20,India,ADMN
+Jesus Hayes,Hotel,Card,1735.68,148.84,1884.52,2024-05-02,Canada,FINC
+Matthew Wright,Hotel,Card,546.9,39.95,586.85,2024-10-03,Australia,EXEC
+Taylor Herring,Meals,Cash,1086.14,88.44,1174.58,2023-04-13,Australia,EXEC
+Jeffrey Gregory,Air,Card,1535.38,140.04,1675.42,2024-02-09,Canada,SALS
+Vickie Howell,Car,Cash,1432.9,62.42,1495.32,2024-12-13,Canada,ENGG
+Jeffery Harris,Hotel,Card,1431.96,60.57,1492.53,2024-10-09,Canada,ENGG
+Charles Green,Meals,Card,1389.09,35.61,1424.7,2023-05-12,Germany,ENGG
+Sandra Alexander,Car,Cash,1028.6,65.34,1093.94,2024-07-01,Australia,ENGG
+Tonya Bailey,Car,Card,1498.6,77.7,1576.3,2023-02-17,Australia,EXEC
+Justin Jones,Hotel,Cash,1692.41,143.62,1836.03,2023-09-02,United Kingdom,FINC
+Katherine Humphrey,Car,Card,1097.96,89.42,1187.38,2023-09-21,United Kingdom,ADMN
+Erika Young,Car,Card,545.5,19.23,564.73,2023-05-10,India,ADMN
+Patrick Elliott,Hotel,Cash,1100.9,92.95,1193.85,2023-09-27,United Kingdom,ENGG
+Amy Mccullough,Car,Cash,1199.67,62.96,1262.63,2023-02-17,Canada,ENGG
+Michael Martinez,Car,Cash,1827.53,132.6,1960.13,2023-04-21,Canada,SALS
+Peter Kidd,Air,Card,1811.13,43.06,1854.19,2024-10-31,United States,ADMN
+Jacob Figueroa,Hotel,Cash,1742.52,83.17,1825.69,2023-05-20,Germany,ADMN
+Gary Garza,Car,Card,1973.52,178.79,2152.31,2023-04-27,Australia,EXEC
+Susan Huff,Air,Cash,1124.44,90.51,1214.95,2024-02-28,Australia,FINC
+Katherine Hoffman,Hotel,Card,671.37,28.1,699.47,2024-06-08,India,FINC
+Natasha George,Car,Card,115.73,10.15,125.88,2024-02-17,Canada,SALS
+Kelly Anderson,Car,Cash,1864.87,46.5,1911.37,2024-10-03,United Kingdom,SALS
+Brittany Miller,Air,Cash,86.98,7.79,94.77,2024-12-10,Canada,SALS
+Hannah Diaz,Air,Card,1575.08,35.13,1610.21,2024-09-28,India,ENGG
+Michelle Le,Meals,Card,1945.15,77.64,2022.79,2024-03-08,Canada,ENGG
+Susan Edwards,Meals,Cash,1543.14,132.33,1675.47,2024-08-04,United Kingdom,FINC
+Traci Cooper,Air,Cash,192.03,5.62,197.65,2024-04-27,Australia,ADMN
+Natalie Simmons,Meals,Card,555.71,42.14,597.85,2024-07-05,United States,SALS
+Matthew Howard,Car,Cash,1522.47,63.11,1585.58,2024-11-15,Germany,ADMN
+Miss Tina Jones,Hotel,Cash,1914.7,121.65,2036.35,2023-05-17,United Kingdom,ENGG
+Melissa Cameron,Air,Cash,681.15,58.65,739.8,2023-01-29,India,EXEC
+Lorraine Kim,Air,Card,1509.51,113.74,1623.25,2024-07-28,Germany,SALS
+Andrew Lopez,Meals,Cash,80.79,5.08,85.87,2023-10-14,Canada,FINC
+Elizabeth Hale,Meals,Card,1283.05,122.39,1405.44,2023-06-23,United Kingdom,ENGG
+Jeremy Stein,Hotel,Card,283.58,24.16,307.74,2024-11-17,United Kingdom,ENGG
+Mrs. Amanda Baldwin,Car,Card,1477.62,52.11,1529.73,2024-08-09,Canada,ENGG
+Daniel Warren,Car,Card,1341.63,30.34,1371.97,2023-09-08,India,FINC
+Phillip Bailey,Car,Cash,1521.49,61.06,1582.55,2023-08-13,Canada,FINC
+Justin Patterson,Car,Card,1444.68,91.77,1536.45,2023-12-19,Canada,EXEC
+Jack Boyd,Air,Card,120.97,7.28,128.25,2024-08-20,Germany,EXEC
+Jessica Weeks,Meals,Card,1805.75,87.88,1893.63,2024-08-17,United States,ENGG
+Maria Sanchez,Hotel,Card,1210.1,119.82,1329.92,2024-08-18,India,EXEC
+Crystal Williams,Hotel,Cash,1193.1,118.05,1311.15,2023-02-26,Germany,SALS
+Dr. Nicole Williamson,Hotel,Cash,837.02,19.2,856.22,2023-09-25,Australia,FINC
+Charles Clark,Air,Card,500.27,34.18,534.45,2024-09-19,Canada,ENGG
+Rhonda Gordon,Hotel,Cash,1397.35,119.22,1516.57,2023-06-26,United Kingdom,ENGG
+Stephen Brewer,Meals,Card,1715.34,66.43,1781.77,2023-05-09,United Kingdom,SALS
+Andrea Allen,Car,Cash,367.17,9.45,376.62,2024-04-30,United States,SALS
+Michael Bryant,Car,Cash,1192.87,86.83,1279.7,2024-07-28,United States,SALS
+Joseph Morgan,Hotel,Cash,746.62,46.51,793.13,2023-10-22,Germany,SALS
+Colleen Cross DVM,Meals,Cash,271.08,20.19,291.27,2023-09-09,United Kingdom,SALS
+Nichole Mckenzie,Car,Cash,424.71,20.31,445.02,2023-07-28,Canada,ADMN
+Donna Dunn,Air,Cash,162.2,10.96,173.16,2023-11-25,United Kingdom,SALS
+Natalie Drake PhD,Meals,Card,864.03,33.72,897.75,2023-04-13,United States,ENGG
+Robert Mitchell,Meals,Card,1328.88,29.02,1357.9,2023-06-14,United Kingdom,SALS
+Donald Park,Meals,Card,929.11,43.02,972.13,2024-03-22,Canada,ENGG
+Jennifer Rodriguez,Meals,Card,1534.54,101.89,1636.43,2024-07-01,United States,EXEC
+Leah Lee,Hotel,Cash,845.65,50.13,895.78,2024-03-19,United States,EXEC
+Brandon Long PhD,Car,Card,778.36,77.02,855.38,2024-01-30,India,ADMN
+Ronald Bender,Car,Cash,75.07,5.63,80.7,2024-05-13,United States,ENGG
+Tiffany Hughes,Hotel,Card,620.89,41.55,662.44,2024-07-26,United States,SALS
+Cindy Short,Car,Card,1428.79,46.6,1475.39,2024-05-19,Germany,ADMN
+William Thornton,Hotel,Card,1043.68,24.08,1067.76,2024-05-26,Germany,ENGG
+James Vargas,Air,Cash,771.6,55.3,826.9,2024-05-10,India,ADMN
+Daniel Brown,Hotel,Cash,1454.15,70.31,1524.46,2024-04-14,Germany,EXEC
+Michael Branch,Car,Cash,1508.76,68.69,1577.45,2023-10-31,Germany,ADMN
+Anthony Mayo,Meals,Cash,1145.49,77.51,1223.0,2023-12-26,Canada,ENGG
+Dennis Jenkins,Hotel,Card,812.14,55.33,867.47,2024-01-20,Germany,SALS
+Melissa Hughes,Meals,Card,392.31,12.38,404.69,2023-08-09,United Kingdom,SALS
+Justin Watkins,Meals,Cash,1932.67,90.9,2023.57,2023-08-02,Australia,ADMN
+Matthew Johnson,Car,Cash,1857.83,136.18,1994.01,2023-10-30,Australia,ADMN
+Maria Caldwell,Hotel,Card,482.73,19.62,502.35,2023-01-14,United Kingdom,SALS
+Patrick Pierce,Hotel,Card,221.47,10.24,231.71,2024-05-27,Germany,ADMN
+Tiffany Price,Car,Card,282.41,14.78,297.19,2024-06-16,United States,SALS
+Megan Brooks,Meals,Card,673.6,43.02,716.62,2024-12-13,Germany,SALS
+Ashley Wilson,Air,Cash,314.36,19.61,333.97,2024-09-04,India,FINC
+Lauren Brown,Car,Cash,1003.79,84.85,1088.64,2024-05-28,Canada,EXEC
+Doris Thompson,Car,Cash,336.49,21.28,357.77,2024-05-08,United Kingdom,ENGG
+Brandon Norton,Air,Card,1873.12,71.65,1944.77,2023-12-23,Canada,FINC
+Thomas Martin,Hotel,Cash,853.07,18.0,871.07,2024-08-14,Australia,ADMN
+Timothy Hernandez,Car,Cash,351.84,14.64,366.48,2024-06-17,Germany,ENGG
+Karen Berry,Meals,Cash,425.42,21.49,446.91,2024-12-06,Germany,SALS
+Tammy Lee,Hotel,Cash,596.25,49.71,645.96,2023-06-19,Australia,FINC
+Denise Mcbride,Air,Card,476.81,37.88,514.69,2024-03-28,United States,ENGG
+Breanna Bernard,Air,Card,1879.88,134.66,2014.54,2023-10-29,United States,SALS
+Michael Davis,Car,Card,1770.64,73.33,1843.97,2023-10-08,Germany,EXEC
+Brittany Campbell,Meals,Card,315.9,9.07,324.97,2023-07-26,Canada,ADMN
+Matthew Green,Air,Cash,1140.91,62.02,1202.93,2024-10-22,United Kingdom,SALS
+Holly Davis,Meals,Cash,225.83,8.43,234.26,2024-09-22,United Kingdom,ENGG
+Whitney Brown,Air,Card,523.12,33.29,556.41,2024-08-09,India,ENGG
+Jennifer Castillo,Hotel,Cash,1265.29,66.29,1331.58,2023-10-30,Canada,ADMN
+Justin Hernandez,Car,Card,323.94,19.16,343.1,2024-11-24,India,FINC
+Taylor Washington,Air,Card,1530.53,47.98,1578.51,2024-04-21,Canada,FINC
+Shelly Hernandez,Meals,Card,1821.03,109.55,1930.58,2023-12-05,United Kingdom,EXEC
+Tammy Nguyen,Air,Cash,924.23,83.94,1008.17,2023-02-11,India,EXEC
+Debra Long,Air,Cash,980.09,77.48,1057.57,2023-05-30,United Kingdom,SALS
+Michael Lewis,Air,Cash,751.72,15.75,767.47,2024-08-20,United States,ADMN
+Kathleen Peck,Car,Card,1072.84,36.93,1109.77,2024-02-23,United States,SALS
+Victoria Bowman,Car,Card,208.91,14.6,223.51,2023-03-16,Germany,ENGG
+Judy Gentry,Air,Cash,1578.34,66.51,1644.85,2023-12-10,United Kingdom,EXEC
+Anthony Gibbs,Hotel,Cash,856.19,59.69,915.88,2023-03-02,India,ADMN
+Jared Schneider,Air,Cash,1339.01,66.73,1405.74,2023-07-18,Canada,ADMN
+Robert Bradley,Car,Cash,1770.57,104.09,1874.66,2023-04-14,United States,ENGG
+Danny Berry,Meals,Card,1736.97,60.96,1797.93,2024-11-07,India,FINC
+Gary James,Car,Card,386.44,15.59,402.03,2023-03-16,United Kingdom,ENGG
+Ricky Jones,Air,Card,121.08,2.82,123.9,2023-06-19,Canada,SALS
+Catherine Roberts,Meals,Card,1788.44,147.67,1936.11,2024-09-04,India,ENGG
+Amy Hamilton,Air,Cash,1436.5,62.78,1499.28,2023-01-27,United States,SALS
+Brooke Lopez,Car,Card,1776.2,151.18,1927.38,2024-08-17,Canada,EXEC
+Jason Hernandez,Meals,Card,1694.97,51.94,1746.91,2024-11-18,Germany,EXEC
+Victoria Ashley,Car,Card,411.99,35.69,447.68,2023-06-17,United Kingdom,ENGG
+Roy Lee,Air,Card,87.93,2.55,90.48,2023-02-10,India,EXEC
+Erica Butler,Meals,Cash,1364.39,104.99,1469.38,2024-11-26,United States,ENGG
+Michael Velasquez,Meals,Cash,1604.08,77.22,1681.3,2023-04-01,United States,ENGG
+Gabriel Martin,Meals,Card,1093.65,22.12,1115.77,2024-03-24,United States,FINC
+Robert Smith,Meals,Cash,1336.41,30.68,1367.09,2024-12-10,Canada,ADMN
+Samantha Wise,Hotel,Card,196.96,6.12,203.08,2024-11-24,Australia,ENGG
+Jeffrey Hill,Meals,Card,1183.89,58.5,1242.39,2023-02-11,India,SALS
+Matthew Holmes,Air,Card,1678.73,133.99,1812.72,2024-03-17,Canada,FINC
+Kelsey Soto,Hotel,Cash,508.52,25.16,533.68,2023-09-12,Australia,SALS
+Samantha Fuller,Meals,Cash,1834.05,150.73,1984.78,2023-03-12,United Kingdom,SALS
+Joseph Larson,Air,Cash,359.74,10.36,370.1,2023-10-22,Canada,ADMN
+Katherine Frazier,Hotel,Cash,417.88,13.13,431.01,2023-09-24,Australia,EXEC
+Antonio Moyer,Air,Cash,1179.29,96.93,1276.22,2023-01-06,Australia,ADMN
+Catherine Price,Car,Cash,1262.76,43.0,1305.76,2024-10-30,Canada,EXEC
+Douglas Macdonald,Meals,Card,1898.62,118.72,2017.34,2023-05-03,Australia,ADMN
+Mr. John Wilson,Car,Cash,1644.45,99.66,1744.11,2023-12-02,India,ENGG
+Jeffrey Madden,Meals,Card,1267.81,117.49,1385.3,2024-11-18,Germany,FINC
+Katherine Wilcox,Hotel,Cash,1600.46,34.22,1634.68,2023-07-25,Canada,FINC
+Erin Thompson,Car,Card,422.98,10.12,433.1,2024-08-19,Germany,EXEC
+Diane Knight,Hotel,Card,1170.84,41.16,1212.0,2024-08-13,United States,ADMN
+Jessica Moore,Air,Card,1149.72,57.36,1207.08,2023-03-18,Germany,ENGG
+Jennifer Bradley,Hotel,Card,1155.33,114.16,1269.49,2024-01-04,United States,FINC
+Carol Moore,Meals,Cash,1942.29,154.78,2097.07,2023-11-03,Germany,SALS
+Ms. Karen Johnson,Meals,Card,442.72,12.77,455.49,2023-09-08,Australia,ENGG
+Taylor Callahan,Hotel,Cash,1576.2,102.25,1678.45,2024-07-10,United Kingdom,FINC
+Kathryn Mitchell,Hotel,Card,140.32,6.84,147.16,2023-01-01,Canada,FINC
+Heather Lopez,Hotel,Cash,1153.65,55.52,1209.17,2023-02-09,United States,SALS
+Melinda Cox,Meals,Card,756.03,39.29,795.32,2023-05-17,United Kingdom,SALS
+Jennifer Fields,Meals,Card,1615.38,96.11,1711.49,2023-04-11,United Kingdom,ENGG
+Emily Schroeder,Hotel,Card,1080.69,41.33,1122.02,2024-02-26,India,SALS
+John Brown,Car,Card,275.41,25.73,301.14,2023-09-26,India,SALS
+Christopher Stewart,Air,Card,560.93,42.53,603.46,2023-11-29,Canada,ADMN
+Brian Brown,Car,Card,336.0,28.4,364.4,2024-03-25,Australia,ENGG
+Gloria Hunter,Air,Card,1325.9,120.73,1446.63,2023-07-13,India,ENGG
+Ryan Yu,Air,Cash,1800.59,41.04,1841.63,2024-05-25,Germany,EXEC
+Vernon Barnett,Air,Cash,1970.64,78.47,2049.11,2023-03-11,United Kingdom,ENGG
+Ashley Elliott,Air,Card,718.91,19.34,738.25,2023-05-11,Australia,ADMN
+Wayne Park,Meals,Card,1743.02,132.71,1875.73,2024-11-20,Australia,EXEC
+Carrie Porter,Air,Cash,223.37,6.58,229.95,2024-04-08,Canada,SALS
+Raymond Scott,Hotel,Cash,947.53,64.46,1011.99,2024-03-25,Canada,ENGG
+Charlotte Hughes,Car,Cash,175.08,16.62,191.7,2023-05-26,India,ENGG
+Jonathan Murray,Hotel,Cash,1759.3,61.09,1820.39,2023-05-05,Australia,FINC
+Jennifer Moore,Meals,Card,426.16,27.65,453.81,2024-08-26,Australia,ADMN
+Jason Rios,Meals,Cash,981.45,27.05,1008.5,2023-07-26,Australia,FINC
+Kevin Russo,Car,Cash,1963.4,184.77,2148.17,2023-06-21,Australia,ADMN
+Jeffrey Watson,Hotel,Cash,1817.51,146.21,1963.72,2023-11-01,United States,ADMN
+Stephen Wells,Air,Card,1123.9,48.27,1172.17,2024-07-17,Canada,SALS
+Karen Castaneda,Meals,Card,1016.57,68.11,1084.68,2024-03-08,United States,FINC
+Andrea Rivera,Car,Cash,1782.64,152.69,1935.33,2023-05-18,Australia,ADMN
+Kimberly Young,Hotel,Card,1772.2,56.11,1828.31,2023-11-27,Canada,FINC
+Kevin Matthews,Hotel,Cash,423.18,35.08,458.26,2023-04-29,Germany,FINC
+Sandra Walton,Air,Cash,730.48,51.32,781.8,2024-07-27,Germany,FINC
+Perry Walters,Hotel,Cash,193.8,12.42,206.22,2024-05-15,India,SALS
+Chris Shannon,Hotel,Card,753.39,36.63,790.02,2023-05-09,Germany,FINC
+Jason Myers,Hotel,Cash,1992.32,90.89,2083.21,2024-12-22,Canada,ADMN
+Lindsey Davidson,Air,Card,1770.62,72.19,1842.81,2023-08-01,Australia,ENGG
+David Jackson,Hotel,Cash,1112.21,92.3,1204.51,2024-01-28,Australia,SALS
+Robert Jackson,Air,Card,1805.61,63.75,1869.36,2023-08-10,Australia,SALS
+James Lam,Air,Cash,987.78,91.25,1079.03,2024-03-19,United States,ADMN
+Alexander Cox,Air,Cash,1326.98,81.57,1408.55,2024-09-21,Canada,FINC
+Jennifer Perez,Meals,Cash,627.45,54.53,681.98,2023-04-23,United States,SALS
+Heather Austin,Car,Card,1286.88,126.76,1413.64,2023-07-25,Germany,FINC
+Derek Stephenson,Hotel,Card,772.74,19.56,792.3,2024-02-12,India,SALS
+Crystal Long,Air,Card,1937.33,188.35,2125.68,2023-05-17,India,ENGG
+Jennifer Ball,Air,Card,466.97,44.72,511.69,2024-05-13,United States,EXEC
+Juan Ray,Meals,Cash,1685.52,138.22,1823.74,2024-06-24,United Kingdom,EXEC
+Jose Lee,Hotel,Cash,163.84,7.68,171.52,2024-10-14,Germany,ENGG
+Ian Ramirez,Car,Card,188.65,12.07,200.72,2024-12-15,Australia,ADMN
+David Anderson,Car,Cash,139.82,4.59,144.41,2023-05-28,United States,EXEC
+Mr. Jeremy Petersen,Car,Card,1774.46,93.69,1868.15,2023-09-30,Australia,SALS
+Kerry Castro,Hotel,Cash,503.45,23.58,527.03,2024-02-12,India,ENGG
+Jennifer Tate,Air,Cash,415.37,10.77,426.14,2023-06-23,Canada,EXEC
+Alejandro Cardenas,Air,Cash,1032.32,51.03,1083.35,2024-08-11,Germany,EXEC
+Caitlyn Martin,Car,Card,314.31,29.82,344.13,2024-10-12,United States,EXEC
+Michael Pearson,Air,Cash,1965.75,68.28,2034.03,2023-04-30,India,EXEC
+Heather Olson,Air,Cash,53.54,1.57,55.11,2023-10-27,United Kingdom,ENGG
+Gerald Grant,Car,Card,1033.69,54.96,1088.65,2023-11-20,India,SALS
+Timothy Davis,Car,Cash,1985.24,121.89,2107.13,2023-04-12,India,EXEC
+James Scott,Meals,Cash,327.34,16.09,343.43,2023-10-29,United Kingdom,ADMN
+Roger Gomez,Meals,Card,1272.23,76.54,1348.77,2024-04-08,Canada,ENGG
+Bob Watts,Air,Cash,1191.15,58.37,1249.52,2023-05-04,United Kingdom,ENGG
+Matthew Valdez,Air,Cash,1832.02,73.16,1905.18,2024-07-16,Australia,FINC
+Chris Whitney,Air,Card,1307.85,50.35,1358.2,2024-06-18,Germany,ADMN
+Timothy Le,Hotel,Cash,485.81,47.08,532.89,2023-03-22,Germany,FINC
+Anna Smith,Meals,Cash,1199.73,113.26,1312.99,2024-06-18,Australia,EXEC
+Christopher Murray,Air,Cash,320.61,8.72,329.33,2024-03-14,Germany,ADMN
+Stephanie Ware,Air,Card,1364.83,63.74,1428.57,2023-11-03,India,EXEC
+Joyce White,Meals,Card,606.32,27.59,633.91,2024-09-02,Germany,ENGG
+Gabriel Arnold,Car,Cash,1298.04,98.81,1396.85,2023-08-19,Australia,EXEC
+Mr. Luke Hanson Jr.,Car,Card,1992.38,149.53,2141.91,2023-10-23,United States,SALS
+Anthony Fleming,Meals,Card,462.59,20.49,483.08,2024-03-15,United Kingdom,SALS
+Jill Morris,Hotel,Card,1329.9,45.12,1375.02,2023-02-13,Canada,ADMN
+George Carson,Air,Card,786.9,45.97,832.87,2023-05-01,United States,FINC
+Elizabeth Rollins,Hotel,Card,1638.52,146.0,1784.52,2023-10-03,United Kingdom,EXEC
+Joshua Howell,Meals,Card,1269.85,119.64,1389.49,2023-07-20,Canada,SALS
+April Montgomery,Meals,Card,989.81,32.32,1022.13,2023-02-06,Germany,EXEC
+Brian West,Meals,Card,107.85,9.39,117.24,2023-03-06,India,FINC
+Stefanie Torres,Air,Cash,1584.34,135.82,1720.16,2023-09-24,United States,FINC
+Daniel Bowen,Hotel,Card,1996.64,161.47,2158.11,2023-02-23,Australia,SALS
+Jason Brown,Car,Cash,1414.67,96.72,1511.39,2024-09-29,United Kingdom,FINC
+Don Washington,Car,Card,791.58,30.31,821.89,2023-10-15,United Kingdom,ENGG
+Jesse Rice,Hotel,Cash,862.86,18.27,881.13,2023-01-17,Germany,FINC
+Jesus Wade,Car,Card,1735.3,163.69,1898.99,2023-08-25,India,SALS
+David Edwards,Hotel,Cash,1224.43,104.54,1328.97,2023-07-23,Australia,ENGG
+Molly Williams,Meals,Cash,223.84,19.83,243.67,2023-03-06,Australia,SALS
+Savannah Hughes,Air,Cash,1642.1,109.29,1751.39,2023-12-02,Germany,SALS
+Luis Ortiz,Meals,Card,1133.06,72.16,1205.22,2023-10-21,Australia,ENGG
+Russell Jackson,Car,Cash,1870.19,77.55,1947.74,2023-01-31,Canada,FINC
+Alexis Whitehead,Hotel,Card,1482.91,93.27,1576.18,2024-08-31,Germany,ADMN
+Brett Vasquez,Hotel,Card,386.09,15.39,401.48,2023-09-28,Australia,ENGG
+William Dunn,Meals,Card,1120.93,64.28,1185.21,2024-08-08,United States,ADMN
+Pamela Mack,Hotel,Cash,1943.05,146.65,2089.7,2023-08-08,United States,ADMN
+Jacob Camacho MD,Hotel,Card,1084.76,90.77,1175.53,2023-02-14,Australia,ADMN
+Vickie Tran,Hotel,Card,1242.22,54.05,1296.27,2023-04-27,Canada,EXEC
+Suzanne Villegas,Car,Card,1859.55,44.13,1903.68,2024-08-07,Germany,EXEC
+Tanya Cross,Meals,Cash,1680.1,77.46,1757.56,2023-04-03,United Kingdom,EXEC
+Jesse Friedman,Car,Card,1292.97,85.85,1378.82,2023-11-01,Germany,SALS
+Elizabeth Thomas,Meals,Cash,632.17,32.04,664.21,2024-10-06,India,SALS
+Sheri Rivera,Meals,Card,1917.85,43.53,1961.38,2024-08-22,Canada,ADMN
+Kelly Campbell,Air,Cash,1232.67,27.56,1260.23,2023-03-13,United States,SALS
+William Carrillo,Meals,Card,650.53,21.3,671.83,2024-07-05,United States,SALS
+Garrett Delgado,Hotel,Card,1532.51,51.57,1584.08,2024-08-03,United Kingdom,FINC
+Brandon Smith,Car,Card,622.61,57.71,680.32,2024-05-24,India,EXEC
+Cheryl Logan,Car,Cash,423.64,42.09,465.73,2024-01-13,Australia,EXEC
+William Hunt,Hotel,Card,896.75,87.86,984.61,2023-11-30,United States,EXEC
+Marisa Morton,Hotel,Card,1285.75,68.66,1354.41,2023-12-28,United States,FINC
+Michael Shields,Hotel,Card,521.47,17.16,538.63,2024-05-26,United Kingdom,ENGG
+Karen Myers,Car,Cash,462.02,43.05,505.07,2023-03-08,United States,ADMN
+Lori Parsons,Car,Card,1582.34,32.07,1614.41,2024-03-26,Canada,ENGG
+Terri Allen,Hotel,Card,329.84,24.44,354.28,2023-11-25,United Kingdom,SALS
+Terry Shea,Air,Card,1208.75,71.46,1280.21,2023-04-27,United States,ADMN
+Rebecca Cardenas,Hotel,Cash,207.3,5.62,212.92,2024-09-18,Canada,SALS
+Daniel Mooney,Meals,Cash,1601.49,68.8,1670.29,2023-05-24,United Kingdom,SALS
+Beth White,Car,Card,1729.35,127.74,1857.09,2023-01-27,India,FINC
+Brian Santos,Car,Card,1687.64,78.25,1765.89,2023-10-08,United Kingdom,EXEC
+Scott Johnson,Car,Cash,73.49,1.93,75.42,2023-09-14,United Kingdom,ENGG
+Jessica Hernandez,Meals,Card,191.64,9.52,201.16,2023-06-04,United States,EXEC
+Tyler Johnson,Air,Cash,1101.51,107.67,1209.18,2024-12-01,United Kingdom,ENGG
+Danielle Taylor,Meals,Card,1082.71,24.04,1106.75,2023-08-31,Germany,ENGG
+Lisa Griffin,Car,Card,857.57,82.66,940.23,2023-02-17,Germany,ADMN
+Penny Cervantes,Meals,Cash,513.78,15.74,529.52,2023-02-23,United States,EXEC
+Jonathan Velez,Meals,Cash,1072.86,35.51,1108.37,2024-03-03,India,ADMN
+Cynthia Fowler,Car,Card,1898.77,145.77,2044.54,2024-02-01,Germany,ADMN
+Sharon Smith,Air,Card,1207.11,51.34,1258.45,2024-07-18,United Kingdom,ADMN
+Dean Peters,Air,Card,1229.31,99.25,1328.56,2023-05-22,Australia,FINC
+Rebecca West,Hotel,Card,1824.14,130.4,1954.54,2024-10-13,Germany,ENGG
+Kathleen Joseph,Meals,Card,1456.91,56.56,1513.47,2023-04-30,Canada,EXEC
+Kevin Keith,Air,Cash,1072.68,103.93,1176.61,2023-08-26,United States,SALS
+Joshua Jones,Meals,Cash,939.17,59.31,998.48,2023-10-22,Australia,ADMN
+Lauren White,Hotel,Cash,89.94,3.39,93.33,2024-08-08,United States,ENGG
+Judy Hernandez,Car,Card,362.31,26.55,388.86,2023-12-18,India,ENGG
+Julie Ingram,Air,Cash,1037.42,80.07,1117.49,2024-01-12,Australia,ADMN
+David Walker,Hotel,Card,1448.2,80.54,1528.74,2024-01-13,India,ENGG
+Amber Davidson,Air,Card,1451.96,72.81,1524.77,2023-08-18,Canada,EXEC
+Pam Daniels,Hotel,Card,1463.55,124.21,1587.76,2024-10-01,United States,SALS
+Joshua Cummings,Air,Card,728.61,47.74,776.35,2024-08-30,United Kingdom,EXEC
+Douglas Mckinney,Hotel,Cash,428.18,26.05,454.23,2023-08-19,Canada,ENGG
+Laura Thompson,Air,Card,1106.74,28.23,1134.97,2023-08-08,Australia,SALS
+Benjamin Hall,Hotel,Cash,336.22,31.91,368.13,2024-12-16,India,SALS
+Angel Hughes,Car,Cash,1193.18,73.51,1266.69,2023-09-05,United Kingdom,ADMN
+Tami Roman,Air,Card,1536.9,120.37,1657.27,2024-04-26,Germany,ENGG
+Brian Stewart,Air,Cash,1017.92,48.7,1066.62,2024-09-07,United States,ENGG
+Joseph Cortez,Meals,Cash,1043.54,37.27,1080.81,2023-11-29,India,ENGG
+Jason Mayo,Meals,Card,1395.2,66.93,1462.13,2023-01-03,United States,EXEC
+Jennifer Gonzalez,Air,Cash,1949.92,165.94,2115.86,2024-09-08,Germany,SALS
+Charles Vargas,Meals,Cash,723.76,36.24,760.0,2024-10-27,India,ENGG
+Steven Smith,Air,Cash,378.17,29.98,408.15,2024-10-30,Canada,SALS
+William Bowen,Hotel,Cash,907.68,55.72,963.4,2023-12-02,United Kingdom,FINC
+Anthony Ellis III,Car,Card,528.18,28.83,557.01,2023-10-10,Australia,ENGG
+Jessica Wright,Car,Cash,1803.64,71.18,1874.82,2023-11-12,United Kingdom,ADMN
+Morgan Russell,Meals,Cash,1860.97,54.78,1915.75,2024-02-16,Germany,FINC
+Kenneth White,Meals,Cash,1292.13,32.2,1324.33,2024-03-30,United States,FINC
+Antonio Fernandez,Hotel,Cash,1846.38,150.66,1997.04,2024-07-05,United States,ADMN
+Clifford Collins,Hotel,Card,674.93,22.12,697.05,2024-04-06,United States,ADMN
+James Smith,Air,Card,368.58,28.53,397.11,2023-02-02,Canada,EXEC
+Alyssa Smith,Air,Card,745.58,68.75,814.33,2024-11-11,Germany,EXEC
+William Taylor,Meals,Cash,1166.13,73.28,1239.41,2024-01-19,Germany,FINC
+Nicole Alexander,Meals,Card,980.06,66.47,1046.53,2024-10-10,India,ADMN
+Jeffrey Dyer,Air,Cash,1384.76,101.97,1486.73,2023-12-09,Canada,ENGG
+Jenna Stevens,Car,Cash,1371.25,101.15,1472.4,2023-12-01,India,EXEC
+Terry Smith,Car,Card,1850.09,115.52,1965.61,2024-06-28,United States,ENGG
+April Williams,Hotel,Cash,472.1,20.81,492.91,2023-05-17,Canada,ENGG
+John Duarte,Air,Card,1814.78,167.14,1981.92,2024-08-02,Canada,ENGG
+Christopher Ray,Car,Card,224.02,9.15,233.17,2024-02-26,Germany,EXEC
+Bonnie Harrison,Car,Cash,1695.83,122.4,1818.23,2023-02-19,United States,ENGG
+Sean Little,Air,Cash,192.43,13.8,206.23,2023-06-11,United Kingdom,EXEC
+James White,Meals,Cash,337.64,15.53,353.17,2024-11-11,India,ENGG
+Laura Ferguson,Car,Cash,1156.69,32.65,1189.34,2024-02-16,Germany,SALS
+Courtney Gomez,Air,Card,275.09,11.79,286.88,2023-12-18,Australia,FINC
+Aaron Cunningham,Meals,Cash,451.32,11.41,462.73,2023-01-13,United States,SALS
+Caitlin Rodriguez,Car,Cash,449.18,29.72,478.9,2024-04-14,United Kingdom,ADMN
+Hunter Ray,Meals,Cash,263.54,9.6,273.14,2023-10-10,United Kingdom,FINC
+Jessica Meyer,Hotel,Cash,1568.55,57.49,1626.04,2024-12-03,United Kingdom,ADMN
+Frank Elliott,Air,Cash,777.23,17.89,795.12,2023-04-13,Canada,FINC
+Desiree Khan,Meals,Cash,1378.04,109.34,1487.38,2024-01-30,Australia,SALS
+Donald Johnson,Car,Card,235.89,17.91,253.8,2023-02-21,Australia,ADMN
+William Harrison,Hotel,Cash,1154.44,62.49,1216.93,2023-06-27,United Kingdom,SALS
+John Norman,Hotel,Card,1724.65,123.77,1848.42,2023-10-28,United States,EXEC
+Nicholas Stevens,Car,Card,166.04,13.25,179.29,2024-04-27,Australia,FINC
+Amber Mccoy,Air,Cash,666.32,27.03,693.35,2023-10-20,Germany,SALS
+Lisa Davis,Air,Card,1106.77,66.84,1173.61,2024-09-14,United Kingdom,FINC
+Dustin Young,Hotel,Card,1639.03,53.96,1692.99,2024-03-29,United Kingdom,EXEC
+Lindsey Fisher,Car,Cash,985.38,74.87,1060.25,2024-04-06,Canada,EXEC
+Austin Davis,Car,Cash,102.96,8.43,111.39,2024-02-22,Australia,FINC
+Brianna Mcdonald,Hotel,Cash,1214.65,72.88,1287.53,2023-10-19,United Kingdom,ADMN
+Kenneth Foley,Air,Cash,1478.57,98.8,1577.37,2023-01-09,Germany,FINC
+Michael Colon,Meals,Cash,452.31,44.05,496.36,2024-11-16,United States,SALS
+Darrell Cox,Meals,Cash,646.99,32.55,679.54,2024-08-12,Australia,ENGG
+George Wilson,Car,Cash,705.86,64.17,770.03,2023-06-10,United States,ADMN
+Rebecca Sanchez,Hotel,Card,828.68,29.82,858.5,2023-01-16,United States,FINC
+Monica Reid,Car,Card,221.86,20.78,242.64,2024-11-30,India,SALS
+Mary Reid MD,Air,Cash,645.43,57.1,702.53,2024-07-14,United States,EXEC
+Louis Kelly,Meals,Card,288.23,12.84,301.07,2023-03-27,United States,SALS
+Rose Davidson,Car,Cash,1302.4,56.84,1359.24,2023-06-23,Germany,FINC
+Robert Mills,Car,Card,1201.47,113.94,1315.41,2024-03-30,United Kingdom,EXEC
+Brian Williams,Hotel,Card,1463.47,79.47,1542.94,2024-04-16,Germany,ADMN
+Stephanie Rodriguez,Hotel,Cash,1985.48,106.93,2092.41,2023-07-23,Germany,SALS
+Joseph Mueller,Meals,Cash,1472.29,41.78,1514.07,2023-08-10,United Kingdom,ADMN
+Patricia Davis,Air,Cash,765.05,37.22,802.27,2023-03-28,United States,SALS
+Ronald Liu,Air,Card,1961.89,164.8,2126.69,2024-07-06,United States,ENGG
+Becky Leonard,Air,Card,163.62,3.86,167.48,2023-08-22,United Kingdom,FINC
+Dana Rivera,Air,Cash,1022.72,36.99,1059.71,2024-01-29,Australia,SALS
+Mark Silva,Hotel,Card,354.96,32.15,387.11,2023-08-12,United States,FINC
+Jeffrey Burns,Hotel,Cash,75.17,5.77,80.94,2023-08-15,United Kingdom,SALS
+Edwin Lowe,Car,Cash,838.35,24.11,862.46,2024-02-29,United Kingdom,ENGG
+Kyle Cochran,Meals,Cash,1243.45,69.45,1312.9,2024-09-18,Australia,ADMN
+David Peterson,Car,Cash,1140.08,95.99,1236.07,2023-06-17,Canada,EXEC
+Monica Brennan,Car,Card,244.36,10.19,254.55,2023-09-21,United States,SALS
+Eduardo White,Hotel,Cash,1994.73,187.84,2182.57,2023-11-20,United Kingdom,ENGG
+Colleen Bass,Hotel,Card,596.91,14.56,611.47,2024-02-11,Australia,SALS
+Marcia Goodman,Air,Cash,313.17,22.74,335.91,2023-03-05,United Kingdom,SALS
+Jeffrey Wells,Hotel,Card,1180.63,25.5,1206.13,2023-09-21,United Kingdom,SALS
+Philip Garza,Air,Card,1481.0,123.78,1604.78,2023-08-27,United States,FINC
+Kimberly Burnett DDS,Hotel,Card,793.9,36.66,830.56,2023-04-30,India,FINC
+Angela Calderon,Hotel,Card,436.21,38.41,474.62,2024-08-15,United Kingdom,EXEC
+David King,Hotel,Cash,1948.78,144.8,2093.58,2023-01-28,India,ENGG
+Joseph Miller,Meals,Card,1267.81,63.59,1331.4,2024-07-25,India,FINC
+Laura Donovan,Meals,Cash,578.46,45.41,623.87,2023-12-07,Australia,ADMN
+Dennis Avery,Hotel,Cash,666.42,53.1,719.52,2024-02-13,United Kingdom,FINC
+Dr. Raymond Reed MD,Hotel,Cash,1288.1,33.06,1321.16,2024-11-23,India,SALS
+Kim Ross,Hotel,Card,956.06,31.12,987.18,2024-06-27,United Kingdom,ADMN
+Rebecca Cervantes,Car,Cash,515.13,51.26,566.39,2023-06-07,United Kingdom,SALS
+Billy Roy,Air,Card,535.04,33.2,568.24,2024-09-10,Canada,ENGG
+Steven Lucas,Air,Card,547.83,21.9,569.73,2023-06-17,Germany,SALS
+Maria Allen,Air,Card,1668.14,61.91,1730.05,2023-05-23,United Kingdom,EXEC
+William Thompson,Car,Cash,1516.63,99.07,1615.7,2024-12-01,India,FINC
+Jennifer Carter,Car,Cash,283.35,20.45,303.8,2024-08-04,United Kingdom,FINC
+Cory Edwards,Car,Cash,249.69,20.64,270.33,2024-06-04,India,ADMN
+Dr. Edward Jackson Jr.,Hotel,Card,1748.08,144.13,1892.21,2023-10-15,Canada,SALS
+Elizabeth Miller,Air,Cash,351.61,27.34,378.95,2023-04-01,Germany,FINC
+Sydney Lee,Car,Cash,1859.08,100.71,1959.79,2024-08-18,Canada,FINC
+Megan Mathis,Car,Card,376.6,21.2,397.8,2023-01-07,India,EXEC
+Taylor Martinez,Meals,Card,779.14,17.25,796.39,2023-03-07,Australia,SALS
+Brooke Larsen,Hotel,Cash,1998.75,171.21,2169.96,2023-06-23,Germany,SALS
+Daniel Wiley,Hotel,Cash,721.34,20.33,741.67,2024-02-13,India,ADMN
+Robert Mosley,Hotel,Cash,1990.61,121.07,2111.68,2023-03-02,India,EXEC
+Connie Sweeney,Air,Cash,1836.28,168.98,2005.26,2023-03-27,United Kingdom,EXEC
+Michelle Arroyo,Car,Cash,1447.17,63.34,1510.51,2024-04-10,Germany,ENGG
+Brian Ross,Meals,Card,316.58,15.98,332.56,2024-04-05,India,ENGG
+Justin Miles,Hotel,Cash,857.74,62.19,919.93,2023-08-15,United States,SALS
+Gregory Ford,Car,Cash,1885.99,172.72,2058.71,2024-02-28,United States,SALS
+Adam Thornton,Air,Cash,1641.63,74.7,1716.33,2024-08-27,United States,ENGG
+Walter Miller,Meals,Cash,583.47,16.97,600.44,2024-09-20,India,ENGG
+David Short,Hotel,Cash,392.36,10.86,403.22,2024-06-09,United Kingdom,ADMN
+Linda Perez,Meals,Card,1924.38,100.81,2025.19,2023-04-19,Germany,ENGG
+Anthony Allison,Car,Cash,445.62,35.49,481.11,2023-08-04,Australia,ADMN
+Tammie Johnson,Car,Card,900.14,61.99,962.13,2023-09-05,Germany,ENGG
+Samantha Wilkinson,Air,Card,1432.08,68.19,1500.27,2024-10-10,India,SALS
+Jeremiah Chen,Car,Card,453.41,31.56,484.97,2023-07-16,United States,FINC
+Nicole Murray PhD,Car,Card,638.79,20.44,659.23,2024-05-31,India,ENGG
+Brandi Smith,Hotel,Card,651.95,58.55,710.5,2024-05-31,United States,EXEC
+Christopher Banks MD,Air,Cash,1094.96,26.42,1121.38,2023-08-02,Australia,FINC
+Bruce Rodriguez,Meals,Cash,1294.23,111.69,1405.92,2024-03-08,Australia,SALS
+Emily Chambers,Car,Card,911.98,84.18,996.16,2024-11-20,Canada,ENGG
+Monica Sullivan,Car,Cash,1611.56,121.61,1733.17,2023-08-16,India,ADMN
+Amy Young,Air,Cash,1844.71,131.29,1976.0,2023-01-28,Canada,FINC
+Donald Lewis,Air,Card,1948.09,170.13,2118.22,2024-03-03,United States,ENGG
+Mary Jones DDS,Hotel,Cash,1869.3,140.39,2009.69,2023-08-10,Germany,FINC
+Sheila Mccarthy,Hotel,Card,1101.32,60.67,1161.99,2024-12-05,United States,SALS
+Melissa Mann,Car,Card,592.83,19.45,612.28,2023-11-15,Australia,SALS
+Cheryl Thompson,Car,Cash,1405.17,39.39,1444.56,2023-07-14,United Kingdom,EXEC
+Anthony Beasley,Hotel,Card,407.18,35.76,442.94,2024-04-19,Germany,ADMN
+Daniel Jones,Meals,Card,345.74,29.41,375.15,2023-12-20,Australia,ENGG
+Brandon Schwartz,Car,Cash,542.19,32.28,574.47,2023-06-09,Canada,EXEC
+Amanda Anthony,Hotel,Cash,1972.73,95.26,2067.99,2023-05-28,Australia,ENGG
+Ryan Curry,Meals,Cash,954.18,33.94,988.12,2023-12-18,United Kingdom,EXEC
+Michele Joseph,Car,Cash,1847.81,113.91,1961.72,2024-07-02,Australia,EXEC
+Charles Harris,Air,Card,1040.36,22.37,1062.73,2024-04-16,United States,ADMN
+Sarah Martin,Meals,Card,859.52,27.16,886.68,2023-11-08,United States,ADMN
+Harry Guerra,Hotel,Card,1915.2,185.6,2100.8,2023-02-25,India,FINC
+Christopher Jenkins,Hotel,Cash,653.28,19.42,672.7,2024-03-30,India,ENGG
+Gerald Rogers,Car,Cash,1408.73,113.74,1522.47,2024-10-27,United States,FINC
+Matthew Harrington,Car,Card,1100.29,53.07,1153.36,2024-02-04,Australia,EXEC
+Stephanie Allen PhD,Meals,Card,79.01,2.2,81.21,2023-06-25,Australia,SALS
+Jonathan Ross,Hotel,Cash,183.91,14.77,198.68,2024-08-05,India,ADMN
+Christopher Webb,Air,Cash,901.96,24.66,926.62,2023-11-15,Australia,ADMN
+Jessica Thomas,Meals,Card,615.19,38.68,653.87,2023-02-24,United States,ADMN
+James Clark,Hotel,Card,1793.3,45.34,1838.64,2024-01-02,Australia,ADMN
+Michael Fox,Car,Card,1579.63,76.37,1656.0,2023-08-23,India,FINC
+Cindy Bender,Air,Card,210.72,11.67,222.39,2023-09-09,Germany,ENGG
+Jessica Pacheco,Car,Cash,619.79,52.73,672.52,2023-11-13,Canada,EXEC
+Rebekah Carroll,Car,Cash,1743.06,40.83,1783.89,2023-06-10,Germany,ENGG
+Tanner Duncan,Hotel,Card,224.13,19.65,243.78,2024-08-29,United States,EXEC
+Joseph Lee,Meals,Cash,1304.65,106.04,1410.69,2024-09-02,Australia,EXEC
+Wendy Contreras,Meals,Cash,1639.51,160.35,1799.86,2024-07-01,United Kingdom,ENGG
+Jessica Robertson,Air,Card,844.23,75.38,919.61,2024-11-01,Germany,SALS
+Lauren Diaz,Meals,Cash,1531.38,82.67,1614.05,2024-07-02,Canada,ADMN
+Craig Phillips,Car,Card,1443.09,57.51,1500.6,2023-02-18,India,EXEC
+Patty Taylor,Air,Card,804.5,20.71,825.21,2023-12-04,United States,ADMN
+Benjamin Sandoval,Meals,Cash,130.58,6.33,136.91,2023-12-08,United Kingdom,SALS
+Kevin Bailey,Hotel,Card,1704.16,126.83,1830.99,2024-10-05,United States,ADMN
+Catherine Rivers DVM,Meals,Cash,1220.69,97.63,1318.32,2024-02-18,Australia,EXEC
+Barbara Jones,Car,Card,275.09,11.58,286.67,2023-12-22,India,ADMN
+Steven Whitehead,Car,Card,463.6,31.03,494.63,2024-11-22,Australia,SALS
+Ashlee Jones,Hotel,Cash,1447.88,66.01,1513.89,2023-06-05,United States,SALS
+Jonathan Mack,Hotel,Card,1188.89,40.25,1229.14,2024-01-18,Canada,EXEC
+Rebecca Lewis,Hotel,Card,54.52,5.37,59.89,2024-10-04,United States,SALS
+Franklin Fields,Meals,Cash,1839.75,100.95,1940.7,2024-05-22,Australia,FINC
+Mr. Eric Sherman,Car,Card,307.11,26.58,333.69,2024-11-27,Germany,FINC
+Melissa Arroyo,Car,Cash,1353.88,83.38,1437.26,2023-07-14,Germany,EXEC
+Christopher Allen,Meals,Card,1122.77,60.92,1183.69,2023-08-02,Germany,ENGG
+Ellen Diaz,Hotel,Cash,492.69,18.22,510.91,2023-11-20,United Kingdom,ENGG
+Tracey Torres,Meals,Card,1747.52,140.88,1888.4,2023-04-11,United Kingdom,SALS
+Gregory Kelly,Hotel,Cash,312.55,26.19,338.74,2024-08-12,United Kingdom,ADMN
+Cynthia Thompson,Hotel,Card,1992.03,55.93,2047.96,2023-06-12,United States,FINC
+Kenneth Phillips,Meals,Card,537.61,49.91,587.52,2023-04-04,India,FINC
+Lori Benson,Hotel,Card,654.43,64.58,719.01,2023-11-02,Australia,ADMN
+Amanda Wright,Car,Card,491.87,48.46,540.33,2024-07-19,India,SALS
+Matthew Suarez,Hotel,Card,947.05,77.3,1024.35,2023-11-17,India,FINC
+Travis Smith,Hotel,Cash,355.92,15.76,371.68,2024-10-15,United Kingdom,ENGG
+Scott Hernandez,Air,Cash,1071.16,93.65,1164.81,2024-12-19,India,FINC
+Sharon Reid,Meals,Card,1996.3,77.91,2074.21,2024-09-01,United States,EXEC
+Mark Dominguez,Hotel,Card,1945.25,53.26,1998.51,2023-07-08,Canada,FINC
+John Ortiz,Air,Card,1001.71,39.84,1041.55,2023-05-06,Australia,FINC
+Megan Stephens,Air,Card,1629.43,53.51,1682.94,2023-07-23,Australia,ADMN
+John Proctor,Car,Card,914.06,68.38,982.44,2024-09-26,Canada,EXEC
+Gregory Smith,Meals,Card,571.42,51.05,622.47,2023-12-22,India,EXEC
+Sara Cummings,Air,Cash,1187.72,104.2,1291.92,2023-09-15,Australia,FINC
+Kylie Howard,Hotel,Card,345.91,16.99,362.9,2024-01-14,United States,ADMN
+Crystal Orr,Car,Card,477.69,15.14,492.83,2024-04-28,Canada,ENGG
+Lisa Bell,Car,Cash,1666.5,70.58,1737.08,2023-08-09,Canada,ADMN
+Danielle Vasquez,Air,Card,1183.94,32.51,1216.45,2023-09-05,United States,EXEC
+Johnathan White,Hotel,Card,1048.33,103.37,1151.7,2024-06-03,United Kingdom,EXEC
+Shari Roth,Meals,Card,1450.96,33.77,1484.73,2023-06-14,Canada,EXEC
+Tiffany Baker,Air,Card,652.07,56.34,708.41,2024-11-17,United Kingdom,SALS
+Joan Short,Meals,Cash,476.79,15.43,492.22,2023-12-18,Australia,ADMN
+Craig Gonzalez,Meals,Cash,335.99,20.11,356.1,2023-02-02,Australia,ADMN
+Brian Lyons,Hotel,Card,538.63,30.97,569.6,2024-08-26,Germany,ENGG
+Blake Kaufman,Meals,Cash,766.99,54.93,821.92,2023-05-21,Germany,ENGG
+Kaitlin Armstrong,Air,Cash,1441.75,122.55,1564.3,2023-11-15,Australia,EXEC
+Joshua Smith,Car,Cash,1344.5,39.15,1383.65,2023-08-27,Canada,SALS
+Timothy Ashley,Hotel,Card,826.36,36.04,862.4,2023-11-04,United States,FINC
+Danielle Reed,Car,Cash,376.1,33.35,409.45,2024-09-29,United Kingdom,EXEC
+Matthew Tapia,Hotel,Cash,446.38,44.3,490.68,2023-03-08,United Kingdom,ADMN
+Anthony Stanton,Meals,Cash,1261.97,28.06,1290.03,2023-12-14,Australia,ADMN
+Susan Obrien,Air,Cash,696.14,45.52,741.66,2023-11-04,United States,ADMN
+Evan Bell,Meals,Card,1689.05,103.15,1792.2,2023-01-12,India,FINC
+Carla Frazier,Air,Card,332.18,27.82,360.0,2024-03-03,United States,ADMN
+Stephen Griffin,Air,Card,1334.22,34.6,1368.82,2023-08-30,Australia,SALS
+Wanda Miller,Meals,Card,468.74,17.9,486.64,2024-06-30,United Kingdom,EXEC
+Ryan Castillo,Air,Card,607.99,20.52,628.51,2024-10-07,United States,EXEC
+Kevin Hall,Meals,Card,401.99,13.23,415.22,2024-08-13,India,FINC
+Lauren Davis,Air,Card,1159.8,48.45,1208.25,2024-09-21,United States,EXEC
+Jeffrey Burns,Meals,Card,143.17,11.64,154.81,2023-08-06,India,ADMN
+Daniel Russell,Meals,Cash,1426.17,85.3,1511.47,2023-07-14,United States,EXEC
+Bryan Rogers,Hotel,Card,980.31,74.1,1054.41,2024-02-20,Germany,EXEC
+Anita Smith,Hotel,Cash,749.68,51.02,800.7,2024-03-28,Australia,FINC
+Casey Thomas,Meals,Card,271.74,23.28,295.02,2024-11-08,United Kingdom,ADMN
+Sandra Bruce,Air,Cash,1530.18,124.02,1654.2,2023-07-02,India,ADMN
+Kayla Lewis,Meals,Cash,1810.96,127.87,1938.83,2023-08-09,Canada,FINC
+Tony Medina,Air,Cash,1544.58,73.4,1617.98,2023-04-16,Germany,ENGG
+Leslie Kirk,Car,Card,812.44,74.91,887.35,2024-07-11,United Kingdom,FINC
+Kristen Holland,Air,Card,1630.1,68.2,1698.3,2023-10-23,Australia,FINC
+Jimmy Pennington,Air,Card,706.41,53.45,759.86,2023-02-22,United States,FINC
+Amanda Chandler,Car,Cash,592.39,35.26,627.65,2024-07-10,United States,SALS
+Russell Schaefer,Hotel,Cash,719.37,42.03,761.4,2024-12-16,United States,EXEC
+Alexandria Escobar,Hotel,Card,293.91,15.41,309.32,2023-06-21,Australia,ADMN
+Edward Cox,Meals,Card,1293.3,112.87,1406.17,2024-07-30,United Kingdom,FINC
+Nicole Thornton,Meals,Card,222.47,17.68,240.15,2024-09-14,United States,EXEC
+Emily Garcia,Hotel,Card,862.6,49.46,912.06,2023-03-16,Australia,SALS
+Desiree Mitchell,Hotel,Cash,1899.02,167.76,2066.78,2023-05-31,United Kingdom,ADMN
+Christopher Williams,Meals,Card,131.73,10.56,142.29,2023-01-10,United Kingdom,EXEC
+Robert Williams DDS,Meals,Card,1504.68,83.66,1588.34,2023-01-11,United Kingdom,EXEC
+Melissa Leblanc,Meals,Cash,399.27,28.57,427.84,2023-07-13,India,SALS
+Jose Taylor,Car,Cash,1869.02,49.71,1918.73,2024-11-03,United States,ENGG
+Jordan Diaz,Air,Card,1523.91,111.78,1635.69,2024-11-05,Germany,ADMN
+Eric Casey,Meals,Cash,682.22,42.42,724.64,2023-03-10,United States,FINC
+Matthew Raymond,Meals,Cash,792.71,41.33,834.04,2023-09-17,United States,FINC
+Ashley Jensen,Air,Cash,1578.64,63.41,1642.05,2023-03-10,United States,FINC
+Kelly Rodriguez,Hotel,Cash,703.96,34.03,737.99,2023-12-21,India,ADMN
+Ronald Shepherd,Hotel,Cash,1675.32,35.55,1710.87,2023-03-26,Germany,EXEC
+Larry Wagner,Car,Cash,994.91,47.47,1042.38,2023-07-08,Australia,FINC
+Timothy Ramos,Meals,Cash,1892.53,129.95,2022.48,2024-02-08,United Kingdom,EXEC
+Jason Sullivan,Car,Card,658.61,65.65,724.26,2024-02-05,Australia,EXEC
+Whitney Cantu,Car,Cash,1873.14,94.01,1967.15,2023-10-25,Australia,FINC
+Kelsey Friedman,Hotel,Cash,1880.53,68.69,1949.22,2024-07-08,Canada,FINC
+Brandon Williams,Car,Card,1511.19,150.5,1661.69,2024-03-27,United Kingdom,SALS
+Thomas Dennis,Meals,Cash,1706.86,89.84,1796.7,2024-07-31,Canada,FINC
+Hannah Novak,Air,Card,1246.21,66.81,1313.02,2024-01-05,India,FINC
+Ashley Torres,Air,Card,126.62,3.49,130.11,2024-08-06,Canada,FINC
+Larry Flynn,Meals,Card,1255.5,122.72,1378.22,2024-08-13,United Kingdom,ADMN
+Jeffrey Summers,Hotel,Cash,1316.57,34.62,1351.19,2023-03-30,India,SALS
+Sheena Peterson,Car,Card,1744.9,36.41,1781.31,2024-02-11,India,ADMN
+Casey Kidd,Air,Card,1220.05,43.74,1263.79,2023-12-08,United Kingdom,SALS
+Karen Brown,Car,Card,248.05,7.35,255.4,2023-11-21,Canada,SALS
+Jeffrey Wilson,Air,Cash,455.54,43.13,498.67,2024-12-21,Australia,ENGG
+Lisa Stout,Car,Card,972.99,81.28,1054.27,2024-05-24,Germany,FINC
+Angela Hernandez,Hotel,Cash,1802.7,164.97,1967.67,2023-04-02,United Kingdom,ENGG
+Jerry Ford,Air,Card,155.81,7.19,163.0,2023-05-04,United Kingdom,FINC
+Christopher King,Car,Cash,1968.18,129.97,2098.15,2024-04-12,United States,EXEC
+Linda Walker,Air,Card,784.78,50.46,835.24,2023-11-29,United Kingdom,ENGG
+Stephanie Smith,Meals,Card,1335.72,61.92,1397.64,2023-01-29,India,FINC
+Hannah Gonzales,Air,Cash,1460.58,119.96,1580.54,2023-04-08,Canada,EXEC
+Nancy Taylor,Air,Cash,1261.94,87.72,1349.66,2024-04-17,India,FINC
+Shaun Carey,Meals,Cash,728.28,35.03,763.31,2024-03-15,United Kingdom,ENGG
+Michael Cook,Meals,Cash,1538.38,130.71,1669.09,2023-02-11,United Kingdom,FINC
+Robert Schwartz,Car,Cash,812.48,23.92,836.4,2024-02-01,Australia,ADMN
+Jeanette Baker,Air,Cash,1186.01,69.69,1255.7,2024-03-08,Germany,FINC
+Rachel Molina,Car,Card,728.91,18.63,747.54,2024-05-09,Australia,EXEC
+Arthur Russo,Car,Cash,1559.72,67.33,1627.05,2024-06-15,United States,ENGG
+Brooke Aguilar PhD,Hotel,Cash,612.45,16.84,629.29,2024-10-03,United Kingdom,ENGG
+Jeremy Cohen,Meals,Cash,645.45,12.98,658.43,2023-04-23,India,SALS
+Gregory Moran,Hotel,Cash,557.05,48.65,605.7,2023-11-21,Australia,ADMN
+Lawrence Oneal,Meals,Card,662.04,39.28,701.32,2023-07-09,India,FINC
+Scott Gross,Hotel,Card,1335.35,93.23,1428.58,2024-01-30,United States,EXEC
+Arthur Johnson,Car,Card,1932.16,158.88,2091.04,2024-08-31,Australia,ENGG
+Curtis Ware,Hotel,Cash,1167.38,97.76,1265.14,2023-06-16,United States,ADMN
+Andrew Becker,Meals,Card,290.53,8.26,298.79,2024-12-24,India,EXEC
+Lawrence Hernandez,Meals,Card,1597.72,155.09,1752.81,2024-03-19,Canada,ADMN
+Ryan Contreras,Hotel,Card,881.9,35.38,917.28,2023-04-15,Germany,EXEC
+Christine Martin,Air,Card,1552.85,118.56,1671.41,2024-11-26,Australia,SALS
+Aimee Garcia,Meals,Cash,1789.68,104.95,1894.63,2023-10-01,Canada,EXEC
+Larry Perez,Car,Cash,1103.16,22.63,1125.79,2023-09-13,Germany,EXEC
+Caleb Taylor,Air,Card,110.6,7.82,118.42,2023-10-27,United States,FINC
+Dr. Hunter Harmon MD,Meals,Cash,1429.66,69.59,1499.25,2023-07-01,India,ADMN
+Jason Brown,Air,Card,1705.99,88.65,1794.64,2024-05-30,Germany,SALS
+Robert Smith,Car,Card,107.95,7.16,115.11,2023-07-19,United States,EXEC
+Nicole Griffin,Hotel,Card,1671.45,138.87,1810.32,2024-06-15,Australia,FINC
+Heather Nguyen,Hotel,Cash,1864.52,180.9,2045.42,2024-02-29,United Kingdom,ENGG
+Stephanie Arellano,Car,Card,1388.45,48.91,1437.36,2023-03-03,Australia,SALS
+Eric Griffith,Meals,Cash,617.16,28.47,645.63,2024-05-14,United Kingdom,SALS
+Cory Phillips,Meals,Cash,1324.22,132.25,1456.47,2024-04-13,United Kingdom,SALS
+Erika Sanchez,Car,Cash,559.5,49.03,608.53,2023-07-13,Australia,EXEC
+Lucas Thornton,Car,Card,174.49,8.81,183.3,2023-07-19,Australia,ENGG
+Karen Johnson,Meals,Cash,1689.33,142.17,1831.5,2023-12-22,Australia,ENGG
+Ellen Mclaughlin,Car,Cash,1448.1,108.09,1556.19,2023-08-23,United States,SALS
+Todd Molina,Air,Cash,1860.89,81.55,1942.44,2023-10-18,Germany,FINC
+Louis Hall,Hotel,Cash,77.65,4.05,81.7,2024-05-30,Germany,FINC
+Kyle Cook,Hotel,Cash,1044.72,54.76,1099.48,2023-09-13,Australia,ADMN
+Craig Brown,Car,Cash,1290.65,98.44,1389.09,2024-01-22,India,ENGG
+Heather Harris DDS,Meals,Cash,357.8,13.14,370.94,2023-07-13,Germany,FINC
+John Wilson,Air,Card,1902.52,50.18,1952.7,2023-02-23,Australia,FINC
+John Mason,Air,Card,1888.27,90.81,1979.08,2024-11-07,Canada,SALS
+Roy Davis,Air,Card,1489.75,96.68,1586.43,2023-05-18,United States,EXEC
+Barbara Nelson,Meals,Card,177.7,15.1,192.8,2023-02-25,Australia,ENGG
+Ryan Willis,Meals,Card,961.02,28.39,989.41,2024-11-15,United Kingdom,FINC
+David Schmidt,Air,Card,1472.33,52.96,1525.29,2024-01-26,Germany,ADMN
+Christian Freeman,Hotel,Cash,1125.56,74.82,1200.38,2023-04-02,United Kingdom,EXEC
+Edgar Lopez,Air,Cash,1936.9,122.5,2059.4,2023-06-18,United States,SALS
+Veronica Ellis,Air,Card,1102.7,81.75,1184.45,2023-11-16,India,EXEC
+Christopher Fritz,Meals,Cash,1649.78,47.79,1697.57,2024-05-17,United States,ADMN
+Kelly Conrad,Hotel,Cash,978.18,86.68,1064.86,2024-11-03,Canada,FINC
+Wayne Gomez,Hotel,Card,815.43,51.21,866.64,2023-02-18,Germany,ENGG
+Stephanie Stein,Hotel,Card,836.41,83.64,920.05,2024-10-17,Canada,ADMN
+John Hodges,Hotel,Card,1305.92,85.21,1391.13,2023-05-29,Canada,SALS
+Dr. Lisa Wells,Hotel,Cash,1336.39,92.8,1429.19,2023-04-06,India,ADMN
+William Blevins,Air,Card,198.06,15.76,213.82,2024-04-24,United States,EXEC
+Clifford Carter,Car,Cash,880.14,20.75,900.89,2024-01-28,India,ENGG
+Miss Ana Mitchell,Air,Cash,1221.17,53.57,1274.74,2023-03-16,Canada,FINC
+Richard Knapp DVM,Car,Cash,326.32,23.4,349.72,2023-03-27,Canada,FINC
+Thomas Kelly,Hotel,Card,1247.62,96.71,1344.33,2024-05-22,United States,EXEC
+Susan Jackson,Meals,Card,1251.36,46.12,1297.48,2024-11-16,Canada,FINC
+Ethan Shaw,Car,Card,706.43,47.02,753.45,2023-08-07,United Kingdom,SALS
+Nancy Jackson,Car,Cash,1842.63,66.23,1908.86,2023-02-14,Australia,ENGG
+Seth Quinn,Hotel,Card,1586.84,88.65,1675.49,2023-04-29,Germany,EXEC
+Terry Schneider,Car,Cash,1296.66,124.82,1421.48,2023-03-01,Australia,FINC
+Matthew Drake,Car,Card,1331.0,132.9,1463.9,2024-06-04,Australia,ADMN
+Christine Flynn,Car,Cash,94.07,7.77,101.84,2024-12-06,Canada,FINC
+Hannah Vargas,Car,Cash,430.84,22.86,453.7,2024-12-01,Canada,SALS
+Cody Martinez,Car,Card,203.4,12.35,215.75,2024-11-07,India,SALS
+Katherine Sellers,Car,Card,1971.01,135.6,2106.61,2024-11-26,Germany,ADMN
+Eric Castro,Air,Card,1980.1,181.76,2161.86,2023-07-16,United Kingdom,ENGG
+Patricia Green,Hotel,Cash,465.97,37.83,503.8,2024-03-07,Germany,SALS
+Sierra Nelson,Car,Card,1983.02,53.99,2037.01,2024-06-04,Australia,ADMN
+Vanessa Williams,Meals,Cash,1396.81,45.07,1441.88,2024-12-15,India,FINC
+Phillip Davis,Meals,Card,1958.2,128.45,2086.65,2023-02-23,Germany,FINC
+Christina Carr,Meals,Card,395.77,35.94,431.71,2023-03-10,Germany,FINC
+Albert Ortega,Air,Card,1570.25,51.89,1622.14,2023-11-23,United Kingdom,EXEC
+David Davis,Air,Card,1981.01,50.25,2031.26,2023-08-14,India,ENGG
+Juan Barnes,Air,Cash,1808.23,107.08,1915.31,2024-01-20,India,SALS
+Jessica Pennington,Meals,Card,1888.53,83.95,1972.48,2024-07-22,Germany,ADMN
+Christopher Johnson,Air,Cash,751.97,71.68,823.65,2023-05-09,Australia,FINC
